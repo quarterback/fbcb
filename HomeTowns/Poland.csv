@@ -1,0 +1,301 @@
+City,Country,Lat,Long,Pop
+Warszawa,Poland,52.26,21.02,1676600
+Lodz,Poland,51.77,19.46,776400
+Krakow,Poland,50.06,19.96,757800
+Wroclaw,Poland,51.11,17.03,636800
+Poznan,Poland,52.4,16.9,574100
+Gdansk,Poland,54.36,18.64,462000
+Szczecin,Poland,53.43,14.53,414200
+Bydgoszcz,Poland,53.12,18.01,369500
+Lublin,Poland,51.24,22.57,358400
+Katowice,Poland,50.26,19.02,321100
+Bialystok,Poland,53.14,23.16,291300
+Gdynia,Poland,54.52,18.53,253800
+Czestochowa,Poland,50.81,19.13,249200
+Sosnowiec,Poland,50.28,19.12,229200
+Radom,Poland,51.4,21.16,228100
+Kielce,Poland,50.89,20.65,210000
+Torun,Poland,53.02,18.61,209700
+Gliwice,Poland,50.31,18.67,200700
+Zabrze,Poland,50.3,18.78,193200
+Bytom,Poland,50.35,18.91,190700
+Bielsko-biala,Poland,49.82,19.05,176900
+Olsztyn,Poland,53.78,20.49,172300
+Rzeszow,Poland,50.05,22,159000
+Ruda slaska,Poland,50.3,18.88,147800
+Rybnik,Poland,50.1,18.55,142400
+Tychy,Poland,50.16,19,132000
+Dabrowa gornicza,Poland,50.33,19.18,131100
+Walbrzych,Poland,50.78,16.28,128500
+Opole,Poland,50.68,17.94,128300
+Plock,Poland,52.55,19.7,127900
+Elblag,Poland,54.18,19.4,127800
+Gorzow wielkopolski,Poland,52.74,15.23,125000
+Wloclawek,Poland,52.66,19.06,120700
+Tarnow,Poland,50.01,20.99,118900
+Zielona gora,Poland,51.94,15.49,118300
+Chorzow,Poland,50.3,19.03,115000
+Kalisz,Poland,51.77,18.1,109100
+Koszalin,Poland,54.19,16.18,107900
+Legnica,Poland,51.21,16.16,106400
+Grudziadz,Poland,53.49,18.75,99800
+Slupsk,Poland,54.47,17.02,99300
+Jaworzno,Poland,50.21,19.27,96500
+Jastrzebie-zdroj,Poland,49.99,18.59,96200
+Jelenia gora,Poland,50.91,15.73,88100
+Nowy sacz,Poland,49.63,20.7,84600
+Konin,Poland,52.21,18.25,81700
+Piotrkow trybunalski,Poland,51.41,19.7,80400
+Lubin,Poland,51.4,16.2,77900
+Inowroclaw,Poland,52.78,18.25,77800
+Siedlce,Poland,52.17,22.28,76700
+Myslowice,Poland,50.24,19.14,75400
+Pila,Poland,53.15,16.74,75300
+Ostrowiec swietokrzyski,Poland,50.95,21.39,74600
+Siemianowice slaskie,Poland,50.33,19.05,73500
+Ostrow wielkopolski,Poland,51.66,17.8,73200
+Pabianice,Poland,51.67,19.35,71500
+Stargard szczecinski,Poland,53.34,15.02,71200
+Gniezno,Poland,52.53,17.61,70200
+Glogow,Poland,51.67,16.08,69300
+Suwalki,Poland,54.11,22.94,69000
+Chelm,Poland,51.14,23.49,68300
+Przemysl,Poland,49.79,22.78,67300
+Tomaszow mazowiecki,Poland,51.54,20.03,67300
+Stalowa wola,Poland,50.57,22.05,66800
+Zamosc,Poland,50.73,23.26,66500
+Kedzierzyn-kozle,Poland,50.34,18.21,66100
+Lomza,Poland,53.18,22.07,63800
+Leszno,Poland,51.85,16.57,63600
+Zory,Poland,50.07,18.69,63200
+Belchatow,Poland,51.37,19.36,62900
+Tarnowskie gory,Poland,50.46,18.86,61500
+Mielec,Poland,50.29,21.43,61200
+Swidnica,Poland,50.85,16.49,60700
+Piekary slaskie,Poland,50.4,18.96,60200
+Tczew,Poland,54.1,18.78,60100
+Raciborz,Poland,50.09,18.22,58800
+Bedzin,Poland,50.34,19.13,58600
+Zgierz,Poland,51.87,19.41,58100
+Biala podlaska,Poland,52.04,23.11,57800
+Swietochlowice,Poland,50.29,18.94,55900
+Elk,Poland,53.83,22.36,55500
+Pruszkow,Poland,52.22,20.82,54700
+Ostroleka,Poland,53.09,21.57,54000
+Starachowice,Poland,51.06,21.07,54000
+Zawiercie,Poland,50.49,19.42,53500
+Legionowo,Poland,52.41,20.92,50700
+Tarnobrzeg,Poland,50.59,21.68,50300
+Pulawy,Poland,51.43,21.98,50100
+Skarzysko-kamienna,Poland,51.12,20.88,49800
+Wodzislaw slaski,Poland,50.04,18.4,49600
+Radomsko,Poland,51.07,19.44,49400
+Skierniewice,Poland,51.96,20.14,48800
+Starogard gdanski,Poland,53.97,18.52,48600
+Kutno,Poland,52.24,19.36,48400
+Krosno,Poland,49.7,21.76,47900
+Nysa,Poland,50.48,17.34,47900
+Debica,Poland,50.06,21.42,47400
+Ciechanow,Poland,52.88,20.62,46500
+Zdunska wola,Poland,51.61,18.94,44700
+Kolobrzeg,Poland,54.19,15.57,44600
+Sieradz,Poland,51.6,18.74,44500
+Wejherowo,Poland,54.6,18.23,44500
+Rumia,Poland,54.59,18.37,44400
+Otwock,Poland,52.11,21.28,42700
+Oswiecim,Poland,50.04,19.26,41600
+Zyrardow,Poland,52.06,20.45,41400
+Swinoujscie,Poland,53.91,14.25,41300
+Boleslawiec,Poland,51.26,15.56,41000
+Sopot,Poland,54.44,18.56,40900
+Nowa sol,Poland,51.81,15.71,40700
+Chrzanow,Poland,50.14,19.4,40400
+Jaroslaw,Poland,50.02,22.68,40100
+Swidnik,Poland,51.22,22.79,40100
+Knurow,Poland,50.22,18.67,40000
+Sanok,Poland,49.57,22.21,39800
+Chojnice,Poland,53.7,17.57,39500
+Zary,Poland,51.65,15.13,39000
+Szczecinek,Poland,53.71,16.69,38800
+Malbork,Poland,54.04,19.04,38600
+Brzeg,Poland,50.85,17.47,38500
+Mikolow,Poland,50.23,18.97,38300
+Sochaczew,Poland,52.23,20.23,38300
+Olkusz,Poland,50.28,19.55,38000
+Jaslo,Poland,49.74,21.47,37800
+Kwidzyn,Poland,53.74,18.93,37600
+Olesnica,Poland,51.21,17.38,37100
+Minsk mazowiecki,Poland,52.18,21.56,36700
+Wolomin,Poland,52.34,21.23,36600
+Krasnik,Poland,50.93,22.22,36200
+Cieszyn,Poland,49.75,18.63,36000
+Lebork,Poland,54.55,17.75,35200
+Dzierzoniow,Poland,50.73,16.65,35100
+Czechowice-dziedzice,Poland,49.91,19.02,34800
+Piaseczno,Poland,52.07,21.02,34800
+Czeladz,Poland,50.32,19.13,34500
+Police,Poland,53.55,14.56,34400
+Ostroda,Poland,53.71,19.96,33600
+Nowy targ,Poland,49.49,20.03,33500
+Zgorzelec,Poland,51.15,15.01,33500
+Myszkow,Poland,50.58,19.32,33200
+Ilawa,Poland,53.59,19.56,32500
+Zywiec,Poland,49.87,19.18,31900
+Bielawa,Poland,50.69,16.61,31300
+Olawa,Poland,50.94,17.3,31100
+Lukow,Poland,51.94,22.39,30600
+Lowicz,Poland,52.11,19.93,30500
+Srem,Poland,52.09,17.01,30400
+Gizycko,Poland,54.04,21.76,29900
+Augustow,Poland,53.84,23,29700
+Turek,Poland,52.02,18.48,29700
+Mlawa,Poland,53.12,20.36,29400
+Bochnia,Poland,49.98,20.43,29300
+Krotoszyn,Poland,51.7,17.43,29300
+Czerwionka-leszczyny,Poland,50.17,18.68,28800
+Gorlice,Poland,49.67,21.16,28800
+Klodzko,Poland,50.44,16.66,28800
+Swarzedz,Poland,52.41,17.07,28800
+Wrzesnia,Poland,52.32,17.58,28700
+Ketrzyn,Poland,54.08,21.37,28400
+Zakopane,Poland,49.29,19.96,27900
+Nowy dwor mazowiecki,Poland,52.43,20.71,27500
+Brodnica,Poland,53.26,19.4,27300
+Bielsk podlaski,Poland,52.78,23.29,26900
+Bilgoraj,Poland,50.54,22.73,26700
+Wyszkow,Poland,52.6,21.45,26600
+Zagan,Poland,51.62,15.3,26500
+Grodzisk mazowiecki,Poland,52.11,20.62,26300
+Kluczbork,Poland,50.98,18.21,26200
+Szczytno,Poland,53.56,20.99,26200
+Walcz,Poland,53.27,16.47,26200
+Swiecie,Poland,53.4,18.44,25900
+Jarocin,Poland,51.98,17.5,25800
+Bartoszyce,Poland,54.25,20.81,25700
+Lubon,Poland,52.34,16.87,25700
+Pszczyna,Poland,49.98,18.95,25500
+Sandomierz,Poland,50.69,21.74,25300
+Nowa ruda,Poland,50.59,16.5,24900
+Jawor,Poland,51.06,16.2,24500
+Wielun,Poland,51.22,18.57,24500
+Bialogard,Poland,54.01,15.98,24400
+Wagrowiec,Poland,52.81,17.2,24400
+Lubliniec,Poland,50.67,18.69,24300
+Koscian,Poland,52.09,16.64,24100
+Skawina,Poland,49.98,19.83,23800
+Kolo,Poland,52.2,18.64,23500
+Piastow,Poland,52.21,20.92,23400
+Prudnik,Poland,50.33,17.57,23400
+Swiebodzice,Poland,50.86,16.33,23400
+Koscierzyna,Poland,54.13,17.97,23300
+Pruszcz gdanski,Poland,50.33,17.57,23200
+Lubartow,Poland,51.46,22.61,23000
+Zambrow,Poland,52.98,22.24,22900
+Grajewo,Poland,53.65,22.44,22800
+Zabki,Poland,52.29,21.11,22700
+Opoczno,Poland,51.38,20.28,22600
+Ostrow mazowiecka,Poland,52.8,21.9,22600
+Goleniow,Poland,53.57,14.82,22500
+Luban,Poland,51.12,15.28,22500
+Hajnowka,Poland,52.73,23.58,22300
+Marki,Poland,52.33,21.11,22200
+Plonsk,Poland,52.63,20.38,22200
+Andrychow,Poland,49.86,19.34,22100
+Laziska gorne,Poland,50.17,18.78,22000
+Mragowo,Poland,53.88,21.3,22000
+Leczna,Poland,51.31,22.87,21900
+Rydultowy,Poland,50.07,18.43,21900
+Kamienna gora,Poland,50.79,16.03,21800
+Swiebodzin,Poland,52.26,15.53,21800
+Polkowice,Poland,51.5,16.05,21700
+Sroda wielkopolska,Poland,52.22,17.27,21700
+Gryfino,Poland,53.23,14.48,21500
+Rawicz,Poland,51.61,16.86,21400
+Dzialdowo,Poland,53.23,20.18,21000
+Konskie,Poland,51.2,20.4,21000
+Ozorkow,Poland,51.97,19.29,20800
+Gostyn,Poland,51.88,17,20700
+Chelmno,Poland,53.35,18.43,20600
+Strzelce opolskie,Poland,50.52,18.3,20400
+Aleksandrow lodzki,Poland,51.82,19.3,20200
+Pionki,Poland,51.49,21.46,20200
+Tomaszow lubelski,Poland,50.46,23.42,20200
+Bierun,Poland,50.1,19.1,19800
+Chodziez,Poland,52.99,16.91,19800
+Krasnystaw,Poland,50.99,23.18,19600
+Naklo nad notecia,Poland,53.14,17.6,19600
+Gostynin,Poland,53.43,19.43,19500
+Wadowice,Poland,49.88,19.49,19400
+Bogatynia,Poland,50.92,14.96,19300
+Deblin,Poland,51.57,21.83,19300
+Kety,Poland,49.87,19.22,19300
+Pisz,Poland,53.63,21.8,19200
+Pyskowice,Poland,50.41,18.62,19200
+Pultusk,Poland,52.71,21.09,19100
+Sokolka,Poland,53.4,23.5,19100
+Trzebinia,Poland,50.16,19.45,19000
+Lask,Poland,51.6,19.14,18900
+Sierpc,Poland,52.86,19.65,18900
+Hrubieszow,Poland,50.81,23.89,18800
+Kozienice,Poland,51.59,21.55,18800
+Miedzyrzecz,Poland,52.45,15.57,18800
+Szamotuly,Poland,52.61,16.58,18600
+Orzesze,Poland,50.16,18.78,18500
+Wieliczka,Poland,49.99,20.09,18500
+Krapkowice,Poland,50.48,17.96,18400
+Sulejowek,Poland,52.25,21.27,18400
+Braniewo,Poland,54.39,19.82,18300
+Zlotow,Poland,53.36,17.03,18300
+Sokolow podlaski,Poland,52.41,22.24,18200
+Lancut,Poland,50.07,22.23,18100
+Sulechow,Poland,52.09,15.62,18100
+Oborniki,Poland,52.65,16.81,18000
+Pleszew,Poland,51.91,17.78,17900
+Libiaz,Poland,50.1,19.29,17800
+Myslenice,Poland,49.84,19.94,17800
+Rawa mazowiecka,Poland,51.77,20.26,17800
+Reda,Poland,54.62,18.34,17800
+Kostrzyn,Poland,52.59,14.65,17600
+Radlin,Poland,50.04,18.46,17600
+Jozefow,Poland,52.15,21.26,17500
+Kobylka,Poland,52.34,21.2,17400
+Konstantynow lodzki,Poland,51.75,19.32,17400
+Slubice,Poland,52.36,14.57,17400
+Busko-zdroj,Poland,50.48,20.72,17300
+Radzionkow,Poland,50.39,18.89,17300
+Miedzyrzec podlaski,Poland,51.99,22.78,17200
+Zielonka,Poland,52.3,21.17,17200
+Brzesko,Poland,49.97,20.6,17000
+Gubin,Poland,51.96,14.72,17000
+Strzegom,Poland,50.96,16.35,17000
+Boguszow-gorce,Poland,50.76,16.19,16900
+Bytow,Poland,54.18,17.47,16900
+Jedrzejow,Poland,50.65,20.3,16900
+Gryfice,Poland,53.92,15.19,16800
+Przasnysz,Poland,53.01,20.88,16800
+Trzcianka,Poland,53.04,16.46,16800
+Nowogard,Poland,53.66,15.11,16700
+Lapy,Poland,52.99,22.89,16600
+Lidzbark warminski,Poland,54.14,20.59,16600
+Rypin,Poland,53.07,19.41,16600
+Zlotoryja,Poland,51.12,15.91,16600
+Namyslow,Poland,51.08,17.72,16500
+Konstancin-jeziorna,Poland,52.1,21.11,16400
+Zabkowice slaskie,Poland,50.59,16.82,16400
+Ustka,Poland,54.58,16.85,16300
+Radzyn podlaski,Poland,51.79,22.62,16100
+Swidwin,Poland,53.77,15.78,16100
+Olecko,Poland,54.04,22.51,16000
+Garwolin,Poland,51.91,21.62,15900
+Ledziny,Poland,50.13,19.06,15900
+Choszczno,Poland,53.18,15.4,15800
+Przeworsk,Poland,50.07,22.5,15800
+Staszow,Poland,50.56,21.18,15700
+Leczyca,Poland,52.07,19.2,15600
+Nisko,Poland,50.53,22.14,15600
+Ustron,Poland,49.72,18.8,15500
+Siemiatycze,Poland,52.42,22.87,15400
+Chelmza,Poland,53.18,18.61,15300
+Kartuzy,Poland,54.33,18.2,15300
+Milanowek,Poland,52.13,20.66,15300
+Nowy tomysl,Poland,52.31,16.12,15300

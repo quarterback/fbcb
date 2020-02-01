@@ -1,0 +1,241 @@
+Name,State,Latitude,Longitude,Population
+Bucuresti,Romania,44.44,26.1,1897100
+Iasi,Romania,47.17,27.57,318400
+Cluj-napoca,Romania,46.78,23.59,314800
+Timisoara,Romania,45.76,21.23,314500
+Constanta,Romania,44.18,28.63,307400
+Craiova,Romania,44.33,23.82,299600
+Galati,Romania,45.44,28.04,295600
+Brasov,Romania,45.66,25.61,281000
+Ploiesti,Romania,44.94,26.03,230100
+Braila,Romania,45.28,27.97,214800
+Oradea,Romania,47.07,21.92,204500
+Bacau,Romania,46.58,26.92,174200
+Arad,Romania,46.19,21.32,171100
+Pitesti,Romania,44.86,24.87,167100
+Sibiu,Romania,45.79,24.13,153500
+Targu-mures,Romania,46.55,24.56,148100
+Baia mare,Romania,47.66,23.58,136600
+Buzau,Romania,45.15,26.82,131800
+Satu mare,Romania,47.79,22.89,114500
+Botosani,Romania,47.75,26.67,114200
+Ramnicu valcea,Romania,45.11,24.38,106600
+Suceava,Romania,47.64,26.26,105100
+Piatra neamt,Romania,46.94,26.37,104400
+Drobeta-turnu severin,Romania,44.64,22.66,103000
+Focsani,Romania,45.7,27.18,102200
+Targu jiu,Romania,45.05,23.26,95600
+Tulcea,Romania,45.19,28.8,91800
+Targoviste,Romania,44.95,25.45,88500
+Resita,Romania,45.3,21.89,83100
+Bistrita,Romania,47.14,24.5,80600
+Slatina,Romania,44.44,24.36,78400
+Hunedoara,Romania,45.77,22.92,70700
+Vaslui,Romania,46.65,27.73,69600
+Calarasi,Romania,44.2,27.33,69300
+Giurgiu,Romania,43.9,25.97,68900
+Roman,Romania,46.93,26.93,68800
+Deva,Romania,45.89,22.91,68700
+Barlad,Romania,46.23,27.66,68500
+Alba iulia,Romania,46.08,23.57,65700
+Zalau,Romania,47.18,23.06,62700
+Sfantu gheorghe,Romania,45.87,25.79,60900
+Turda,Romania,46.57,23.78,55200
+Medias,Romania,46.17,24.36,54600
+Slobozia,Romania,44.57,27.38,52100
+Onesti,Romania,46.26,26.76,51200
+Alexandria,Romania,43.99,25.34,50100
+Petrosani,Romania,45.41,23.38,45000
+Lugoj,Romania,45.69,21.91,44100
+Medgidia,Romania,44.25,28.28,43400
+Pascani,Romania,47.25,26.72,41700
+Tecuci,Romania,45.86,27.43,41600
+Miercurea-ciuc,Romania,46.37,25.81,41400
+Sighetu marmatiei,Romania,47.93,23.91,40800
+Mangalia,Romania,43.83,28.58,39600
+Campina,Romania,45.13,25.74,38400
+Ramnicu sarat,Romania,45.38,27.06,38400
+Dej,Romania,47.15,23.89,38100
+Campulung,Romania,45.27,25.04,37900
+Odorheiu secuiesc,Romania,46.32,25.3,36600
+Reghin,Romania,46.78,24.71,35700
+Mioveni,Romania,44.95,24.95,35500
+Fagaras,Romania,45.84,24.97,35400
+Caracal,Romania,44.13,24.36,34300
+Fetesti,Romania,44.38,27.84,32900
+Curtea de arges,Romania,45.14,24.68,32300
+Navodari,Romania,44.33,28.61,32100
+Sighisoara,Romania,46.22,24.79,32000
+Rosiori de vede,Romania,44.12,25,31600
+Dorohoi,Romania,47.96,26.4,30800
+Lupeni,Romania,45.36,23.24,30500
+Turnu magurele,Romania,43.76,24.87,29900
+Sacele,Romania,45.62,25.71,29700
+Voluntari,Romania,44.47,26.13,29700
+Falticeni,Romania,47.46,26.3,29600
+Vulcan,Romania,45.38,23.29,29500
+Husi,Romania,46.68,28.06,29300
+Aiud,Romania,46.32,23.73,28600
+Caransebes,Romania,45.41,22.22,28000
+Radauti,Romania,47.85,25.92,27500
+Sebes,Romania,45.96,23.57,27400
+Oltenita,Romania,44.08,26.63,26900
+Borsa,Romania,47.65,24.67,26800
+Campia turzii,Romania,46.55,23.88,26600
+Tarnaveni,Romania,46.33,24.27,26300
+Cugir,Romania,45.85,23.37,25700
+Petrila,Romania,45.45,23.42,25600
+Zarnesti,Romania,45.58,25.35,25100
+Codlea,Romania,45.7,25.44,24000
+Moinesti,Romania,46.48,26.51,24000
+Gherla,Romania,47.02,23.9,23800
+Comanesti,Romania,46.43,26.45,23600
+Carei,Romania,47.69,22.47,23000
+Motru,Romania,44.8,22.98,22600
+Bals,Romania,44.36,24.1,21000
+Orastie,Romania,45.85,23.2,21000
+Moreni,Romania,45,25.64,20700
+Blaj,Romania,46.18,23.91,20600
+Dragasani,Romania,44.67,24.26,20600
+Targu-neamt,Romania,47.21,26.36,20400
+Corabia,Romania,43.79,24.51,20300
+Targu secuiesc,Romania,46,26.14,20300
+Buftea,Romania,44.57,25.95,20100
+Campulung moldovenesc,Romania,47.54,25.56,20000
+Bailesti,Romania,44.03,23.35,19900
+Baicoi,Romania,45.04,25.85,19800
+Gheorgheni,Romania,46.72,25.59,19800
+Buhusi,Romania,46.71,26.72,18800
+Cernavoda,Romania,44.35,28.04,18800
+Calafat,Romania,44,22.95,18700
+Filiasi,Romania,44.55,23.52,18700
+Breaza,Romania,45.2,25.65,18000
+Salonta,Romania,46.8,21.65,18000
+Adjud,Romania,46.1,27.18,17500
+Ludus,Romania,46.48,24.09,17200
+Marghita,Romania,47.36,22.34,17000
+Urziceni,Romania,44.72,26.65,16900
+Bocsa,Romania,45.37,21.72,16800
+Viseu de sus,Romania,47.72,24.42,16700
+Baia-sprie,Romania,47.67,23.68,16500
+Brad,Romania,46.13,22.79,16300
+Vatra dornei,Romania,47.36,25.36,16300
+Pantelimon,Romania,44.45,26.2,15900
+Simleu silvaniei,Romania,47.23,22.8,15900
+Gura humorului,Romania,47.56,25.9,15700
+Toplita,Romania,46.94,25.37,15700
+Mizil,Romania,45.01,26.44,15600
+Cisnadie,Romania,45.72,24.15,15500
+Gaesti,Romania,44.73,25.32,15400
+Ocna mures,Romania,46.39,23.86,15400
+Zimnicea,Romania,43.68,25.36,15400
+Rasnov,Romania,45.6,25.46,15300
+Pucioasa,Romania,45.09,25.44,15100
+Popesti-leordeni,Romania,44.38,26.17,15000
+Avrig,Romania,45.74,24.38,14100
+Darmanesti,Romania,46.37,26.48,14100
+Vicovu de sus,Romania,47.93,25.68,14000
+Moldova noua,Romania,44.74,21.66,13800
+Negresti-oas,Romania,47.87,23.44,13800
+Simeria,Romania,45.85,23.01,13800
+Dabuleni,Romania,43.8,24.08,13700
+Targu gangiulesti,Romania,47.22,27.01,13500
+Targu ocna,Romania,46.28,26.62,13500
+Comarnic,Romania,45.25,25.64,13200
+Targu-lapus,Romania,47.46,23.86,13200
+Valenii de munte,Romania,45.2,26.04,13200
+Calan,Romania,45.74,23,13000
+Ovidiu,Romania,44.27,28.56,13000
+Pecica,Romania,46.17,21.07,12900
+Stefanesti,Romania,44.87,24.93,12900
+Oravita,Romania,45.05,21.69,12800
+Orsova,Romania,44.72,22.4,12800
+Sannicolaul mare,Romania,46.08,20.62,12800
+Santana,Romania,46.35,21.5,12800
+Poiana mare,Romania,43.92,23.07,12700
+Scornicesti,Romania,44.57,24.55,12700
+Chitila,Romania,44.52,25.98,12500
+Rovinari,Romania,44.92,23.18,12400
+Sinaia,Romania,45.36,25.54,12400
+Tandarei,Romania,44.65,27.67,12400
+Draganesti-olt,Romania,44.17,24.53,12100
+Videle,Romania,44.29,25.53,11900
+Flamanzi,Romania,47.55,26.87,11800
+Jilava,Romania,44.33,26.08,11800
+Urlati,Romania,44.98,26.23,11800
+Darabani,Romania,48.18,26.58,11700
+Marasesti,Romania,45.88,27.23,11700
+Matca,Romania,45.85,27.53,11700
+Tomesti,Romania,47.12,27.68,11700
+Bolintinu-din-vale,Romania,44.45,25.75,11600
+Holboca,Romania,47.15,27.7,11600
+Otelu rosu,Romania,45.54,22.36,11600
+Strehaia,Romania,44.63,23.2,11600
+Nehoiu,Romania,45.42,26.3,11500
+Sacueni,Romania,47.35,22.1,11500
+Sovata,Romania,46.6,25.08,11500
+Boldesti-scaeni,Romania,45.03,26.03,11400
+Pechea,Romania,45.63,27.8,11300
+Belcesti,Romania,47.3,27.08,11200
+Harlau,Romania,47.44,26.91,11200
+Ianca,Romania,45.13,27.45,11200
+Jibou,Romania,47.27,23.25,11200
+Covasna,Romania,45.86,26.18,11100
+Lipova,Romania,46.1,21.7,11100
+Maneciu,Romania,45.32,25.98,11100
+Dolhasca,Romania,47.43,26.6,11000
+Jimbolia,Romania,45.8,20.71,11000
+Liesti,Romania,45.62,27.52,11000
+Beius,Romania,46.66,22.36,10900
+Agnita,Romania,45.97,24.61,10800
+Basarabi,Romania,44.18,28.42,10800
+Beclean,Romania,47.18,24.18,10800
+Costesti,Romania,44.67,24.88,10800
+Dofteana,Romania,46.32,26.52,10800
+Hateg,Romania,45.62,22.95,10800
+Bumbesti-jiu,Romania,45.17,23.4,10500
+Macin,Romania,45.26,28.13,10500
+Nasaud,Romania,47.3,24.41,10500
+Topoloveni,Romania,44.82,25.08,10500
+Vladimirescu,Romania,46.15,21.4,10500
+Calinesti,Romania,44.82,25.05,10400
+Deleni,Romania,47.47,26.88,10400
+Valea calugareasca,Romania,44.97,26.15,10400
+Alesd,Romania,47.06,22.4,10300
+Bucov,Romania,44.97,26.08,10300
+Busteni,Romania,45.42,25.55,10300
+Targu gangiulesti,Romania,47.2,27,10300
+Filipestii de padure,Romania,45,25.75,10200
+Nicolae balcescu,Romania,46.47,26.92,10200
+Sabaoani,Romania,47.02,26.85,10200
+Uricani,Romania,45.33,23.15,10200
+Valea lui mihai,Romania,47.52,22.13,10200
+Ineu,Romania,46.43,21.85,10100
+Otopeni,Romania,44.55,26.07,10100
+Sangeorz-bai,Romania,47.37,24.68,10100
+Sascut,Romania,46.2,27.1,10100
+Titu,Romania,44.66,25.55,10100
+Babadag,Romania,44.9,28.74,10000
+Ciurea,Romania,47.05,27.57,10000
+Harsova,Romania,44.69,27.95,10000
+Mihail kogalniceanu,Romania,44.37,28.45,10000
+Seini,Romania,47.76,23.28,10000
+Poienile de sub munte,Romania,47.82,24.43,9900
+Cumpana,Romania,44.12,28.57,9800
+Homocea,Romania,46.13,27.23,9800
+Liteni,Romania,47.57,26.2,9800
+Munteni,Romania,45.93,27.43,9800
+Negresti,Romania,46.83,27.43,9800
+Ivesti,Romania,45.68,27.52,9700
+Modelu,Romania,44.2,27.38,9700
+Borcea,Romania,44.33,27.75,9600
+Budesti,Romania,44.23,26.45,9600
+Cristuru secuiesc,Romania,46.3,25.02,9600
+Curtici,Romania,46.35,21.31,9600
+Oituz,Romania,46.2,26.62,9600
+Podu iloaiei,Romania,47.22,27.27,9600
+Simian,Romania,44.62,22.72,9600
+Tasnad,Romania,47.48,22.59,9600
+Baraolt,Romania,46.09,25.6,9500
+Berca,Romania,45.28,26.68,9500
+Diosig,Romania,47.3,22,9500

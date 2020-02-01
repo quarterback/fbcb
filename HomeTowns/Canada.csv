@@ -1,0 +1,722 @@
+Name,State,Latitude,Longitude,Population
+Toronto,Canada,43.666667,-79.416667,4612187
+Montreal,Canada,45.5,-73.583333,3268513
+Vancouver,Canada,49.25,-123.133333,1837970
+Calgary,Canada,51.083333,-114.083333,968475
+Ottawa,Canada,45.416667,-75.7,874433
+Edmonton,Canada,53.55,-113.5,822319
+Hamilton,Canada,43.25,-79.833333,653637
+Quebec,Canada,46.8,-71.25,645623
+Winnipeg,Canada,49.883333,-97.166667,632069
+Kitchener,Canada,43.45,-80.5,409111
+London,Canada,42.983333,-81.25,346774
+Victoria,Canada,48.433333,-123.35,289625
+Windsor,Canada,42.333333,-83.033333,278013
+Halifax,Canada,44.65,-63.6,266012
+Oshawa,Canada,43.9,-78.866667,247989
+Saskatoon,Canada,52.133333,-106.666667,198957
+Barrie,Canada,44.383333,-79.7,182070
+Regina,Canada,50.45,-104.616667,176182
+Abbotsford,Canada,49.05,-122.3,151685
+Sherbrooke,Canada,45.4,-71.9,129447
+Kelowna,Canada,49.9,-119.483333,125110
+Trois-Rivières,Canada,46.35,-72.55,119693
+Guelph,Canada,43.55,-80.25,115763
+Kingston,Canada,44.233333,-76.483333,114243
+Waterloo,Canada,43.466667,-80.533333,110800
+Sudbury,Canada,46.5,-80.966667,109724
+Thunder Bay,Canada,48.4,-89.233333,99336
+Kanata,Canada,45.333333,-75.9,93541
+Saint John,Canada,45.266667,-66.066667,87857
+Brantford,Canada,43.133333,-80.266667,87761
+Moncton,Canada,46.083333,-64.766667,87467
+Nanaimo,Canada,49.15,-123.916667,84906
+Sarnia,Canada,42.966667,-82.4,82998
+Peterborough,Canada,44.3,-78.333333,75879
+Red Deer,Canada,52.266667,-113.8,73595
+Lethbridge,Canada,49.7,-112.833333,70619
+Kamloops,Canada,50.666667,-120.333333,68715
+White Rock,Canada,49.033333,-122.816667,66450
+Prince George,Canada,53.916667,-122.766667,65558
+Belleville,Canada,44.166667,-77.383333,65368
+Sault Sainte Marie,Canada,46.5,-84.333333,63967
+Medicine Hat,Canada,50.033333,-110.683333,63140
+Drummondville,Canada,45.883333,-72.483333,59489
+Saint-Jérôme,Canada,45.766667,-74,54948
+Granby,Canada,45.383333,-72.733333,53979
+Fredericton,Canada,45.95,-66.633333,52337
+Chilliwack,Canada,49.166667,-121.95,51942
+Saint-Hyacinthe,Canada,45.633333,-72.933333,50327
+North Bay,Canada,46.3,-79.45,50171
+Shawinigan,Canada,46.55,-72.733333,49161
+Cornwall,Canada,45.016667,-74.733333,48823
+Vernon,Canada,50.266667,-119.266667,47275
+Chatham,Canada,42.4,-82.183333,44554
+Beloeil,Canada,45.566667,-73.2,43016
+Charlottetown,Canada,46.233333,-63.133333,42403
+Grande Prairie,Canada,55.166667,-118.8,41463
+Saint Thomas,Canada,42.783333,-81.183333,38694
+Salaberry-de-Valleyfield,Canada,45.25,-74.133333,38662
+Rimouski,Canada,48.433333,-68.516667,38420
+Penticton,Canada,49.5,-119.583333,37721
+Joliette,Canada,46.033333,-73.433333,34772
+Prince Albert,Canada,53.2,-105.75,34608
+Victoriaville,Canada,46.05,-71.966667,34426
+Woodstock,Canada,43.133333,-80.75,33893
+Sorel,Canada,46.05,-73.116667,33591
+Campbell River,Canada,50.016667,-125.25,33430
+Timmins,Canada,48.466667,-81.333333,32901
+Courtenay,Canada,49.683333,-125,32793
+Sydney,Canada,46.15,-60.166667,32660
+Orangeville,Canada,43.916667,-80.083333,32641
+Georgetown,Canada,43.65,-79.933333,32372
+Moose Jaw,Canada,50.4,-105.55,32166
+Midland,Canada,44.75,-79.9,31502
+Leamington,Canada,42.05,-82.583333,30428
+Stratford,Canada,43.366667,-80.983333,30234
+Orillia,Canada,44.6,-79.416667,30179
+Alma,Canada,48.55,-71.65,29527
+Brandon,Canada,49.833333,-99.95,26234
+Nanticoke,Canada,42.8,-80.066667,24732
+Airdrie,Canada,51.266667,-114.016667,24673
+Brockville,Canada,44.583333,-75.683333,23887
+Milton,Canada,43.516667,-79.883333,23472
+Lloydminster,Canada,53.27,-110.03,22677
+Lloydminster,Canada,53.283333,-110,22677
+Owen Sound,Canada,44.566667,-80.85,22625
+Sept-Îles,Canada,50.2,-66.383333,22582
+Duncan,Canada,48.783333,-123.7,22199
+Thetford Mines,Canada,46.083333,-71.3,22007
+Bolton,Canada,43.883333,-79.733333,21709
+Glace Bay,Canada,46.2,-59.966667,21504
+Saint-Georges,Canada,46.116667,-70.666667,21416
+Buckingham,Canada,45.583333,-75.416667,21373
+Port Alberni,Canada,49.233333,-124.8,21282
+Parksville,Canada,49.3,-124.316667,21150
+Truro,Canada,45.366667,-63.3,20650
+New Glasgow,Canada,45.583333,-62.633333,20322
+Whitehorse,Canada,60.716667,-135.05,19616
+Terrace,Canada,54.5,-128.583333,19443
+North Battleford,Canada,52.766667,-108.283333,19440
+Bradford,Canada,44.116667,-79.566667,18811
+Corner Brook,Canada,48.95,-57.933333,18693
+Cranbrook,Canada,49.516667,-115.766667,18610
+Bathurst,Canada,47.6,-65.65,18179
+Cobourg,Canada,43.966667,-78.166667,18100
+Lindsay,Canada,44.35,-78.733333,17987
+Edmundston,Canada,47.366667,-68.333333,17937
+Spruce Grove,Canada,53.533333,-113.916667,17767
+Fergus,Canada,43.7,-80.366667,17673
+Fort Saint John,Canada,56.25,-120.833333,16656
+Cochrane,Canada,51.2,-114.45,16367
+Fort Erie,Canada,42.9,-78.933333,15953
+Yellowknife,Canada,62.45,-114.35,15866
+Collingwood,Canada,44.5,-80.216667,15809
+Camrose,Canada,53.016667,-112.816667,15687
+Leduc,Canada,53.266667,-113.533333,15562
+Pembroke,Canada,45.816667,-77.116667,15551
+Magog,Canada,45.266667,-72.15,15550
+Sydney Mines,Canada,46.233333,-60.216667,15474
+Rivière-du-Loup,Canada,47.833333,-69.533333,15219
+Yorkton,Canada,51.216667,-102.466667,15172
+Tilsonburg,Canada,42.866667,-80.733333,14843
+Okotoks,Canada,50.716667,-113.966667,14827
+Summerside,Canada,46.4,-63.783333,14808
+Prince Rupert,Canada,54.316667,-130.333333,14708
+Swift Current,Canada,50.283333,-107.766667,14702
+Williams Lake,Canada,52.116667,-122.15,14168
+Quesnel,Canada,52.983333,-122.483333,13788
+Bay Roberts,Canada,47.583333,-53.3,13735
+Strathroy,Canada,42.95,-81.616667,13525
+Simcoe,Canada,42.833333,-80.3,13446
+Kenora,Canada,49.766667,-94.466667,13075
+Dolbeau,Canada,48.866667,-72.233333,12916
+Hauterive,Canada,49.183333,-68.266667,12816
+Powell River,Canada,49.883333,-124.55,12779
+Brooks,Canada,50.566667,-111.9,12745
+Kentville,Canada,45.066667,-64.5,12636
+Elliot Lake,Canada,46.383333,-82.65,12508
+Thompson,Canada,55.75,-97.866667,12467
+Grand Centre,Canada,54.416667,-110.215278,12386
+Canmore,Canada,51.1,-115.35,12289
+Hawkesbury,Canada,45.616667,-74.6,12283
+Campbellton,Canada,48,-66.666667,12064
+Aldergrove,Canada,49.06,-122.46,11963
+Ingersoll,Canada,43.033333,-80.883333,11874
+Matane,Canada,48.85,-67.516667,11826
+Port Hope,Canada,43.95,-78.3,11765
+Whitchurch-Stouffville,Canada,43.966667,-79.25,11696
+Amherstburg,Canada,42.1,-83.1,11459
+Wetaskiwin,Canada,52.966667,-113.383333,11302
+Petawawa,Canada,45.9,-77.283333,11256
+New Waterford,Canada,46.25,-60.083333,11026
+Haileybury,Canada,47.433333,-79.633333,10991
+Cowansville,Canada,45.2,-72.75,10888
+Dawson Creek,Canada,55.766667,-120.233333,10802
+Wallaceburg,Canada,42.583333,-82.366667,10693
+Smiths Falls,Canada,44.9,-76.016667,10553
+Sylvan Lake,Canada,52.3,-114.083333,10520
+Paris,Canada,43.2,-80.383333,10437
+Amos,Canada,48.566667,-78.116667,10435
+Baie-Comeau,Canada,49.216667,-68.15,10435
+Kitimat,Canada,54,-128.7,10278
+Alliston,Canada,44.15,-79.866667,10224
+Salmon Arm,Canada,50.7,-119.283333,10093
+Lacombe,Canada,52.466667,-113.733333,10059
+Strathmore,Canada,51.04,-113.42,10009
+Estevan,Canada,49.15,-103,9904
+Hinton,Canada,53.4,-117.583333,9889
+High River,Canada,50.583333,-113.866667,9826
+Nelson,Canada,49.483333,-117.283333,9813
+Carleton Place,Canada,45.133333,-76.133333,9743
+Trail,Canada,49.1,-117.716667,9707
+Selkirk,Canada,50.15,-96.883333,9653
+Montmagny,Canada,46.966667,-70.55,9645
+Arnprior,Canada,45.433333,-76.366667,9607
+Steinbach,Canada,49.516667,-96.683333,9607
+Lachute,Canada,45.65,-74.333333,9562
+Beamsville,Canada,43.166667,-79.466667,9556
+La Tuque,Canada,47.45,-72.783333,9503
+Weyburn,Canada,49.666667,-103.85,9362
+Amherst,Canada,45.833333,-64.2,9336
+Roberval,Canada,48.516667,-72.216667,9287
+Kapuskasing,Canada,49.416667,-82.433333,9240
+Caledonia,Canada,43.066667,-79.95,9065
+Rockland,Canada,45.533333,-75.283333,9023
+Uxbridge,Canada,44.1,-79.116667,9020
+Oromocto,Canada,45.85,-66.466667,8998
+Stony Plain,Canada,53.533333,-114,8939
+Gander,Canada,48.95,-54.55,8772
+Whitecourt,Canada,54.133333,-115.683333,8763
+Lavaltrie,Canada,45.883333,-73.283333,8762
+Ladysmith,Canada,48.983333,-123.816667,8740
+Sainte-Marie,Canada,46.433333,-71.016667,8735
+Castlegar,Canada,49.316667,-117.666667,8715
+Elmira,Canada,43.6,-80.55,8614
+Dauphin,Canada,51.15,-100.05,8418
+Winkler,Canada,49.183333,-97.933333,8270
+Bracebridge,Canada,45.033333,-79.3,8238
+Acton,Canada,43.633333,-80.033333,8204
+Napanee,Canada,44.25,-76.95,8197
+Taber,Canada,49.783333,-112.15,8163
+Morinville,Canada,53.8,-113.65,8108
+Saint-Félicien,Canada,48.65,-72.45,8088
+Bridgewater,Canada,44.366667,-64.516667,8070
+Goderich,Canada,43.733333,-81.7,8032
+Renfrew,Canada,45.466667,-76.683333,8018
+Donnacona,Canada,46.666667,-71.733333,8014
+Edson,Canada,53.583333,-116.416667,7975
+Huntsville,Canada,45.333333,-79.216667,7972
+Fort Frances,Canada,48.616667,-93.416667,7931
+Kirkland Lake,Canada,48.15,-80.033333,7776
+Slave Lake,Canada,55.283333,-114.783333,7661
+Port Perry,Canada,44.1,-78.933333,7652
+Wasaga Beach,Canada,44.52,-79.99,7567
+Revelstoke,Canada,51,-118.183333,7533
+Aylmer,Canada,42.783333,-80.983333,7527
+Banff,Canada,51.166667,-115.566667,7502
+Yarmouth,Canada,43.833333,-66.116667,7500
+Essex,Canada,42.166667,-82.816667,7396
+Beaumont,Canada,53.37,-113.41,7366
+Hanover,Canada,44.15,-81.033333,7255
+La Sarre,Canada,48.8,-79.2,7206
+Asbestos,Canada,45.783333,-71.933333,7190
+Plessisville,Canada,46.216667,-71.766667,7186
+Merritt,Canada,50.116667,-120.783333,7179
+Port Elgin,Canada,44.433333,-81.383333,7147
+Lively,Canada,46.433333,-81.15,7081
+Crystal Beach,Canada,45.05,-79.4,7062
+Coaticook,Canada,45.133333,-71.8,7021
+Olds,Canada,51.783333,-114.1,6947
+Dryden,Canada,49.783333,-92.833333,6924
+Gibsons,Canada,49.4,-123.5,6821
+Carbonear,Canada,47.733333,-53.25,6814
+Kincardine,Canada,44.166667,-81.633333,6771
+Sutton,Canada,44.3,-79.366667,6680
+Ponoka,Canada,52.683333,-113.566667,6656
+Saint Marys,Canada,43.25,-81.133333,6647
+Drumheller,Canada,51.466667,-112.7,6557
+Rocky Mountain House,Canada,52.366667,-114.916667,6527
+Kimberley,Canada,49.683333,-115.983333,6513
+Perth,Canada,44.883333,-76.233333,6481
+Parry Sound,Canada,45.333333,-80.033333,6469
+Morden,Canada,49.183333,-98.1,6395
+Coaldale,Canada,49.733333,-112.616667,6317
+Sturgeon Falls,Canada,46.366667,-79.933333,6314
+Summerland,Canada,49.6,-119.666667,6292
+Stephenville,Canada,48.55,-58.566667,6278
+Listowel,Canada,43.733333,-80.966667,6237
+Sooke,Canada,48.383333,-123.733333,6145
+Iqaluit,Canada,63.733333,-68.5,6124
+Mont-Joli,Canada,48.583333,-68.183333,6124
+Drayton Valley,Canada,53.216667,-114.983333,6099
+Farnham,Canada,45.283333,-72.966667,6061
+The Pas,Canada,53.816667,-101.233333,6055
+Dunnville,Canada,42.9,-79.616667,6006
+Bonnyville,Canada,54.267778,-110.750833,6003
+Flin Flon,Canada,54.766667,-101.883333,6002
+Sechelt,Canada,49.466667,-123.766667,5977
+Port-Cartier,Canada,50.016667,-66.866667,5851
+Gravenhurst,Canada,44.916667,-79.366667,5839
+Port Dover,Canada,42.783333,-80.2,5838
+Louiseville,Canada,46.25,-72.933333,5819
+Sainte-Agathe-des-Monts,Canada,46.033333,-74.283333,5706
+Vegreville,Canada,53.5,-112.05,5678
+Grand Falls,Canada,47.05,-67.733333,5675
+Sainte-Anne-des-Monts,Canada,49.116667,-66.483333,5602
+Marieville,Canada,45.433333,-73.166667,5600
+Stettler,Canada,52.333333,-112.683333,5494
+Sainte-Adèle,Canada,45.95,-74.15,5467
+Gananoque,Canada,44.333333,-76.166667,5458
+Petrolia,Canada,42.883333,-82.15,5453
+Smithers,Canada,54.766667,-127.166667,5438
+Melfort,Canada,52.866667,-104.6,5410
+Windsor,Canada,45.583333,-72,5408
+Wainwright,Canada,52.833333,-110.866667,5380
+Peace River,Canada,56.233333,-117.283333,5340
+Saint Paul,Canada,53.983333,-111.283333,5321
+Beaupré,Canada,47.05,-70.883333,5287
+Nicolet,Canada,46.216667,-72.6,5257
+Walkerton,Canada,44.133333,-81.15,5250
+Devon,Canada,53.366667,-113.733333,5225
+Brighton,Canada,44.033333,-77.733333,5152
+Acton Vale,Canada,45.633333,-72.566667,5135
+Amqui,Canada,48.466667,-67.433333,5117
+Tottenham,Canada,44.016667,-79.8,5101
+Westlock,Canada,54.15,-113.866667,5067
+Blenheim,Canada,42.333333,-82,5065
+Woodstock,Canada,46.15,-67.566667,5032
+Fernie,Canada,49.5,-115.066667,5019
+Antigonish,Canada,45.616667,-61.966667,5003
+Mackenzie,Canada,55.33,-123.09,4978
+Pont-Rouge,Canada,46.75,-71.7,4978
+Rawdon,Canada,46.033333,-73.7,4978
+Laurentides,Canada,45.85,-73.766667,4922
+Almonte,Canada,45.216667,-76.2,4921
+Saint-Sauveur-des-Monts,Canada,45.9,-74.166667,4869
+Tilbury,Canada,42.25,-82.433333,4858
+Mount Forest,Canada,43.966667,-80.733333,4842
+Humboldt,Canada,52.2,-105.116667,4822
+Picton,Canada,44.016667,-77.15,4820
+Creston,Canada,49.1,-116.516667,4816
+Meaford,Canada,44.6,-80.583333,4816
+Hearst,Canada,49.7,-83.666667,4746
+Shediac,Canada,46.216667,-64.533333,4735
+Exeter,Canada,43.35,-81.483333,4702
+Espanola,Canada,46.25,-81.766667,4682
+Lac-Mégantic,Canada,45.583333,-70.883333,4658
+Oliver,Canada,49.183333,-119.55,4647
+Port Hardy,Canada,50.716667,-127.5,4628
+Marathon,Canada,48.75,-86.366667,4627
+Grand Bank,Canada,47.1,-55.783333,4623
+Caraquet,Canada,47.783333,-64.95,4620
+Hope,Canada,49.383333,-121.433333,4598
+Marystown,Canada,47.166667,-55.166667,4558
+Saint Stephen,Canada,45.2,-67.266667,4518
+Baie-Saint-Paul,Canada,47.433333,-70.5,4512
+Beauceville,Canada,46.2,-70.766667,4480
+Prescott,Canada,44.716667,-75.516667,4466
+La Malbaie,Canada,47.65,-70.166667,4447
+Barrhead,Canada,54.116667,-114.4,4430
+Mitchell,Canada,43.466667,-81.183333,4416
+Berthierville,Canada,46.083333,-73.166667,4411
+Cochrane,Canada,49.066667,-81.016667,4407
+Shelburne,Canada,44.066667,-80.2,4390
+Osoyoos,Canada,49.033333,-119.466667,4314
+Deep River,Canada,46.166667,-77.566667,4296
+Meadow Lake,Canada,54.129722,-108.434722,4281
+Melville,Canada,50.933333,-102.8,4279
+Armstrong,Canada,50.45,-119.183333,4275
+Kindersley,Canada,51.466667,-109.133333,4249
+Maniwaki,Canada,46.366667,-75.966667,4236
+Iroquois Falls,Canada,48.766667,-80.666667,4232
+Kemptville,Canada,45.016667,-75.633333,4229
+Delhi,Canada,42.85,-80.5,4227
+Channel-Port aux Basques,Canada,47.566667,-59.15,4220
+Grand Forks,Canada,49.05,-118.466667,4208
+Fort Nelson,Canada,58.816667,-122.533333,4207
+Swan River,Canada,52.1,-101.266667,4198
+Saint-Rémi,Canada,45.25,-73.6,4192
+Stonewall,Canada,50.133333,-97.316667,4177
+Deer Lake,Canada,49.183333,-57.433333,4163
+Vermilion,Canada,53.35,-110.85,4151
+Dalhousie,Canada,48.066667,-66.366667,4137
+Didsbury,Canada,51.666667,-114.133333,4134
+Stayner,Canada,44.416667,-80.083333,4104
+Waterloo,Canada,45.35,-72.516667,4064
+Sussex,Canada,45.716667,-65.516667,4048
+Princeville,Canada,46.166667,-71.883333,4041
+Golden,Canada,51.3,-116.966667,4038
+Verchères,Canada,45.766667,-73.35,4030
+Saint-Jovite,Canada,46.116667,-74.583333,4020
+Nipawin,Canada,53.366667,-104.016667,3994
+Saint-Augustin,Canada,51.233333,-58.65,3961
+Springhill,Canada,45.633333,-64.05,3940
+Jasper,Canada,52.883333,-118.083333,3907
+Campbellford,Canada,44.3,-77.8,3882
+Windsor,Canada,44.983333,-64.133333,3864
+Pincher Creek,Canada,49.483333,-113.95,3855
+Ayr,Canada,43.283333,-80.45,3841
+Claresholm,Canada,50.033333,-113.583333,3808
+Fruitvale,Canada,49.116667,-117.55,3790
+Atikokan,Canada,48.75,-91.616667,3760
+Pictou,Canada,45.666667,-62.7,3732
+Sioux Lookout,Canada,50.1,-91.916667,3730
+Malartic,Canada,48.133333,-78.116667,3710
+Trois-Pistoles,Canada,48.116667,-69.166667,3695
+Capreol,Canada,46.7,-80.916667,3666
+Black Diamond,Canada,50.7,-114.233333,3663
+Bonavista,Canada,48.633333,-53.1,3658
+Cardston,Canada,49.2,-113.316667,3654
+East Angus,Canada,45.483333,-71.666667,3634
+High Level,Canada,58.516667,-117.133333,3621
+Rossland,Canada,49.083333,-117.816667,3619
+Altona,Canada,49.1,-97.566667,3613
+Chestermere,Canada,51.03,-113.83,3590
+Contrecoeur,Canada,45.85,-73.233333,3587
+Forestville,Canada,48.733333,-69.066667,3570
+Saint-Raymond,Canada,46.883333,-71.833333,3570
+Port Hawkesbury,Canada,45.6,-61.35,3564
+Alexandria,Canada,45.3,-74.633333,3559
+Southampton,Canada,44.5,-81.366667,3549
+Ridgetown,Canada,42.433333,-81.883333,3547
+Wolfville,Canada,45.083333,-64.366667,3523
+Smithville,Canada,43.1,-79.533333,3504
+Richmond,Canada,45.666667,-72.15,3485
+Richmond,Canada,45.183333,-75.833333,3472
+Wawa,Canada,48,-84.783333,3463
+Raymond,Canada,49.466667,-112.666667,3365
+Warwick,Canada,45.95,-71.983333,3340
+Gaspé,Canada,48.833333,-64.483333,3331
+Fairview,Canada,56.066667,-118.4,3312
+Clinton,Canada,43.6,-81.533333,3292
+Warman,Canada,52.316667,-106.566667,3252
+Beaverton,Canada,44.433333,-79.15,3237
+Virden,Canada,49.85,-100.933333,3237
+Senneterre,Canada,48.4,-77.25,3228
+Sainte-Julienne,Canada,45.966667,-73.716667,3211
+Blackfalds,Canada,52.383333,-113.8,3198
+Saint-Césaire,Canada,45.4,-73,3175
+Saint-Félix-de-Valois,Canada,46.166667,-73.416667,3165
+Neepawa,Canada,50.233333,-99.45,3151
+Hanna,Canada,51.633333,-111.916667,3140
+Napierville,Canada,45.183333,-73.4,3124
+Manitouwadge,Canada,49.133333,-85.8,3115
+Harrow,Canada,42.033333,-82.916667,3100
+Torbay,Canada,47.65,-52.733333,3097
+Saint-Prosper,Canada,46.2,-70.483333,3095
+Casselman,Canada,45.3,-75.083333,3074
+La Ronge,Canada,55.1,-105.3,3071
+Erin,Canada,43.766667,-80.066667,3053
+Three Hills,Canada,51.7,-113.266667,3051
+Wingham,Canada,43.883333,-81.3,3047
+Saint-Pie,Canada,45.5,-72.9,3034
+Waterford,Canada,42.933333,-80.283333,3033
+Hay River,Canada,60.85,-115.7,3030
+Inuvik,Canada,68.35,-133.7,3022
+Forest,Canada,43.1,-82,3018
+Bobcaygeon,Canada,44.533333,-78.55,3015
+Chapleau,Canada,47.833333,-83.4,2991
+Saint-Jacques,Canada,45.95,-73.583333,2985
+Blind River,Canada,46.183333,-82.95,2966
+Havre-Saint-Pierre,Canada,50.25,-63.583333,2966
+Carman,Canada,49.5,-98,2948
+Botwood,Canada,49.15,-55.366667,2940
+Lewisporte,Canada,49.233333,-55.066667,2935
+Clermont,Canada,47.683333,-70.233333,2912
+Saint-Gabriel,Canada,46.283333,-73.366667,2901
+Sackville,Canada,45.883333,-64.35,2891
+Lakefield,Canada,44.433333,-78.266667,2888
+Beauséjour,Canada,50.066667,-96.516667,2886
+Houston,Canada,54.4,-126.65,2884
+High Prairie,Canada,55.433333,-116.483333,2878
+Invermere,Canada,50.5,-116.033333,2871
+Lake Cowichan,Canada,48.816667,-124.033333,2870
+Huntingdon,Canada,45.083333,-74.183333,2865
+Chandler,Canada,48.333333,-64.666667,2863
+Durham,Canada,44.183333,-80.816667,2861
+Seaforth,Canada,43.55,-81.383333,2843
+Ville-Marie,Canada,47.333333,-79.433333,2831
+Enderby,Canada,50.55,-119.133333,2830
+Liverpool,Canada,44.033333,-64.716667,2781
+Springdale,Canada,49.483333,-56.1,2779
+Sicamous,Canada,50.833333,-119,2732
+Morrisburg,Canada,44.9,-75.183333,2728
+Normandin,Canada,48.833333,-72.516667,2728
+Dresden,Canada,42.583333,-82.166667,2727
+Chemainus,Canada,48.916667,-123.7,2718
+Bedford,Canada,45.116667,-72.983333,2711
+Cabano,Canada,47.683333,-68.883333,2710
+Princeton,Canada,49.45,-120.5,2706
+Portneuf,Canada,46.683333,-71.883333,2694
+Disraeli,Canada,45.9,-71.35,2678
+Port Stanley,Canada,42.666667,-81.216667,2663
+Palmerston,Canada,43.833333,-80.85,2660
+Tavistock,Canada,43.316667,-80.833333,2654
+Norwich,Canada,42.983333,-80.6,2651
+Hampton,Canada,45.533333,-65.833333,2637
+Burns Lake,Canada,54.216667,-125.766667,2635
+Cumberland,Canada,49.616667,-125.016667,2630
+Hagersville,Canada,42.95,-80.05,2624
+Brownsburg,Canada,45.683333,-74.4,2597
+Lillooet,Canada,50.683333,-121.933333,2585
+Riviere-au-Renard,Canada,48.983333,-64.383333,2565
+Sainte-Claire,Canada,46.6,-70.85,2565
+Winchester,Canada,45.1,-75.35,2564
+Grimshaw,Canada,56.183333,-117.6,2560
+Athabasca,Canada,54.716667,-113.266667,2539
+Sainte-Martine,Canada,45.233333,-73.8,2535
+Minnedosa,Canada,50.25,-99.833333,2526
+Rigaud,Canada,45.466667,-74.3,2525
+Crossfield,Canada,51.433333,-114.033333,2512
+Saint Anthony,Canada,51.383333,-55.6,2492
+Wiarton,Canada,44.733333,-81.133333,2481
+Thurso,Canada,45.583333,-75.233333,2476
+Lunenburg,Canada,44.366667,-64.316667,2473
+Chase,Canada,50.816667,-119.683333,2471
+Saint-Pascal,Canada,47.516667,-69.816667,2465
+Saint-Tite,Canada,46.716667,-72.566667,2456
+Valcourt,Canada,45.483333,-72.316667,2451
+Mattawa,Canada,46.316667,-78.7,2415
+Arthur,Canada,43.833333,-80.533333,2413
+Fort Saint James,Canada,54.433333,-124.25,2392
+Carstairs,Canada,51.533333,-114.1,2370
+Killarney,Canada,49.183333,-99.666667,2362
+Wabana,Canada,47.65,-52.933333,2362
+Saint-Marc-des-Carrières,Canada,46.683333,-72.033333,2358
+Geraldton,Canada,49.716667,-86.966667,2349
+Metabetchouan,Canada,48.433333,-71.866667,2329
+Wyoming,Canada,42.95,-82.116667,2324
+Assiniboia,Canada,49.616667,-105.983333,2320
+Rosetown,Canada,51.55,-107.983333,2309
+Colchester,Canada,41.983333,-82.933333,2307
+Elmvale,Canada,44.583333,-79.866667,2298
+Redwater,Canada,46.9,-79.633333,2284
+Glencoe,Canada,42.75,-81.7,2273
+Cornwall,Canada,46.24,-63.21,2272
+Berwick,Canada,45.033333,-64.733333,2271
+Stirling,Canada,44.3,-77.55,2270
+Crabtree,Canada,45.966667,-73.466667,2248
+Rimbey,Canada,52.633333,-114.216667,2227
+Beaverlodge,Canada,55.2,-119.45,2219
+New Richmond,Canada,48.166667,-65.833333,2213
+Saint Quentin,Canada,47.5,-67.383333,2207
+Moosomin,Canada,50.15,-101.666667,2206
+Esterhazy,Canada,50.65,-102.083333,2194
+Logan Lake,Canada,50.48,-120.81,2190
+Pierreville,Canada,46.066667,-72.8,2172
+Linière,Canada,46.05,-70.516667,2167
+Colborne,Canada,44.016667,-77.883333,2155
+Harriston,Canada,43.916667,-80.883333,2148
+Saint-Germain-de-Grantham,Canada,45.833333,-72.566667,2145
+Millet,Canada,53.083333,-113.466667,2142
+Vankleek Hill,Canada,45.516667,-74.65,2136
+Lucan,Canada,43.183333,-81.4,2123
+Maple Creek,Canada,49.916667,-109.466667,2121
+Cannington,Canada,44.35,-79.033333,2120
+Ferme-Neuve,Canada,46.7,-75.45,2115
+Unity,Canada,52.433333,-109.166667,2096
+Blairmore,Canada,49.6,-114.433333,2095
+Magrath,Canada,49.416667,-112.883333,2095
+Caledon East,Canada,43.866667,-79.866667,2085
+Provost,Canada,52.35,-110.266667,2082
+Biggar,Canada,52.05,-107.983333,2068
+Moose Factory,Canada,51.25,-80.6,2060
+Terrace Bay,Canada,48.783333,-87.1,2060
+Grand Bend,Canada,43.316667,-81.75,2059
+Canora,Canada,51.633333,-102.433333,2055
+Digby,Canada,44.6,-65.75,2052
+Wellington,Canada,43.95,-77.35,2052
+Saint-Agapit,Canada,46.566667,-71.433333,2048
+Les Escoumins,Canada,48.35,-69.416667,2042
+Causapscal,Canada,48.35,-67.216667,2033
+Wheatley,Canada,42.1,-82.45,2028
+Saint-Ambroise,Canada,48.55,-71.316667,2015
+Gimli,Canada,50.633333,-97,2009
+Montague,Canada,46.166667,-62.65,2005
+Calmar,Canada,53.25,-113.783333,2000
+Chute-aux-Outardes,Canada,49.116667,-68.383333,2000
+Outlook,Canada,51.5,-107.05,1989
+Chesley,Canada,44.3,-81.1,1986
+Fenelon Falls,Canada,44.533333,-78.75,1979
+Thornbury,Canada,44.55,-80.45,1970
+Matagami,Canada,49.75,-77.633333,1966
+Valleyview,Canada,55.066667,-117.283333,1951
+Shelburne,Canada,43.766667,-65.316667,1939
+Nanton,Canada,50.35,-113.766667,1936
+Saint-Jean-Port-Joli,Canada,47.2,-70.266667,1929
+Tofield,Canada,53.366667,-112.666667,1911
+Roblin,Canada,51.233333,-101.35,1903
+Harbour Breton,Canada,47.483333,-55.833333,1898
+Deseronto,Canada,44.2,-77.033333,1897
+Salisbury,Canada,46.033333,-65.05,1891
+Kamsack,Canada,51.566667,-101.9,1877
+Saint-André-Avellin,Canada,45.716667,-75.05,1868
+Saint-Anselme,Canada,46.616667,-70.966667,1861
+Saint-Gédéon,Canada,48.483333,-71.783333,1859
+Grand Valley,Canada,43.9,-80.316667,1856
+Temiscaming,Canada,46.716667,-79.083333,1854
+Vulcan,Canada,50.4,-113.25,1853
+Parkhill,Canada,43.166667,-81.683333,1851
+Longlac,Canada,49.783333,-86.55,1846
+Cardinal,Canada,44.783333,-75.366667,1837
+Saint-Michel-des-Saints,Canada,46.666667,-73.916667,1835
+Price,Canada,48.6,-68.116667,1830
+Madoc,Canada,44.516667,-77.483333,1827
+Chapais,Canada,49.783333,-74.866667,1824
+Penhold,Canada,52.133333,-113.866667,1818
+Saint Andrews,Canada,45.066667,-67.033333,1809
+Milverton,Canada,43.566667,-80.933333,1803
+Ashcroft,Canada,50.716667,-121.266667,1796
+Wynyard,Canada,51.766667,-104.183333,1793
+Bow Island,Canada,49.866667,-111.366667,1792
+Lamont,Canada,53.75,-112.783333,1779
+Stony Mountain,Canada,50.066667,-97.216667,1770
+Danville,Canada,45.783333,-72.016667,1761
+Souris,Canada,49.616667,-100.25,1752
+Norwood,Canada,44.383333,-77.983333,1746
+Sexsmith,Canada,55.35,-118.783333,1743
+Morris,Canada,49.35,-97.366667,1742
+Saint-Honoré,Canada,47.716667,-69.133333,1742
+One Hundred Mile House,Canada,51.65,-121.283333,1737
+Pilot Butte,Canada,50.466667,-104.416667,1728
+Watford,Canada,42.95,-81.883333,1716
+Nakusp,Canada,50.233333,-117.8,1706
+Sayabec,Canada,48.55,-67.683333,1702
+Hébertville,Canada,48.4,-71.683333,1691
+Watrous,Canada,51.666667,-105.466667,1689
+Cap-aux-Meules,Canada,47.383333,-61.866667,1686
+Englehart,Canada,47.816667,-79.866667,1685
+Saint-Donat-de-Montcalm,Canada,46.316667,-74.216667,1685
+Middleton,Canada,44.95,-65.066667,1680
+Marmora,Canada,44.483333,-77.683333,1678
+Hudson Bay,Canada,52.85,-102.383333,1661
+Shaunavon,Canada,49.65,-108.416667,1658
+Betsiamites,Canada,48.95,-68.65,1652
+Little Current,Canada,45.966667,-81.933333,1652
+Pemberton,Canada,50.316667,-122.816667,1644
+Indian Head,Canada,50.533333,-103.666667,1642
+Inverness,Canada,46.233333,-61.283333,1639
+Burgeo,Canada,47.6,-57.633333,1627
+Tweed,Canada,44.466667,-77.3,1626
+Lumby,Canada,50.25,-118.966667,1625
+Gambo,Canada,48.783333,-54.216667,1614
+Bon Accord,Canada,53.833333,-113.416667,1611
+Shawville,Canada,45.6,-76.483333,1608
+Papineauville,Canada,45.616667,-75.016667,1600
+Chesterville,Canada,45.1,-75.216667,1582
+Carberry,Canada,49.866667,-99.35,1575
+Wembley,Canada,55.15,-119.15,1574
+Cookshire,Canada,45.416667,-71.616667,1568
+Ucluelet,Canada,48.933333,-125.516667,1566
+Ormstown,Canada,45.133333,-74,1562
+Pinawa,Canada,50.15,-95.883333,1562
+Macamic,Canada,48.766667,-79,1559
+Boissevain,Canada,49.233333,-100.05,1557
+Millbrook,Canada,44.15,-78.45,1550
+Notre-Dame-du-Lac,Canada,47.6,-68.8,1545
+West Lorne,Canada,42.6,-81.6,1540
+Chester,Canada,44.533333,-64.233333,1531
+Lacolle,Canada,45.083333,-73.366667,1528
+Elk Point,Canada,53.9,-110.9,1514
+Markdale,Canada,44.316667,-80.65,1514
+Grande-Rivière,Canada,48.383333,-64.5,1508
+Dalmeny,Canada,52.333333,-106.783333,1504
+Clairmont,Canada,55.266667,-118.8,1483
+Bonaventure,Canada,48.05,-65.466667,1480
+Lumsden,Canada,50.65,-104.866667,1477
+Parrsboro,Canada,45.4,-64.316667,1472
+Cap-Chat,Canada,49.083333,-66.683333,1466
+Thessalon,Canada,46.25,-83.55,1464
+Vanderhoof,Canada,54.016667,-124.016667,1462
+Alfred,Canada,45.55,-74.866667,1424
+Kensington,Canada,46.433333,-63.65,1424
+Havelock,Canada,44.433333,-77.883333,1403
+Omemee,Canada,44.3,-78.55,1393
+Creemore,Canada,44.316667,-80.1,1391
+Bassano,Canada,50.783333,-112.466667,1388
+Hornepayne,Canada,49.216667,-84.783333,1386
+Saint-Henri-de-Lévis,Canada,46.683333,-71.066667,1380
+Luceville,Canada,48.516667,-68.333333,1373
+Saint-Pacôme,Canada,47.416667,-69.95,1371
+Attawapiskat,Canada,52.916667,-82.433333,1366
+Catalina,Canada,48.516667,-53.083333,1352
+Saint Leonard,Canada,47.166667,-67.916667,1350
+Sainte-Thècle,Canada,46.8,-72.5,1340
+Pangnirtung,Canada,66.133333,-65.75,1320
+Wadena,Canada,51.95,-103.8,1319
+Peachland,Canada,49.766667,-119.75,1305
+Eganville,Canada,45.533333,-77.1,1299
+Iroquois,Canada,44.85,-75.316667,1297
+Souris,Canada,46.35,-62.25,1284
+Oxford,Canada,45.733333,-63.866667,1283
+Hastings,Canada,44.3,-77.95,1276
+Saint-Raphaël,Canada,46.783333,-70.75,1276
+Lucknow,Canada,43.95,-81.516667,1275
+Hensall,Canada,43.433333,-81.5,1261
+Mildmay,Canada,44.033333,-81.116667,1258
+Macklin,Canada,52.333333,-109.95,1257
+Yamachiche,Canada,46.283333,-72.833333,1255
+Hantsport,Canada,45.066667,-64.183333,1253
+Powassan,Canada,46.066667,-79.35,1243
+Labelle,Canada,46.283333,-74.733333,1239
+Vallée-Jonction,Canada,46.366667,-70.916667,1216
+Val-David,Canada,46.033333,-74.2,1211
+Lanigan,Canada,51.85,-105.033333,1204
+Lac-au-Saumon,Canada,48.416667,-67.333333,1198
+Wilkie,Canada,52.416667,-108.7,1198
+South River,Canada,45.85,-79.366667,1193
+Shellbrook,Canada,53.216667,-106.4,1192
+Stephenville Crossing,Canada,48.516667,-58.416667,1183
+Barraute,Canada,48.433333,-77.633333,1180
+Plaster Rock,Canada,46.9,-67.383333,1180
+Carlyle,Canada,49.633333,-102.266667,1177
+Teeswater,Canada,43.983333,-81.283333,1171
+Melita,Canada,49.266667,-100.983333,1167
+Rivers,Canada,50.033333,-100.216667,1165
+Rodney,Canada,42.566667,-81.683333,1164
+Saint-Jean-de-Dieu,Canada,48.016667,-69.05,1161
+Saint-Fabien,Canada,48.283333,-68.866667,1157
+Spirit River,Canada,55.783333,-118.833333,1157
+Haines Junction,Canada,60.75,-137.5,1148
+Alberton,Canada,46.8,-64.066667,1147
+Desbiens,Canada,48.416667,-71.95,1147
+Two Hills,Canada,53.716667,-111.75,1147
+Kedgwick,Canada,47.633333,-67.333333,1146
+Murdochville,Canada,48.966667,-65.516667,1139
+Saint-Alexandre,Canada,47.683333,-69.633333,1139
+Foam Lake,Canada,51.65,-103.533333,1138
+Lac du Bonnet,Canada,50.266667,-96.05,1134
+Salmo,Canada,49.2,-117.283333,1125
+Gravelbourg,Canada,49.883333,-106.55,1109
+Viking,Canada,53.083333,-111.783333,1106
+Maskinongé,Canada,46.216667,-73.016667,1105
+Irricana,Canada,51.316667,-113.616667,1091
+Paisley,Canada,44.3,-81.283333,1091
+Albanel,Canada,48.866667,-72.416667,1087
+Bagotville,Canada,48.35,-70.883333,1081
+Langham,Canada,52.366667,-106.966667,1070
+Deloraine,Canada,49.183333,-100.5,1068
+Saint-Denis,Canada,45.783333,-73.15,1067
+Bridgetown,Canada,44.85,-65.15,1063
+Smoky Lake,Canada,54.113056,-112.473611,1063
+Cache Creek,Canada,50.8,-121.316667,1061
+Oxbow,Canada,49.216667,-102.166667,1058
+Killam,Canada,52.783333,-111.85,1056
+Kerrobert,Canada,51.916667,-109.133333,1038
+Langenburg,Canada,50.833333,-101.7,1034
+Louisbourg,Canada,45.916667,-59.983333,1031
+Norman Wells,Canada,65.283333,-126.85,1027
+Clyde River,Canada,70.45,-68.566667,1017
+Preeceville,Canada,51.95,-102.666667,1003
+Grenfell,Canada,50.416667,-102.916667,997
+Eston,Canada,51.15,-108.75,979
+Tuktoyaktuk,Canada,69.45,-133.066667,978
+Caronport,Canada,50.45,-105.816667,972
+Hare Bay,Canada,48.85,-54.016667,968
+Davidson,Canada,51.266667,-105.966667,967
+Carnduff,Canada,49.166667,-101.783333,950
+Gull Lake,Canada,50.1,-108.483333,949
+Kelvington,Canada,52.166667,-103.516667,941
+Aklavik,Canada,68.216667,-135,648
+Mayo,Canada,63.6,-135.916667,540

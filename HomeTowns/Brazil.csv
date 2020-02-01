@@ -1,0 +1,2018 @@
+City,Country,Lat,Long,Pop
+São Paulo,Brazil,-23.473293,-46.665803,10021437
+Rio de Janeiro,Brazil,-22.9,-43.233333,6023742
+Salvador,Brazil,-12.983333,-38.516667,2711903
+Fortaleza,Brazil,-3.316667,-41.416667,2416920
+Belo Horizonte,Brazil,-19.916667,-43.933333,2373255
+Brasília,Brazil,-15.783333,-47.916667,2207812
+Curitiba,Brazil,-25.416667,-49.25,1718433
+Manaus,Brazil,-3.113333,-60.025278,1598227
+Recife,Brazil,-8.05,-34.9,1478118
+Belém,Brazil,-1.45,-48.483333,1407737
+Porto Alegre,Brazil,-30.033333,-51.2,1372763
+Goiânia,Brazil,-16.666667,-49.266667,1171209
+Guarulhos,Brazil,-23.45068,-46.526175,1169601
+Campinas,Brazil,-22.9,-47.083333,1031573
+Nova Iguaçu,Brazil,-22.759188,-43.431887,1002129
+Maceió,Brazil,-9.666667,-35.716667,955010
+São Gonçalo,Brazil,-22.800278,-43.025556,939101
+São Luís,Brazil,-2.516667,-44.266667,917252
+Duque de Caxias,Brazil,-22.790321,-43.325009,818339
+Natal,Brazil,-5.783333,-35.216667,763057
+Teresina,Brazil,-5.083333,-42.816667,744526
+São Bernardo do Campo,Brazil,-23.7,-46.55,743386
+Campo Grande,Brazil,-20.45,-54.616667,729164
+Jaboatão,Brazil,-8.116667,-35.016667,702632
+Osasco,Brazil,-23.566667,-46.783333,677869
+Santo André,Brazil,-23.666667,-46.516667,662387
+João Pessoa,Brazil,-7.116667,-34.866667,650896
+Contagem,Brazil,-19.916667,-44.1,627132
+São José dos Campos,Brazil,-23.183333,-45.883333,613776
+Uberlândia,Brazil,-18.916667,-48.3,563545
+Sorocaba,Brazil,-23.483333,-47.45,558874
+Ribeirão Prêto,Brazil,-21.166667,-47.8,551278
+Cuiabá,Brazil,-15.583333,-56.083333,521961
+Aracaju,Brazil,-10.916667,-37.066667,490184
+Feira de Santana,Brazil,-12.25,-38.95,481926
+Londrina,Brazil,-23.3,-51.15,471836
+Juiz de Fora,Brazil,-21.751667,-43.352778,470201
+Belford Roxo,Brazil,-22.761995,-43.404654,466101
+Joinville,Brazil,-26.3,-48.833333,461312
+Niterói,Brazil,-22.90214,-43.130301,456461
+São João de Meriti,Brazil,-22.798614,-43.360894,454855
+Ananindeua,Brazil,-1.366667,-48.383333,433956
+Florianópolis,Brazil,-27.583333,-48.566667,412731
+Santos,Brazil,-23.95,-46.333333,411411
+Ribeirão das Neves,Brazil,-19.783333,-44.1,406840
+Vila Velha,Brazil,-20.333333,-40.283333,394937
+Serra,Brazil,-20.116667,-40.3,394160
+Diadema,Brazil,-23.7,-46.616667,390641
+Campos,Brazil,-21.75,-41.3,387422
+Mauá,Brazil,-23.666667,-46.45,386077
+Betim,Brazil,-19.966667,-44.216667,384038
+Caxias do Sul,Brazil,-29.1689,-51.1785,381277
+São José do Rio Prêto,Brazil,-20.8,-49.383333,374706
+Olinda,Brazil,-8.016667,-34.85,366761
+Carapicuíba,Brazil,-23.516667,-46.833333,361120
+Campina Grande,Brazil,-7.216667,-35.883333,348943
+Piracicaba,Brazil,-22.716667,-47.633333,342216
+Macapá,Brazil,0.033333,-51.05,338937
+Itaquaquecetuba,Brazil,-23.483333,-46.35,336686
+Bauru,Brazil,-22.316667,-49.066667,335031
+Montes Claros,Brazil,-16.716667,-43.866667,332384
+Cariacica,Brazil,-20.266667,-40.416667,330681
+Canoas,Brazil,-29.933333,-51.183333,328297
+Moji das Cruzes,Brazil,-23.516667,-46.183333,325753
+São Vicente,Brazil,-23.966667,-46.383333,324464
+Jundiaí,Brazil,-23.183333,-46.866667,321595
+Pelotas,Brazil,-31.766667,-52.333333,320680
+Anápolis,Brazil,-16.333333,-48.966667,319592
+Vitória,Brazil,-20.316667,-40.35,312662
+Maringá,Brazil,-23.416667,-51.916667,311727
+Guarujá,Brazil,-24,-46.266667,310430
+Pôrto Velho,Brazil,-8.766667,-63.9,306206
+Franca,Brazil,-20.533333,-47.4,305047
+Blumenau,Brazil,-26.9222,-49.0615,293955
+Foz do Iguaçu,Brazil,-25.55,-54.583333,293526
+Ponta Grossa,Brazil,-25.083333,-50.15,292179
+Paulista,Brazil,-7.95,-34.883333,289977
+Limeira,Brazil,-22.561667,-47.402778,289671
+Viamão,Brazil,-30.083333,-51.033333,285274
+Suzano,Brazil,-23.533333,-46.333333,283319
+Caucaia,Brazil,-3.7,-38.65,275023
+Petrópolis,Brazil,-22.510833,-43.184444,272694
+Uberaba,Brazil,-19.75,-47.916667,260847
+Rio Branco,Brazil,-9.966667,-67.8,257645
+Cascavel,Brazil,-24.95,-53.466667,257174
+Novo Hamburgo,Brazil,-29.683333,-51.133333,253846
+Vitória da Conquista,Brazil,-14.85,-40.85,253144
+Barueri,Brazil,-23.516667,-46.883333,251999
+Taubaté,Brazil,-23.033333,-45.55,251647
+Governador Valadares,Brazil,-18.85,-41.933333,250882
+Praia Grande,Brazil,-24,-46.4,250032
+Várzea Grande,Brazil,-15.65,-56.133333,249766
+Volta Redonda,Brazil,-22.533333,-44.116667,249584
+Santa Maria,Brazil,-29.683333,-53.8,249224
+Santa Luzia,Brazil,-19.783333,-43.866667,243506
+Gravataí,Brazil,-29.9426,-50.9933,238782
+Caruaru,Brazil,-8.283333,-35.966667,235375
+Boa Vista,Brazil,2.816667,-60.666667,235159
+São José dos Pinhais,Brazil,-25.516667,-49.216667,229988
+Ipatinga,Brazil,-19.5,-42.533333,228750
+Sumaré,Brazil,-22.8,-47.283333,227982
+Juazeiro do Norte,Brazil,-7.2,-39.333333,225234
+Embu,Brazil,-23.65,-46.85,221737
+Imperatriz,Brazil,-5.533333,-47.483333,218110
+Colombo,Brazil,-25.283333,-49.233333,217002
+Magé,Brazil,-22.655556,-43.015278,216342
+Taboão da Serra,Brazil,-23.6,-46.766667,214527
+Jacareí,Brazil,-23.316667,-45.966667,213114
+Marília,Brazil,-22.216667,-49.933333,212222
+Presidente Prudente,Brazil,-22.116667,-51.366667,209507
+São Leopoldo,Brazil,-29.766667,-51.15,209233
+Itabuna,Brazil,-14.8,-39.266667,205666
+São Carlos,Brazil,-22.016667,-47.9,205039
+Hortolândia,Brazil,-22.85,-47.25,203537
+São José,Brazil,-27.633333,-48.65,203142
+Mossoró,Brazil,-5.191389,-37.344722,202010
+Itapevi,Brazil,-23.55,-46.933333,201752
+Sete Lagoas,Brazil,-19.45,-44.233333,201337
+Palmas,Brazil,-10.222778,-48.277778,196332
+Americana,Brazil,-22.740278,-47.334444,196026
+Petrolina,Brazil,-9.4,-40.5,194653
+Divinópolis,Brazil,-20.15,-44.9,193835
+Maracanaú,Brazil,-3.866667,-38.633333,193532
+Santarém,Brazil,-2.433333,-54.7,189053
+Camaçari,Brazil,-12.483333,-38.216667,188763
+Rio Grande,Brazil,-32.033333,-52.083333,187842
+Cachoeiro de Itapemirim,Brazil,-20.85,-41.1,187023
+Araraquara,Brazil,-21.783333,-48.166667,185191
+Itaboraí,Brazil,-22.75,-42.866667,182500
+Rio Claro,Brazil,-22.4,-47.55,180151
+Indaiatuba,Brazil,-23.083333,-47.233333,179914
+Passo Fundo,Brazil,-28.266667,-52.4,179532
+Cotia,Brazil,-23.616667,-46.933333,174832
+Francisco Morato,Brazil,-23.279503,-46.746403,171793
+Araçatuba,Brazil,-21.2,-50.416667,170028
+Ferraz de Vasconcelos,Brazil,-23.533333,-46.366667,167904
+Arapiraca,Brazil,-9.75,-36.65,166566
+Lages,Brazil,-27.8,-50.316667,164679
+Barra Mansa,Brazil,-22.533333,-44.183333,164054
+Nossa Senhora do Socorro,Brazil,-10.866667,-37.116667,163996
+Dourados,Brazil,-22.216667,-54.8,162206
+Criciúma,Brazil,-28.666667,-49.383333,161957
+Chapecó,Brazil,-27.083333,-52.983333,160160
+Sabará,Brazil,-19.9,-43.8,158359
+Barreiras,Brazil,-12.133333,-45,158296
+Sobral,Brazil,-3.7,-40.35,157998
+Itajaí,Brazil,-26.883333,-48.65,155719
+Ilhéus,Brazil,-14.816667,-39.033333,155503
+Angra dos Reis,Brazil,-23,-44.3,153637
+Nova Friburgo,Brazil,-22.266667,-42.533333,153363
+Rondonópolis,Brazil,-16.466667,-54.633333,152921
+Itapecerica da Serra,Brazil,-23.716667,-46.833333,151608
+Guarapuava,Brazil,-25.383333,-51.45,150851
+Parnamirim,Brazil,-5.916667,-35.25,150347
+Camaragibe,Brazil,-8.016667,-34.966667,148966
+Nilópolis,Brazil,-22.808487,-43.419792,147283
+Poços de Caldas,Brazil,-21.8,-46.566667,146590
+Marabá,Brazil,-5.35,-49.116667,145865
+Luziânia,Brazil,-16.25,-47.933333,143601
+Macaé,Brazil,-22.383333,-41.783333,143031
+Ibirité,Brazil,-20.033333,-44.066667,141376
+Paranaguá,Brazil,-25.516667,-48.5,141014
+Parnaíba,Brazil,-2.909167,-41.774722,138011
+Juàzeiro,Brazil,-9.5,-40.5,137807
+Itu,Brazil,-23.266667,-47.316667,137589
+Castanhal,Brazil,-1.3,-47.916667,137410
+São Caetano do Sul,Brazil,-23.6,-46.566667,136456
+Queimados,Brazil,-22.722897,-43.556316,135742
+Pindamonhangaba,Brazil,-22.916667,-45.466667,132220
+Sapucaia,Brazil,-29.833333,-51.15,130939
+Jaraguá do Sul,Brazil,-26.483333,-49.066667,130132
+Jequié,Brazil,-13.85,-40.083333,127479
+Itapetininga,Brazil,-23.6,-48.05,126245
+Patos de Minas,Brazil,-18.583333,-46.533333,126236
+Bragança Paulista,Brazil,-22.95,-46.566667,125099
+Timon,Brazil,-5.1,-42.816667,124429
+Teresópolis,Brazil,-22.424064,-42.968013,123980
+Uruguaiana,Brazil,-29.75,-57.083333,123482
+Pôrto Seguro,Brazil,-16.433333,-39.083333,123196
+Alagoinhas,Brazil,-12.116667,-38.433333,122692
+Palhoça,Brazil,-27.633333,-48.666667,122425
+Barbacena,Brazil,-21.233333,-43.766667,122213
+Cachoeirinha,Brazil,-29.95,-51.083333,121086
+Santa Rita,Brazil,-7.133333,-34.966667,119895
+Jaú,Brazil,-22.3,-48.55,119209
+Cubatão,Brazil,-23.883333,-46.416667,118412
+Caxias,Brazil,-4.833333,-43.35,117393
+Varginha,Brazil,-21.55,-45.433333,116573
+Pouso Alegre,Brazil,-22.216667,-45.933333,115203
+Araguaína,Brazil,-7.16,-48.0575,114959
+Botucatu,Brazil,-22.866667,-48.433333,113865
+Jandira,Brazil,-23.516667,-46.9,113607
+Ribeirão Pires,Brazil,-23.716667,-46.416667,111890
+Conselheiro Lafaiete,Brazil,-20.666667,-43.8,111598
+Resende,Brazil,-22.4679,-44.4575,111515
+Araucária,Brazil,-25.583333,-49.416667,111303
+Atibaia,Brazil,-23.124167,-46.562222,110970
+Várzea Paulista,Brazil,-23.2,-46.833333,110938
+Garanhuns,Brazil,-8.9,-36.483333,110087
+Araruama,Brazil,-22.883333,-42.333333,109638
+Catanduva,Brazil,-21.133333,-48.966667,109615
+Franco da Rocha,Brazil,-23.324821,-46.718475,108860
+Cabo Frio,Brazil,-22.883333,-42.016667,108241
+Araras,Brazil,-22.366667,-47.383333,107465
+Poá,Brazil,-23.533333,-46.333333,107434
+Vitória de Santo Antão,Brazil,-8.116667,-35.3,107385
+Apucarana,Brazil,-23.55,-51.483333,107086
+Santa Cruz do Sul,Brazil,-29.716667,-52.433333,106115
+Guaratinguetá,Brazil,-22.815156,-45.18923,105882
+Linhares,Brazil,-19.416667,-40.066667,105084
+Esmeraldas,Brazil,-19.75,-44.316667,103252
+Birigui,Brazil,-21.3,-50.316667,102279
+Barretos,Brazil,-20.55,-48.55,101222
+Colatina,Brazil,-19.533333,-40.616667,101193
+Teófilo Otoni,Brazil,-17.85,-41.5,101172
+Guaíba,Brazil,-30.111111,-51.316667,101026
+Guarapari,Brazil,-20.666667,-40.5,100927
+Coronel Fabriciano,Brazil,-19.516667,-42.633333,100918
+Itaguaí,Brazil,-22.870755,-43.773821,100756
+Ji-Paraná,Brazil,-10.833333,-61.966667,100128
+Itabira,Brazil,-19.616667,-43.216667,99498
+Votorantim,Brazil,-23.541318,-47.444671,99392
+Sertãozinho,Brazil,-21.133333,-47.983333,99213
+Santana de Parnaíba,Brazil,-23.45,-46.916667,98991
+Bagé,Brazil,-31.333333,-54.1,98943
+Passos,Brazil,-20.716667,-46.616667,98753
+Salto,Brazil,-23.2,-47.283333,98389
+Toledo,Brazil,-24.733333,-53.75,97846
+Ubá,Brazil,-21.116667,-42.933333,97829
+Ourinhos,Brazil,-22.983333,-49.866667,97801
+Trindade,Brazil,-16.666667,-49.5,97523
+Arapongas,Brazil,-23.383333,-51.45,97513
+Araguari,Brazil,-18.633333,-48.183333,96567
+Corumbá,Brazil,-19.016667,-57.65,96523
+Erechim,Brazil,-27.633333,-52.283333,96089
+Japeri,Brazil,-22.648889,-43.658611,95102
+Vespasiano,Brazil,-19.666667,-43.916667,94750
+Campo Largo,Brazil,-25.433333,-49.533333,94669
+Tatuí,Brazil,-23.346655,-47.848368,93582
+Patos,Brazil,-7.016667,-37.266667,92577
+Timóteo,Brazil,-19.583333,-42.666667,91723
+Muriaé,Brazil,-21.133333,-42.366667,91174
+Cambé,Brazil,-23.233333,-51.25,91081
+Bayeux,Brazil,-7.133333,-34.933333,91058
+Bento Gonçalves,Brazil,-29.166667,-51.516667,90854
+Caraguatatuba,Brazil,-23.616667,-45.416667,90844
+Itanhaém,Brazil,-24.183333,-46.783333,90387
+Santana do Livramento,Brazil,-30.883333,-55.516667,89696
+Umuarama,Brazil,-23.75,-53.333333,89688
+Almirante Tamandaré,Brazil,-25.3,-49.316667,89500
+Planaltina,Brazil,-15.616667,-47.666667,88855
+Crato,Brazil,-7.233333,-39.383333,88788
+Valinhos,Brazil,-22.95,-47.016667,88631
+São Lourenço da Mata,Brazil,-8,-35.05,88417
+Nova Lima,Brazil,-19.983333,-43.85,88400
+Brusque,Brazil,-27.1,-48.933333,88286
+Barra do Piraí,Brazil,-22.466111,-43.827778,87669
+Assis,Brazil,-22.666667,-50.416667,87473
+Caieiras,Brazil,-23.36193,-46.740681,87199
+Igarassu,Brazil,-7.833333,-34.9,86458
+Paulo Afonso,Brazil,-9.35,-38.233333,85353
+Ituiutaba,Brazil,-18.966667,-49.466667,85346
+Esteio,Brazil,-29.85,-51.166667,84903
+Sarandi,Brazil,-23.433333,-51.866667,84698
+Itaperuna,Brazil,-21.2,-41.9,84436
+Codó,Brazil,-4.483333,-43.883333,83289
+Araxá,Brazil,-19.583333,-46.916667,82597
+Abreu e Lima,Brazil,-7.9,-34.883333,81960
+Itajubá,Brazil,-22.433333,-45.45,81871
+Lavras,Brazil,-21.233333,-45,81474
+Avaré,Brazil,-23.083333,-48.916667,81287
+Formosa,Brazil,-15.533333,-47.333333,81233
+Leme,Brazil,-22.2,-47.4,81211
+Itumbiara,Brazil,-18.416667,-49.216667,79583
+Maricá,Brazil,-22.916667,-42.816667,79552
+Ubatuba,Brazil,-23.433333,-45.066667,79008
+Três Lagoas,Brazil,-20.8,-51.716667,78714
+São João del Rei,Brazil,-21.15,-44.266667,78593
+Moji-Mirim,Brazil,-22.433333,-46.95,78245
+Abaetetuba,Brazil,-1.7,-48.9,78052
+São Bento do Sul,Brazil,-26.249722,-49.3825,77598
+Alegrete,Brazil,-29.766667,-55.766667,77540
+Itaúna,Brazil,-20.066667,-44.566667,77402
+São Mateus,Brazil,-18.733333,-39.85,77119
+Jataí,Brazil,-17.883333,-51.716667,76548
+São João da Boa Vista,Brazil,-21.966667,-46.783333,76541
+Lorena,Brazil,-22.733333,-45.133333,76507
+Santa Cruz do Capibaribe,Brazil,-7.95,-36.2,76451
+São Sebastião,Brazil,-23.8,-45.416667,76369
+Tucuruí,Brazil,-3.7,-49.7,76339
+Embu-Guaçu,Brazil,-23.816667,-46.8,76311
+Sapiranga,Brazil,-29.633333,-51,76053
+Pará de Minas,Brazil,-19.85,-44.616667,75787
+Candeias,Brazil,-12.666667,-38.55,75673
+Cachoeira do Sul,Brazil,-30.033333,-52.9,74696
+Santo Antônio de Jesus,Brazil,-12.966667,-39.266667,73959
+Cáceres,Brazil,-16.066667,-57.683333,73431
+Paranavaí,Brazil,-23.066667,-52.466667,72849
+João Monlevade,Brazil,-19.833333,-43.133333,72763
+Matão,Brazil,-21.583333,-48.366667,72469
+Bacabal,Brazil,-4.233333,-44.783333,72374
+Caçapava,Brazil,-23.1,-45.716667,72341
+Arujá,Brazil,-23.4,-46.333333,72078
+Cruzeiro,Brazil,-22.566667,-44.966667,72023
+Patrocínio,Brazil,-18.95,-46.983333,71964
+Três Rios,Brazil,-22.111389,-43.207778,71945
+Bebedouro,Brazil,-20.933333,-48.466667,71863
+São Cristóvão,Brazil,-11.016667,-37.2,71540
+Alfenas,Brazil,-21.433333,-45.95,71407
+Ijuí,Brazil,-28.383333,-53.916667,71203
+Altamira,Brazil,-3.2,-52.2,70890
+Paracatu,Brazil,-17.216667,-46.866667,70754
+Carpina,Brazil,-7.85,-35.25,70690
+Iguatu,Brazil,-6.366667,-39.3,70381
+Paragominas,Brazil,-2.966667,-47.483333,69616
+Lins,Brazil,-21.666667,-49.75,69452
+Jaboticabal,Brazil,-21.266667,-48.316667,69396
+Viçosa,Brazil,-20.75,-42.883333,68681
+Balsas,Brazil,-7.516667,-46.033333,68058
+Itatiba,Brazil,-23,-46.85,67935
+Santa Inês,Brazil,-3.65,-45.366667,67426
+Tubarão,Brazil,-28.5,-49.016667,67246
+Pato Branco,Brazil,-26.216667,-52.666667,65754
+Paulínia,Brazil,-22.75,-47.166667,65596
+Lajeado,Brazil,-29.45,-51.966667,65408
+Cruz Alta,Brazil,-28.65,-53.6,65276
+Aquiraz,Brazil,-3.9,-38.366667,65117
+Gurupi,Brazil,-11.7225,-49.012222,64790
+Itaituba,Brazil,-4.216667,-56.016667,64758
+Santo Ângelo,Brazil,-28.3,-54.266667,64607
+Parintins,Brazil,-2.6,-56.733333,64429
+Curvelo,Brazil,-18.75,-44.416667,63955
+Itabaiana,Brazil,-10.683333,-37.433333,63889
+Caçador,Brazil,-26.783333,-51,63727
+Caldas Novas,Brazil,-17.75,-48.633333,63681
+Ouro Prêto,Brazil,-20.383333,-43.5,63679
+Irecê,Brazil,-11.3,-41.866667,63628
+Catalão,Brazil,-18.166667,-47.95,63545
+Três Corações,Brazil,-21.7,-45.266667,63458
+Rio Largo,Brazil,-9.483333,-35.85,63389
+Vilhena,Brazil,-12.716667,-60.116667,63237
+Valença,Brazil,-13.366667,-39.083333,63233
+Peruíbe,Brazil,-24.316667,-47,63032
+Itapeva,Brazil,-23.966667,-48.866667,62958
+Cataguases,Brazil,-21.4,-42.683333,62619
+Saquarema,Brazil,-22.933333,-42.5,62057
+Tupã,Brazil,-21.933333,-50.5,62036
+Fernandópolis,Brazil,-20.266667,-50.233333,61932
+Senador Canedo,Brazil,-16.716667,-49.083333,61801
+Itapira,Brazil,-22.433333,-46.833333,61608
+Gravatá,Brazil,-8.2,-35.566667,61250
+Valença,Brazil,-22.241944,-43.701389,61145
+Pirassununga,Brazil,-21.983333,-47.416667,60414
+Unaí,Brazil,-16.383333,-46.883333,60203
+Caratinga,Brazil,-19.783333,-42.133333,60067
+Itapetinga,Brazil,-15.25,-40.25,59723
+Mococa,Brazil,-21.466667,-47.016667,59656
+São Borja,Brazil,-28.65,-56,59614
+Caràzinho,Brazil,-28.3,-52.8,59418
+Santa Rosa,Brazil,-27.866667,-54.483333,58958
+Telêmaco Borba,Brazil,-24.35,-50.616667,58880
+Guanambi,Brazil,-14.216667,-42.783333,58879
+Aracruz,Brazil,-19.816667,-40.266667,58272
+Ariquemes,Brazil,-9.933333,-63.066667,58102
+Farroupilha,Brazil,-29.233333,-51.35,57651
+Francisco Beltrão,Brazil,-26.083333,-53.066667,57618
+Picos,Brazil,-7.083333,-41.466667,57496
+Lençóis Paulista,Brazil,-22.6,-48.783333,57376
+São Sebastião do Paraíso,Brazil,-20.916667,-47,57239
+Arcoverde,Brazil,-8.416667,-36.916667,57164
+Bragança,Brazil,-1.05,-46.766667,57164
+Vacaria,Brazil,-28.5,-50.933333,56766
+Cajamar,Brazil,-23.35,-46.883333,56684
+Janaúba,Brazil,-15.8,-43.316667,56573
+Vinhedo,Brazil,-23.016667,-46.983333,56493
+Formiga,Brazil,-20.45,-45.416667,56405
+Nova Viçosa,Brazil,-17.883333,-39.366667,56001
+Cianorte,Brazil,-23.616667,-52.616667,55995
+Itapipoca,Brazil,-3.5,-39.583333,55785
+Ponta Porã,Brazil,-22.533333,-55.716667,55765
+Estância,Brazil,-11.266667,-37.433333,55655
+Cacoal,Brazil,-11.5,-61.416667,55566
+São Gabriel,Brazil,-30.333333,-54.316667,55435
+Concórdia,Brazil,-27.233333,-52.016667,55368
+Pacatuba,Brazil,-3.966667,-38.616667,55292
+Viana,Brazil,-20.383333,-40.5,55123
+São Pedro da Aldeia,Brazil,-22.85,-42.1,55014
+Caicó,Brazil,-6.45,-37.1,54935
+Seropédica,Brazil,-22.747222,-43.716944,54846
+Cabedelo,Brazil,-6.966667,-34.833333,54841
+Campo Bom,Brazil,-29.683333,-51.05,54762
+Manhuaçu,Brazil,-20.25,-42.033333,54608
+Penápolis,Brazil,-21.4,-50.066667,54478
+Mairiporã,Brazil,-23.322628,-46.586935,54417
+Montenegro,Brazil,-29.7,-51.466667,54058
+Ipojuca,Brazil,-8.4,-35.066667,53365
+Campos do Jordão,Brazil,-22.7264,-45.5792,53320
+Camaquã,Brazil,-30.85,-51.816667,53170
+Crateús,Brazil,-5.166667,-40.666667,52934
+Manacapuru,Brazil,-3.3,-60.616667,52460
+Andradina,Brazil,-20.9,-51.383333,52407
+Barra do Garças,Brazil,-15.883333,-52.25,52402
+Cascavel,Brazil,-4.116667,-38.233333,52357
+Biguaçu,Brazil,-27.5,-48.666667,51993
+Batatais,Brazil,-20.883333,-47.616667,51977
+Rio do Sul,Brazil,-27.2181,-49.6436,51945
+Pirapora,Brazil,-17.35,-44.933333,51657
+Mirassol,Brazil,-20.766667,-49.466667,51559
+Içara,Brazil,-28.7,-49.3,51455
+Bezerros,Brazil,-8.233333,-35.75,51437
+Serra Talhada,Brazil,-7.983333,-38.3,51204
+Horizonte,Brazil,-4.083333,-38.483333,51181
+Nova Serrana,Brazil,-19.866667,-44.983333,51103
+Rolândia,Brazil,-23.3,-51.366667,51005
+Marechal Deodoro,Brazil,-9.716667,-35.9,50579
+São Roque,Brazil,-23.528458,-47.135273,50541
+Coari,Brazil,-4.109444,-63.138889,50491
+Taquaritinga,Brazil,-21.4,-48.5,50099
+Belo Jardim,Brazil,-8.333333,-36.433333,49923
+Benevides,Brazil,-1.366667,-48.25,49813
+Nova Odessa,Brazil,-22.783333,-47.3,49433
+Quixadá,Brazil,-4.966667,-39.016667,49328
+Pedro Leopoldo,Brazil,-19.633333,-44.05,49262
+Pôrto Ferreira,Brazil,-21.85,-47.466667,49128
+Camboriú,Brazil,-26.983333,-48.633333,49101
+Serrinha,Brazil,-11.65,-39,49079
+Ibitinga,Brazil,-21.75,-48.816667,49075
+Barra do Corda,Brazil,-5.5,-45.25,48902
+Congonhas,Brazil,-20.5,-43.866667,48819
+Boituva,Brazil,-23.283333,-47.683333,48756
+União da Victoria,Brazil,-26.216667,-51.083333,48741
+Floriano,Brazil,-6.783333,-43.016667,48588
+Parobé,Brazil,-29.633333,-50.833333,48560
+Senhor do Bonfim,Brazil,-10.45,-40.183333,48472
+Ponte Nova,Brazil,-20.4,-42.9,48188
+Escada,Brazil,-8.366667,-35.233333,48084
+Taquara,Brazil,-29.65,-50.783333,48052
+Sousa,Brazil,-6.75,-38.233333,47927
+Guaxupé,Brazil,-21.3,-46.7,47890
+Goianésia,Brazil,-15.3,-49.116667,47884
+Cruz das Almas,Brazil,-12.666667,-39.1,47846
+Navegantes,Brazil,-26.9,-48.65,47782
+Cosmópolis,Brazil,-22.633333,-47.2,47773
+Capanema,Brazil,-1.2,-47.183333,47768
+Jacobina,Brazil,-11.183333,-40.516667,47639
+Itamaraju,Brazil,-17.066667,-39.533333,47630
+Itaberaba,Brazil,-12.533333,-40.3,47303
+São José do Rio Pardo,Brazil,-21.6,-46.9,46990
+Santo Amaro,Brazil,-12.533333,-38.716667,46749
+Leopoldina,Brazil,-21.533333,-42.633333,46743
+Rio das Ostras,Brazil,-22.533333,-41.95,46619
+Santiago,Brazil,-29.183333,-54.883333,46612
+Breves,Brazil,-1.666667,-50.483333,46474
+Cachoeiras de Macacu,Brazil,-22.466667,-42.65,46178
+Itacoatiara,Brazil,-3.05,-58.433333,45995
+Mongaguá,Brazil,-24.1,-46.616667,45931
+Irati,Brazil,-25.4735,-50.6524,45831
+Registro,Brazil,-24.5,-47.833333,45698
+Tianguá,Brazil,-3.733333,-40.983333,45697
+Cruzeiro do Sul,Brazil,-7.633333,-72.6,45517
+Lagarto,Brazil,-10.9,-37.683333,45446
+Moreno,Brazil,-8.116667,-35.1,45238
+Mariana,Brazil,-20.383333,-43.416667,45237
+Cametá,Brazil,-2.25,-49.5,45202
+Olímpia,Brazil,-20.733333,-48.9,45200
+Timbaúba,Brazil,-7.516667,-35.316667,45122
+Cornélio Procópio,Brazil,-23.133333,-50.65,45031
+Tefé,Brazil,-3.366667,-64.7,44943
+Piripiri,Brazil,-4.266667,-41.783333,44866
+Itararé,Brazil,-24.116667,-49.333333,44810
+Ibiporã,Brazil,-23.283333,-51.05,44791
+Orlândia,Brazil,-20.716667,-47.883333,44767
+Camocim,Brazil,-2.89,-40.846111,44482
+Mairinque,Brazil,-23.544368,-47.183467,44457
+Indaial,Brazil,-26.8922,-49.2239,44360
+Aracati,Brazil,-4.566667,-37.766667,44294
+Inhumas,Brazil,-16.366667,-49.5,44058
+Monte Carmelo,Brazil,-18.716667,-47.483333,44041
+Goiana,Brazil,-7.55,-34.983333,43981
+Cajàzeiras,Brazil,-6.9,-38.566667,43914
+Jales,Brazil,-20.266667,-50.55,43832
+Guarabira,Brazil,-6.85,-35.483333,43750
+Três Pontas,Brazil,-21.366667,-45.516667,43750
+Imbituba,Brazil,-28.233333,-48.666667,43450
+Araranguá,Brazil,-28.933333,-49.483333,43445
+Lagoa da Prata,Brazil,-20.016667,-45.55,43119
+Marechal Cândido Rondon,Brazil,-24.566667,-54.066667,43028
+Canindé,Brazil,-4.366667,-39.316667,42721
+São Joaquim da Barra,Brazil,-20.583333,-47.883333,42720
+Videira,Brazil,-27,-51.133333,42441
+Limoeiro,Brazil,-7.866667,-35.45,42329
+Salgueiro,Brazil,-8.066667,-39.1,42153
+Penedo,Brazil,-10.283333,-36.6,42099
+Castro,Brazil,-24.783333,-50,42092
+Brumado,Brazil,-14.216667,-41.666667,41990
+Rio Negrinho,Brazil,-26.239449,-49.499857,41915
+Pesqueira,Brazil,-8.366667,-36.7,41896
+Monte Alto,Brazil,-21.283333,-48.483333,41894
+Palmares,Brazil,-8.683333,-35.6,41680
+Santos Dumont,Brazil,-21.466667,-43.566667,41582
+Pacajus,Brazil,-4.166667,-38.466667,41558
+Jaguaquara,Brazil,-13.533333,-39.966667,41499
+Amparo,Brazil,-22.7,-46.783333,41498
+Garça,Brazil,-22.233333,-49.616667,41303
+União dos Palmares,Brazil,-9.166667,-36.033333,41179
+Piraquara,Brazil,-25.433333,-49.066667,41162
+São Lourenço,Brazil,-22.116667,-45.05,41144
+Porto Feliz,Brazil,-23.213333,-47.523056,41016
+Salinópolis,Brazil,-0.616667,-47.333333,40999
+Frutal,Brazil,-20.033333,-48.916667,40931
+São Miguel dos Campos,Brazil,-9.783333,-36.083333,40891
+Porto Nacional,Brazil,-10.708056,-48.308333,40862
+Chapadinha,Brazil,-3.733333,-43.35,40805
+Bom Jesus da Lapa,Brazil,-13.25,-43.416667,40693
+Venâncio Aires,Brazil,-29.6,-52.183333,40628
+Alta Floresta,Brazil,-9.9,-55.9,40468
+Artur Nogueira,Brazil,-22.583333,-47.15,40404
+Estância Velha,Brazil,-29.65,-51.183333,40391
+Bom Despacho,Brazil,-19.716667,-45.25,40304
+Monte Mor,Brazil,-22.95,-47.333333,40291
+Mafra,Brazil,-26.1181,-49.8023,40081
+Macaíba,Brazil,-5.716667,-35.55,40016
+Catu,Brazil,-12.35,-38.383333,39933
+Serrana,Brazil,-21.233333,-47.6,39826
+Laguna,Brazil,-28.483333,-48.783333,39712
+Russas,Brazil,-4.933333,-37.966667,39465
+Itabirito,Brazil,-20.2484,-43.8063,39453
+Santa Isabel do Pará,Brazil,-1.266667,-48.183333,39284
+Pedreira,Brazil,-22.716667,-46.916667,39199
+Palmas,Brazil,-26.5,-52,39150
+Paraguaçu Paulista,Brazil,-22.416667,-50.566667,39120
+Mineiros,Brazil,-17.566667,-52.566667,38951
+Pinheiro,Brazil,-2.516667,-45.083333,38894
+Canoinhas,Brazil,-26.166667,-50.4,38863
+Ipiaú,Brazil,-14.133333,-39.733333,38763
+Cabreúva,Brazil,-23.3,-47.133333,38743
+Presidente Epitácio,Brazil,-21.766667,-52.1,38742
+Araripina,Brazil,-7.55,-40.566667,38570
+Lagoa Santa,Brazil,-19.633333,-43.883333,38487
+Mandaguari,Brazil,-23.533333,-51.7,38239
+Rio Grande da Serra,Brazil,-23.8,-46.333333,38162
+Pederneiras,Brazil,-22.383333,-48.766667,38020
+Rolim de Moura,Brazil,-13.083333,-62.266667,37953
+Dracena,Brazil,-21.533333,-51.483333,37940
+Nanuque,Brazil,-17.833333,-40.35,37825
+Espirito Santo do Pinhal,Brazil,-22.2,-46.75,37449
+Morada Nova,Brazil,-5.116667,-38.383333,37390
+Diamantina,Brazil,-18.25,-43.6,37344
+Santa Cruz do Rio Pardo,Brazil,-22.916667,-49.616667,37336
+Eusébio,Brazil,-3.9,-38.45,37290
+Barra Bonita,Brazil,-22.483333,-48.533333,37247
+Capão Bonito,Brazil,-24.016667,-48.333333,37207
+Beberibe,Brazil,-4.183333,-38.133333,37028
+Ituverava,Brazil,-20.333333,-47.783333,36998
+Dom Pedrito,Brazil,-30.983333,-54.666667,36912
+Itapema,Brazil,-27.099167,-48.615,36766
+Rosário do Sul,Brazil,-30.25,-54.916667,36722
+Cristalina,Brazil,-16.75,-47.6,36532
+Naviraí,Brazil,-23.133333,-54.216667,36453
+São Francisco do Sul,Brazil,-26.233333,-48.65,36225
+Vargem Grande do Sul,Brazil,-21.833333,-46.883333,36214
+Coelho Neto,Brazil,-4.25,-43,36185
+Sapé,Brazil,-7.1,-35.216667,36149
+Açu,Brazil,-5.577222,-36.9075,36126
+Paracambi,Brazil,-22.608611,-43.712778,36099
+Rio Bonito,Brazil,-22.716667,-42.616667,35997
+Capão da Canoa,Brazil,-29.766667,-50.016667,35896
+Araquari,Brazil,-26.3692,-48.7221,35691
+Oriximiná,Brazil,-1.765278,-55.863889,35582
+Barreiros,Brazil,-8.816667,-35.2,35565
+Currais Novos,Brazil,-6.25,-36.516667,35561
+Capivari,Brazil,-23.000722,-47.502026,35519
+Paraíba do Sul,Brazil,-22.1575,-43.290556,35518
+Xique-Xique,Brazil,-10.833333,-42.733333,35435
+Cerquilho,Brazil,-23.201218,-47.757822,35367
+Aquidauana,Brazil,-20.466667,-55.8,35304
+Delmiro Gouveia,Brazil,-9.383333,-37.983333,35260
+Santo Antônio da Platina,Brazil,-23.2942,-50.075,35260
+Poções,Brazil,-14.516667,-40.35,35255
+Conceição do Coité,Brazil,-11.55,-39.266667,35172
+Jacarezinho,Brazil,-23.171382,-49.991453,35090
+Januária,Brazil,-15.483333,-44.366667,34812
+Tramandaí,Brazil,-29.966667,-50.133333,34735
+Jardinópolis,Brazil,-21.033333,-47.766667,34719
+Oliveira,Brazil,-20.683333,-44.816667,34711
+Itaqui,Brazil,-29.133333,-56.55,34631
+Osório,Brazil,-29.9,-50.266667,34628
+Surubim,Brazil,-7.833333,-35.75,34581
+Itápolis,Brazil,-21.583333,-48.766667,34553
+Paiçandu,Brazil,-23.45,-52.033333,34365
+Américo Brasiliense,Brazil,-21.716667,-48.116667,34332
+Quixeramobim,Brazil,-5.2,-39.283333,34322
+Santa Helena de Goiás,Brazil,-17.716667,-50.583333,34254
+Aparecida,Brazil,-22.8418,-45.2287,34237
+São Gotardo,Brazil,-19.316667,-46.05,34145
+Morrinhos,Brazil,-17.733333,-49.116667,34144
+Coroatá,Brazil,-4.133333,-44.133333,34130
+Guajará-Mirim,Brazil,-10.8,-65.366667,34123
+Guaíra,Brazil,-20.316667,-48.3,34093
+Medianeira,Brazil,-25.283333,-54.083333,34069
+Tomé-Açu,Brazil,-2.416667,-48.15,34054
+Presidente Venceslau,Brazil,-21.866667,-51.833333,34026
+Barbalha,Brazil,-7.316667,-39.283333,33944
+Pedreiras,Brazil,-4.566667,-44.65,33909
+Além Paraíba,Brazil,-21.866667,-42.683333,33907
+Boa Esperança,Brazil,-21.083333,-45.566667,33840
+Timbó,Brazil,-26.833333,-49.3,33766
+Santa Isabel,Brazil,-23.3158,-46.2241,33709
+Gaspar,Brazil,-26.933333,-48.966667,33659
+São Manuel,Brazil,-22.733333,-48.566667,33588
+Canela,Brazil,-29.366667,-50.833333,33529
+Arcos,Brazil,-20.283333,-45.533333,33356
+Casa Nova,Brazil,-9.416667,-41.133333,33319
+Caeté,Brazil,-19.9,-43.666667,33232
+Santo Antônio de Pádua,Brazil,-21.533333,-42.183333,33076
+São Francisco,Brazil,-15.95,-44.866667,33033
+Machado,Brazil,-21.683333,-45.933333,33003
+Xanxerê,Brazil,-26.883333,-52.383333,32958
+Ilhabela,Brazil,-23.783333,-45.35,32903
+Tôrres,Brazil,-29.35,-49.733333,32791
+Porangatu,Brazil,-13.433333,-49.166667,32758
+Capitão Poço,Brazil,-1.75,-47.083333,32704
+Cravinhos,Brazil,-21.316667,-47.75,32690
+Ceará-Mirim,Brazil,-5.633333,-35.433333,32668
+Pontal,Brazil,-21.05,-48.083333,32567
+Coaraci,Brazil,-14.633333,-39.533333,32345
+Salto de Pirapora,Brazil,-23.6494,-47.5715,32228
+Paranaíba,Brazil,-19.666667,-51.183333,32218
+Curitibanos,Brazil,-27.3,-50.6,32142
+Bocaiúva,Brazil,-17.116667,-43.816667,32115
+Quirinópolis,Brazil,-18.533333,-50.5,32104
+Charqueadas,Brazil,-29.966667,-51.633333,32076
+Tietê,Brazil,-23.100174,-47.714392,32062
+Itapagé,Brazil,-3.683333,-39.566667,32043
+Matinhos,Brazil,-25.816667,-48.533333,32008
+São Luiz Gonzaga,Brazil,-28.4,-54.966667,31798
+Campo Maior,Brazil,-4.816667,-42.166667,31740
+Tremembé,Brazil,-22.966667,-45.55,31720
+Jaguariúna,Brazil,-22.683333,-46.983333,31718
+Coruripe,Brazil,-10.133333,-36.166667,31428
+Barra do Bugres,Brazil,-15.083333,-57.183333,31313
+Tucano,Brazil,-10.966667,-38.8,31209
+Humaitá,Brazil,-7.516389,-63.022222,31207
+Guapimirim,Brazil,-22.533333,-42.983333,31202
+Campina Grande do Sul,Brazil,-25.3,-49.083333,31112
+Louveira,Brazil,-23.066667,-46.966667,31098
+Adamantina,Brazil,-21.683333,-51.066667,31079
+São Sebastião do Passé,Brazil,-12.516667,-38.466667,31050
+Palmeira das Missões,Brazil,-27.916667,-53.283333,30954
+Itaitinga,Brazil,-3.966667,-38.516667,30939
+Matozinhos,Brazil,-19.583333,-44.116667,30844
+Bom Jesus do Itabapoana,Brazil,-21.133333,-41.683333,30822
+Agudos,Brazil,-22.466667,-49,30808
+Jaguariaíva,Brazil,-24.25,-49.7,30627
+Pilar,Brazil,-9.6,-35.933333,30617
+Vera Cruz,Brazil,-12.633333,-41.033333,30557
+Guariba,Brazil,-21.35,-48.233333,30464
+Jaraguá,Brazil,-15.75,-49.333333,30410
+Panambi,Brazil,-28.3,-53.5,30408
+Garibaldi,Brazil,-29.25,-51.533333,30364
+Presidente Dutra,Brazil,-5.25,-44.5,30330
+Grajaú,Brazil,-5.816667,-46.133333,30218
+Coxim,Brazil,-18.5,-54.75,30216
+Novo Horizonte,Brazil,-21.466667,-49.216667,30159
+Uruaçu,Brazil,-14.5,-49.166667,30088
+Barcarena,Brazil,-1.5,-48.666667,29872
+Ribeirão,Brazil,-8.516667,-35.383333,29819
+Iturama,Brazil,-19.733333,-50.183333,29805
+Tobias Barreto,Brazil,-11.183333,-38.016667,29741
+Euclides da Cunha,Brazil,-10.516667,-39.016667,29739
+Jaguarão,Brazil,-32.566667,-53.383333,29613
+Ibaté,Brazil,-21.95,-48,29550
+Bandeirantes,Brazil,-23.1,-50.35,29495
+Limoeiro do Norte,Brazil,-5.133333,-38.083333,29450
+Pontes e Lacerda,Brazil,-15.2,-59.366667,29383
+Almenara,Brazil,-16.183333,-40.7,29333
+Ouricuri,Brazil,-7.883333,-40.083333,29318
+Vigia,Brazil,-0.8,-48.133333,29229
+Tauá,Brazil,-5.966667,-40.3,29189
+Miracema do Tocantins,Brazil,-9.529167,-48.319722,29181
+Igarapava,Brazil,-20.05,-47.783333,29058
+Visconde do Rio Branco,Brazil,-21.016667,-42.833333,29010
+Dois Irmãos,Brazil,-29.583333,-51.083333,28926
+Pôrto União,Brazil,-26.25,-51.083333,28907
+Bariri,Brazil,-22.066667,-48.733333,28802
+Altos,Brazil,-5.05,-42.466667,28769
+Santa Rita do Sapucaí,Brazil,-22.25,-45.7,28766
+Várzea da Palma,Brazil,-17.6,-44.733333,28706
+Igrejinha,Brazil,-29.566667,-50.8,28680
+Barra dos Coqueiros,Brazil,-10.9,-37.05,28590
+Pitangueiras,Brazil,-21.033333,-48.216667,28541
+Acaraú,Brazil,-2.883333,-40.116667,28389
+Ubaitaba,Brazil,-14.3,-39.333333,28376
+Nova Venécia,Brazil,-18.716667,-40.4,28363
+Icó,Brazil,-6.4,-38.85,28323
+São Miguel do Guamá,Brazil,-1.616667,-47.45,28266
+Iporá,Brazil,-16.466667,-51.116667,28254
+Ribeira do Pombal,Brazil,-10.833333,-38.533333,28236
+São Mateus do Maranhão,Brazil,-4.033333,-44.466667,28234
+Tabatinga,Brazil,-4.240833,-69.942222,28230
+Cândido Mota,Brazil,-22.716667,-50.383333,28145
+João Pinheiro,Brazil,-17.75,-46.166667,28083
+Jaru,Brazil,-10.433333,-62.45,28018
+Piedade,Brazil,-23.713098,-47.414578,27913
+José Bonifácio,Brazil,-21.05,-49.683333,27828
+Bom Conselho,Brazil,-9.166667,-36.683333,27801
+São Fidélis,Brazil,-21.65,-41.733333,27793
+São José de Ribamar,Brazil,-2.55,-44.05,27777
+Santa Cruz,Brazil,-6.216667,-36.016667,27776
+Santa Vitória do Palmar,Brazil,-33.516667,-53.35,27776
+Guaíra,Brazil,-24.066667,-54.25,27611
+Mamanguape,Brazil,-6.833333,-35.116667,27607
+Cajati,Brazil,-24.728502,-48.110541,27566
+Brumadinho,Brazil,-20.133333,-44.216667,27564
+Guararapes,Brazil,-21.25,-50.633333,27558
+Niquelândia,Brazil,-14.45,-48.45,27544
+Aguaí,Brazil,-22.066667,-46.966667,27503
+Entre Rios,Brazil,-11.933333,-38.083333,27406
+Brejo Santo,Brazil,-7.483333,-39,27384
+Brejo da Madre de Deus,Brazil,-8.15,-36.366667,27370
+São Miguel do Oeste,Brazil,-26.75,-53.566667,27360
+Santo Estêvão,Brazil,-12.433333,-39.216667,27280
+Ipirá,Brazil,-12.166667,-39.733333,27218
+Caetité,Brazil,-14.066667,-42.483333,27188
+Conceição do Araguaia,Brazil,-8.241111,-49.296111,27116
+Taquari,Brazil,-29.8,-51.85,27108
+São Pedro,Brazil,-22.55,-47.9,27068
+Aripuanã,Brazil,-9.166667,-60.633333,27043
+Promissão,Brazil,-21.533333,-49.866667,27032
+Mangaratiba,Brazil,-22.9609,-44.0402,27023
+Rio Pardo,Brazil,-29.983333,-52.366667,26999
+Barrinha,Brazil,-21.2,-48.15,26981
+Marau,Brazil,-28.45,-52.2,26860
+Igarapé-Miri,Brazil,-1.983333,-48.966667,26838
+Mucuri,Brazil,-18.083333,-39.566667,26823
+Andradas,Brazil,-22.066667,-46.566667,26773
+Viana,Brazil,-3.216667,-45,26690
+Ouro Branco,Brazil,-20.533333,-43.7,26687
+Ouro Prêto do Oeste,Brazil,-10.666667,-62.3,26686
+Miracema,Brazil,-21.416667,-42.183333,26684
+Mata de São João,Brazil,-12.516667,-38.283333,26680
+Ipu,Brazil,-4.333333,-40.7,26679
+Itaperuçu,Brazil,-25.2,-49.366667,26552
+Carmo do Paranaíba,Brazil,-18.983333,-46.35,26537
+Nazaré da Mata,Brazil,-7.733333,-35.233333,26485
+Biritiba-Mirim,Brazil,-23.583333,-46.033333,26459
+Rio Branco do Sul,Brazil,-25.166667,-49.3,26441
+Canavieiras,Brazil,-15.65,-38.95,26376
+Gramado,Brazil,-29.4,-50.9,26365
+Alenquer,Brazil,-1.933333,-54.766667,26291
+Arraial do Cabo,Brazil,-22.966667,-42.016667,26164
+Santana do Ipanema,Brazil,-9.366667,-37.233333,26147
+Descalvado,Brazil,-21.9,-47.616667,26138
+Piracaia,Brazil,-23.05,-46.35,26076
+Marialva,Brazil,-23.466667,-51.7,26001
+Lago da Pedra,Brazil,-4.333333,-45.166667,25996
+Goiatuba,Brazil,-18.016667,-49.366667,25925
+Granja,Brazil,-3.1,-40.833333,25880
+Santa Fé do Sul,Brazil,-20.216667,-50.933333,25802
+Santa Cruz das Palmeiras,Brazil,-21.816667,-47.25,25801
+Ibaiti,Brazil,-23.8469,-50.1886,25797
+Pimenta Bueno,Brazil,-11.65,-61.2,25785
+Osvaldo Cruz,Brazil,-21.783333,-50.833333,25747
+Salinas,Brazil,-16.166667,-42.283333,25747
+Cordeirópolis,Brazil,-22.483333,-47.466667,25639
+Lapa,Brazil,-25.765833,-49.717778,25621
+Nazaré,Brazil,-13.033333,-39,25604
+Santana do Paraíso,Brazil,-19.366667,-42.533333,25537
+Rancharia,Brazil,-22.25,-50.916667,25531
+Marataízes,Brazil,-21.033333,-40.833333,25397
+São Lourenço do Sul,Brazil,-31.366667,-51.966667,25341
+Carangola,Brazil,-20.733333,-42.033333,25322
+Pompeu,Brazil,-19.166667,-45.1,25278
+Piraju,Brazil,-23.2,-49.383333,25271
+Morro Agudo,Brazil,-20.733333,-48.066667,25266
+Lajedo,Brazil,-8.383333,-36.55,25262
+São Caitano,Brazil,-8.35,-36.1,25259
+Itupeva,Brazil,-17.416667,-40.483333,25183
+Colinas,Brazil,-6.033333,-44.233333,25159
+Buritizeiro,Brazil,-17.35,-44.966667,25104
+Pojuca,Brazil,-12.35,-38.333333,25102
+Afogados da Ingàzeira,Brazil,-7.75,-37.65,25060
+Pau dos Ferros,Brazil,-6.116667,-38.166667,25051
+Óbidos,Brazil,-1.908333,-55.518889,24971
+São Mateus do Sul,Brazil,-25.866667,-50.383333,24904
+Mateus Leme,Brazil,-19.983333,-44.416667,24890
+Nova Esperança,Brazil,-23.182485,-52.203005,24833
+Pires do Rio,Brazil,-17.3,-48.283333,24823
+Soledade,Brazil,-28.833333,-52.5,24791
+São Bento,Brazil,-6.283333,-37.75,24749
+Boa Viagem,Brazil,-5.116667,-39.733333,24671
+São Francisco do Conde,Brazil,-12.65,-38.683333,24615
+Santa Rita do Passa Quatro,Brazil,-21.7,-47.466667,24579
+Acopiara,Brazil,-6.1,-39.45,24562
+Juatuba,Brazil,-19.95,-44.333333,24551
+São Bento do Una,Brazil,-8.533333,-36.366667,24506
+Lagoa Vermelha,Brazil,-28.216667,-51.533333,24446
+Uruçuca,Brazil,-14.583333,-39.266667,24414
+Tupaciguara,Brazil,-18.583333,-48.7,24398
+Santa Quitéria,Brazil,-4.333333,-40.166667,24391
+Taiobeiras,Brazil,-15.816667,-42.233333,24351
+Socorro,Brazil,-22.6,-46.533333,24272
+Estrêla,Brazil,-28.1,-50.983333,24200
+Igarapé-Açu,Brazil,-1.116667,-47.616667,24136
+Rio Real,Brazil,-11.466667,-37.933333,24006
+Toritama,Brazil,-8.016667,-36.066667,23941
+Campo Formoso,Brazil,-10.516667,-40.333333,23921
+Miguel Pereira,Brazil,-22.452778,-43.476389,23850
+Capinzal,Brazil,-27.333333,-51.6,23799
+Propriá,Brazil,-10.216667,-36.85,23787
+Iguape,Brazil,-24.716667,-47.55,23785
+Jardim,Brazil,-21.466667,-56.15,23781
+Tanguá,Brazil,-22.733333,-42.716667,23740
+Guanhães,Brazil,-18.783333,-42.95,23728
+Rio das Pedras,Brazil,-22.833333,-47.6,23722
+São Luís de Montes Belos,Brazil,-16.533333,-50.333333,23619
+São Gonçalo do Amarante,Brazil,-3.6,-38.966667,23583
+Guararema,Brazil,-23.4132,-46.0377,23572
+Itambé,Brazil,-15.25,-40.616667,23559
+Joaçaba,Brazil,-27.166667,-51.5,23516
+Santa Maria da Vitória,Brazil,-13.4,-44.2,23489
+Armação dos Búzios,Brazil,-22.75,-41.883333,23463
+Tocantinópolis,Brazil,-6.324444,-47.277778,23383
+Mirandópolis,Brazil,-21.15,-51.1,23379
+Catende,Brazil,-8.666667,-35.716667,23323
+Ivaiporã,Brazil,-24.25,-51.75,23316
+Rosário,Brazil,-2.95,-44.233333,23271
+Laranjeiras,Brazil,-10.8,-37.166667,23251
+Quaraí,Brazil,-30.383333,-56.45,23229
+Nova Cruz,Brazil,-6.466667,-35.433333,23166
+São João Nepomuceno,Brazil,-21.55,-43.016667,23155
+Trairi,Brazil,-3.283333,-39.25,23135
+Jaguaribe,Brazil,-5.883333,-38.616667,23066
+Palotina,Brazil,-24.283333,-53.833333,23059
+Forquilhinha,Brazil,-28.75,-49.466667,23021
+Rio Negro,Brazil,-26.0934,-49.7895,23007
+Santa Luzia,Brazil,-7.633333,-47.2,22910
+Ibiúna,Brazil,-23.654522,-47.218152,22860
+Campo Verde,Brazil,-20.416667,-54.066667,22842
+Monte Alegre,Brazil,-2.016667,-54.066667,22841
+Goianira,Brazil,-16.5,-49.433333,22823
+Remanso,Brazil,-9.683333,-42.066667,22780
+Dois Vizinhos,Brazil,-25.783333,-53.083333,22766
+Igaraçu do Tietê,Brazil,-22.516667,-48.566667,22758
+Jaciara,Brazil,-15.983333,-54.95,22739
+Caxambu,Brazil,-21.983333,-44.933333,22701
+Maracaju,Brazil,-21.633333,-55.15,22690
+Iaçu,Brazil,-12.75,-40.216667,22665
+Una,Brazil,-15.3,-39.066667,22650
+Coromandel,Brazil,-18.466667,-47.216667,22648
+Serra Negra,Brazil,-22.6,-46.7,22632
+Jaguarari,Brazil,-10.266667,-40.2,22617
+Santo Antônio do Monte,Brazil,-20.083333,-45.283333,22592
+Campos Novos,Brazil,-27.4,-51.2,22563
+Águas Belas,Brazil,-9.116667,-37.116667,22563
+Pereira Barreto,Brazil,-20.633333,-51.116667,22537
+Amargosa,Brazil,-13.033333,-39.6,22531
+Casa Branca,Brazil,-21.766667,-47.083333,22498
+Tijucas,Brazil,-27.241111,-48.631389,22482
+Maués,Brazil,-3.4,-57.7,22476
+Baturité,Brazil,-4.333333,-38.883333,22417
+Muritiba,Brazil,-12.916667,-39.25,22388
+Barão de Cocais,Brazil,-19.933333,-43.466667,22387
+Braço do Norte,Brazil,-28.283333,-49.183333,22375
+Itaí,Brazil,-23.4,-49.1,22305
+Campos Gerais,Brazil,-21.233333,-45.766667,22260
+Massapê,Brazil,-3.516667,-40.316667,22193
+Itaberaí,Brazil,-16.033333,-49.8,22130
+Corinto,Brazil,-18.35,-44.45,22121
+Maracás,Brazil,-13.433333,-40.45,22050
+Pedro II,Brazil,-4.416667,-41.466667,22039
+Cururupu,Brazil,-1.833333,-44.866667,22007
+Araçuaí,Brazil,-16.866667,-42.066667,22005
+Nova Russas,Brazil,-4.7,-40.566667,21986
+Pomerode,Brazil,-26.75,-49.183333,21898
+Nerópolis,Brazil,-16.416667,-49.233333,21870
+Várzea Alegre,Brazil,-5.35,-40.383333,21842
+Teutônia,Brazil,-29.433333,-51.8,21834
+Cláudio,Brazil,-20.433333,-44.766667,21825
+Guaiuba,Brazil,-4.033333,-38.633333,21822
+Jaguaruana,Brazil,-4.833333,-37.783333,21791
+Pombal,Brazil,-6.766667,-37.783333,21751
+Pirapòzinho,Brazil,-22.25,-51.5,21711
+Álvares Machado,Brazil,-22.133333,-51.5,21642
+Barras,Brazil,-4.25,-42.3,21597
+Gandu,Brazil,-13.75,-39.5,21566
+Moju,Brazil,-1.883333,-48.766667,21511
+Taquarituba,Brazil,-23.516667,-49.25,21493
+Poconé,Brazil,-16.259722,-56.626944,21485
+Santa Rosa de Viterbo,Brazil,-21.466667,-47.35,21473
+José de Freitas,Brazil,-4.75,-42.583333,21433
+Igarapé,Brazil,-20.066667,-44.3,21427
+Guaramirim,Brazil,-26.45,-49,21422
+Vargem Grande,Brazil,-3.55,-43.933333,21420
+Cambará,Brazil,-23.0411,-50.0741,21380
+Xaxim,Brazil,-26.933333,-52.516667,21376
+Conchal,Brazil,-22.333333,-47.166667,21351
+Portel,Brazil,-1.95,-50.816667,21315
+Itupiranga,Brazil,-5.15,-49.333333,21301
+Laranjal Paulista,Brazil,-23.048726,-47.835968,21264
+Cambuí,Brazil,-22.616667,-46.066667,21247
+Paracuru,Brazil,-3.4,-39.066667,21197
+Vassouras,Brazil,-22.406111,-43.664167,21175
+Ruy Barbosa,Brazil,-12.3,-40.45,21093
+Ouro Fino,Brazil,-28.983333,-52.816667,21076
+Oeiras,Brazil,-7.016667,-42.133333,21071
+Portão,Brazil,-29.7,-51.25,21051
+Três Coroas,Brazil,-29.533333,-50.8,21051
+Esperantina,Brazil,-3.9,-42.233333,21044
+Dois Córregos,Brazil,-22.366667,-48.35,20975
+Maragogipe,Brazil,-12.766667,-38.916667,20921
+Pedra Azul,Brazil,-16.016667,-41.266667,20899
+Frederico Westphalen,Brazil,-27.366667,-53.4,20896
+Barra,Brazil,-11.083333,-43.166667,20895
+Sarzedo,Brazil,-20.033333,-44.15,20800
+Andirá,Brazil,-23.0488,-50.2276,20758
+Barra de São Francisco,Brazil,-18.75,-40.866667,20743
+São João da Barra,Brazil,-21.633333,-41.05,20606
+Petrolândia,Brazil,-9.083333,-38.3,20575
+São Luís do Quitunde,Brazil,-9.333333,-35.55,20564
+Flores da Cunha,Brazil,-29.0287,-51.1822,20522
+Sena Madureira,Brazil,-9.066667,-68.666667,20516
+Almeirim,Brazil,-1.533333,-52.566667,20464
+Colorado,Brazil,-22.816667,-51.95,20449
+Queimadas,Brazil,-7.35,-35.916667,20446
+Murici,Brazil,-9.316667,-35.933333,20420
+Abaeté,Brazil,-19.15,-45.45,20371
+Buíque,Brazil,-8.616667,-37.15,20324
+Amambaí,Brazil,-23.083333,-55.216667,20261
+Castelo,Brazil,-20.6,-41.2,20198
+Canguçu,Brazil,-31.4,-52.683333,20134
+Astorga,Brazil,-23.216667,-51.666667,20129
+Itaparica,Brazil,-12.9,-38.7,20101
+Penha,Brazil,-26.766667,-48.65,20097
+Capelinha,Brazil,-17.7,-42.516667,20074
+Pedra Branca,Brazil,-5.45,-39.716667,20072
+Mauriti,Brazil,-7.383333,-38.766667,20064
+Guaporé,Brazil,-28.85,-51.9,20050
+Posse,Brazil,-14.083333,-46.366667,20003
+Santa Bárbara,Brazil,-19.933333,-43.4,19991
+Tambaú,Brazil,-21.7,-47.266667,19957
+Ibirataia,Brazil,-14.066667,-39.633333,19943
+Livramento,Brazil,-13.65,-41.833333,19914
+Prata,Brazil,-19.3,-48.916667,19896
+Ituberá,Brazil,-13.733333,-39.15,19888
+João Câmara,Brazil,-5.533333,-35.8,19886
+Veranópolis,Brazil,-28.95,-51.55,19862
+Catolé do Rocha,Brazil,-6.35,-37.75,19812
+Guaçuí,Brazil,-20.766667,-41.683333,19787
+Alegre,Brazil,-20.766667,-41.533333,19758
+Itapuranga,Brazil,-15.583333,-49.983333,19709
+Pentecoste,Brazil,-3.8,-39.283333,19681
+Imbituva,Brazil,-25.2,-50.583333,19671
+Lábrea,Brazil,-7.266667,-64.783333,19624
+Prudentópolis,Brazil,-25.2,-50.95,19611
+Sento Sé,Brazil,-9.666667,-41.3,19596
+Condado,Brazil,-7.583333,-35.1,19585
+Ibicaraí,Brazil,-14.85,-39.6,19575
+Viçosa,Brazil,-9.4,-36.233333,19574
+São Raimundo Nonato,Brazil,-9.016667,-42.7,19569
+Santa Cruz Cabrália,Brazil,-16.283333,-39.033333,19549
+Cajuru,Brazil,-21.283333,-47.3,19540
+São João dos Patos,Brazil,-6.5,-43.7,19539
+Butiá,Brazil,-30.116667,-51.966667,19494
+São Gonçalo do Sapucaí,Brazil,-21.9,-45.6,19487
+Pinheiral,Brazil,-22.516667,-43.983333,19469
+Gameleira,Brazil,-8.583333,-35.4,19424
+Elói Mendes,Brazil,-21.616667,-45.566667,19413
+Trindade,Brazil,-7.8,-40.283333,19313
+Conceição da Barra,Brazil,-18.583333,-39.75,19310
+Sobradinho,Brazil,-12.5,-39.116667,19304
+Baixo Guandu,Brazil,-19.516667,-41.016667,19292
+Nova Olímpia,Brazil,-14.816667,-57.333333,19283
+São Sepé,Brazil,-30.166667,-53.566667,19182
+Paraopeba,Brazil,-19.3,-44.416667,19151
+Aimorés,Brazil,-19.5,-41.066667,19133
+Pilar do Sul,Brazil,-23.816667,-47.7,19107
+Carlos Barbosa,Brazil,-29.3,-51.5,19106
+Piraí,Brazil,-22.627778,-43.901944,19105
+Itabaiana,Brazil,-7.333333,-35.333333,19101
+Goiás,Brazil,-15.933333,-50.133333,19098
+Cupira,Brazil,-8.616667,-35.95,19096
+Casimiro de Abreu,Brazil,-22.483333,-42.2,19087
+São Sebastião do Caí,Brazil,-29.583333,-51.383333,19013
+Viseu,Brazil,-1.2,-46.116667,18958
+Nepomuceno,Brazil,-21.233333,-45.25,18911
+Atalaia,Brazil,-9.516667,-36.033333,18908
+Guaratuba,Brazil,-25.8804,-48.571,18906
+Mascote,Brazil,-15.55,-39.283333,18899
+Canguaretama,Brazil,-6.383333,-35.133333,18873
+Esplanada,Brazil,-11.783333,-37.95,18859
+Pitangui,Brazil,-19.666667,-44.9,18859
+Piracuruca,Brazil,-3.933333,-41.7,18852
+Bambuí,Brazil,-20.016667,-45.966667,18840
+Rio Brilhante,Brazil,-21.8,-54.55,18837
+Anastácio,Brazil,-20.516667,-55.8,18817
+Esperança,Brazil,-7.016667,-35.85,18817
+São Miguel do Araguaia,Brazil,-13.316667,-50.216667,18810
+Águas de Lindóia,Brazil,-22.483333,-46.65,18806
+Ceres,Brazil,-15.283333,-49.583333,18760
+Mantena,Brazil,-18.783333,-40.983333,18715
+Matriz de Camaragibe,Brazil,-9.15,-35.516667,18705
+Brotas,Brazil,-22.283333,-48.116667,18690
+Pitanga,Brazil,-24.766667,-51.733333,18652
+Palmeira,Brazil,-25.426111,-50.003333,18630
+Nossa Senhora da Glória,Brazil,-10.233333,-37.416667,18613
+Ipameri,Brazil,-17.716667,-48.15,18607
+São Marcos,Brazil,-28.966667,-51.066667,18591
+Tapes,Brazil,-30.666667,-51.383333,18570
+Palmital,Brazil,-22.783333,-50.2,18540
+Cassilândia,Brazil,-19.15,-51.75,18498
+Santa Gertrudes,Brazil,-22.466667,-47.516667,18490
+Martinópolis,Brazil,-22.183333,-51.2,18488
+Belo Oriente,Brazil,-19.233333,-42.466667,18471
+Jacutinga,Brazil,-22.283333,-46.616667,18470
+Ibiá,Brazil,-19.483333,-46.533333,18428
+Laranjeiras do Sul,Brazil,-25.416667,-52.416667,18425
+Paraipaba,Brazil,-3.433333,-39.116667,18424
+Santo Amaro da Imperatriz,Brazil,-27.683333,-48.766667,18420
+Simão Dias,Brazil,-10.733333,-37.816667,18386
+Areia Branca,Brazil,-4.953889,-37.132222,18372
+Brodowski,Brazil,-20.983333,-47.666667,18366
+Ibirama,Brazil,-27.0546,-49.516,18360
+Cícero Dantas,Brazil,-10.6,-38.383333,18317
+Três de Maio,Brazil,-27.783333,-54.233333,18278
+São Domingos do Maranhão,Brazil,-5.7,-44.366667,18275
+Guará,Brazil,-20.433333,-47.833333,18263
+Miguelópolis,Brazil,-20.2,-48.05,18262
+Apiaí,Brazil,-24.511926,-48.844671,18260
+Loanda,Brazil,-22.9,-53.166667,18233
+Tanabi,Brazil,-20.616667,-49.616667,18228
+São José do Egito,Brazil,-7.466667,-37.266667,18219
+Soure,Brazil,-0.733333,-48.516667,18212
+Sertânia,Brazil,-8.083333,-37.266667,18190
+Guaraciaba do Norte,Brazil,-4.166667,-40.766667,18186
+Ivoti,Brazil,-29.6,-51.166667,18172
+Santo Antônio de Posse,Brazil,-22.6,-46.916667,18149
+Bela Vista,Brazil,-22.1,-56.516667,18127
+Monte Azul Paulista,Brazil,-20.916667,-48.633333,18117
+Custódia,Brazil,-8.116667,-37.65,18107
+Floresta,Brazil,-8.6,-38.566667,18100
+Macau,Brazil,-5.116667,-36.633333,18070
+Itamarandiba,Brazil,-17.85,-42.85,18064
+Carauari,Brazil,-4.879167,-66.898056,18059
+Pompéia,Brazil,-22.133333,-50.166667,18015
+Extremóz,Brazil,-5.7,-35.3,17992
+Tamandaré,Brazil,-8.75,-35.1,17954
+Nova Prata,Brazil,-28.783333,-51.6,17943
+Jarinu,Brazil,-23.103333,-46.728056,17905
+Timbiras,Brazil,-4.25,-43.95,17875
+Bôca da Mata,Brazil,-9.6,-36.25,17834
+Camanducaia,Brazil,-22.766667,-46.15,17823
+Perdões,Brazil,-21.083333,-45.083333,17821
+Monteiro,Brazil,-7.883333,-37.116667,17727
+Lagoa do Itaenga,Brazil,-7.916667,-35.333333,17719
+Buriti Bravo,Brazil,-5.833333,-43.833333,17693
+Bastos,Brazil,-21.933333,-50.716667,17681
+Barra Velha,Brazil,-26.6406,-48.6851,17665
+Campos Sales,Brazil,-7.066667,-40.383333,17648
+Estreito,Brazil,-5.783333,-43.25,17647
+Piúma,Brazil,-20.833333,-40.716667,17634
+Espinosa,Brazil,-14.933333,-42.833333,17549
+Itapemirim,Brazil,-21.016667,-40.833333,17536
+Mari,Brazil,-7.083333,-35.333333,17535
+Quatro Barras,Brazil,-25.366667,-49.083333,17526
+Caçapava do Sul,Brazil,-30.5,-53.5,17522
+Jandaia do Sul,Brazil,-23.6,-51.65,17507
+Pirajuí,Brazil,-21.983333,-49.483333,17503
+Tupanciretã,Brazil,-29.083333,-53.85,17488
+Barreirinhas,Brazil,-2.75,-42.833333,17437
+Guaranésia,Brazil,-21.3,-46.8,17437
+Glória do Goitá,Brazil,-8.016667,-35.283333,17374
+Ibotirama,Brazil,-12.183333,-43.216667,17354
+Pôrto Calvo,Brazil,-9.066667,-35.4,17347
+Aparecida do Taboado,Brazil,-20.083333,-51.083333,17332
+Aliança,Brazil,-7.583333,-35.216667,17329
+Itororó,Brazil,-15.116667,-40.1,17325
+Capim Grosso,Brazil,-11.366667,-40.016667,17322
+Mendes,Brazil,-22.526111,-43.724722,17308
+Três Passos,Brazil,-27.45,-53.933333,17286
+São Bento,Brazil,-2.7,-44.833333,17245
+Pindobaçu,Brazil,-10.733333,-40.35,17242
+Santo Anastácio,Brazil,-21.966667,-51.65,17233
+Lavras da Mangabeira,Brazil,-6.75,-38.95,17221
+Regente Feijó,Brazil,-22.25,-51.333333,17219
+Encruzilhada do Sul,Brazil,-30.533333,-52.516667,17199
+Penalva,Brazil,-3.3,-45.166667,17186
+Santa Quitéria do Maranhão,Brazil,-3.516667,-42.533333,17180
+Eirunepé,Brazil,-6.666667,-69.866667,17175
+Viradouro,Brazil,-20.883333,-48.3,17172
+Iperó,Brazil,-23.35,-47.683333,17161
+Itabaianinha,Brazil,-11.266667,-37.783333,17149
+Chã Grande,Brazil,-8.233333,-35.45,17117
+Ipueiras,Brazil,-7.033333,-40.45,17111
+Araguatins,Brazil,-5.600278,-47.933056,17106
+Mombaça,Brazil,-5.75,-39.633333,17065
+São Jerônimo,Brazil,-29.966667,-51.716667,17057
+Solânea,Brazil,-6.75,-35.65,17031
+Sacramento,Brazil,-19.883333,-47.45,16983
+Barroso,Brazil,-21.183333,-43.966667,16975
+Tabira,Brazil,-7.583333,-37.55,16926
+Riachão do Jacuípe,Brazil,-11.8,-39.35,16911
+Silva Jardim,Brazil,-22.466667,-42.3,16889
+Sidrolândia,Brazil,-20.916667,-54.966667,16878
+Iracemápolis,Brazil,-22.583333,-47.533333,16796
+Campo Alegre,Brazil,-9.8,-36.35,16786
+Aragarças,Brazil,-15.916667,-52.25,16781
+Arari,Brazil,-3.466667,-44.783333,16777
+Seabra,Brazil,-12.416667,-41.766667,16765
+Itaocara,Brazil,-21.683333,-42.066667,16763
+Apodi,Brazil,-5.65,-37.8,16757
+Piracanjuba,Brazil,-17.3,-49.016667,16736
+Santo Antônio do Amparo,Brazil,-20.95,-44.916667,16730
+Itapecerica,Brazil,-20.466667,-45.116667,16684
+Itapissuma,Brazil,-7.766667,-34.9,16674
+Amaraji,Brazil,-8.4,-35.45,16660
+Carandaí,Brazil,-20.933333,-43.916667,16657
+Jeremoabo,Brazil,-10.066667,-38.35,16642
+Encantado,Brazil,-29.25,-51.883333,16637
+Viçosa do Ceará,Brazil,-3.566667,-41.083333,16637
+Tabuleiro do Norte,Brazil,-5.25,-38.116667,16633
+Monte Santo de Minas,Brazil,-21.2,-46.983333,16617
+Rio Verde de Mato Grosso,Brazil,-18.933333,-54.866667,16613
+Mocajuba,Brazil,-2.583333,-49.5,16567
+Tapiramutá,Brazil,-11.85,-40.783333,16549
+Tarauacá,Brazil,-8.166667,-70.766667,16526
+Senador Pompeu,Brazil,-5.583333,-39.366667,16516
+Júlio de Castilhos,Brazil,-29.233333,-53.683333,16487
+São Félix do Xingu,Brazil,-6.633333,-51.983333,16478
+Varjota,Brazil,-4.133333,-40.5,16462
+Água Preta,Brazil,-8.7,-35.516667,16444
+Ipubi,Brazil,-7.65,-40.116667,16424
+Orleans,Brazil,-28.35,-49.3,16422
+Águas Vermelhas,Brazil,-15.75,-41.466667,16410
+Piraí do Sul,Brazil,-24.516667,-49.933333,16409
+Alagoa Grande,Brazil,-7.05,-35.633333,16406
+Tuntum,Brazil,-5.233333,-44.65,16402
+Parelhas,Brazil,-6.683333,-36.65,16377
+Jussara,Brazil,-23.6,-52.466667,16374
+Carmo do Cajuru,Brazil,-20.183333,-44.766667,16333
+Arroio do Meio,Brazil,-29.4,-51.95,16331
+Orós,Brazil,-6.25,-38.916667,16329
+Monte Aprazível,Brazil,-20.75,-49.7,16308
+Augusto Correa,Brazil,-1.033333,-46.666667,16280
+Muzambinho,Brazil,-21.366667,-46.533333,16254
+São Joaquim,Brazil,-28.3,-49.933333,16250
+Buritis,Brazil,-15.616667,-46.433333,16243
+Piritiba,Brazil,-11.733333,-40.566667,16230
+Carolina,Brazil,-7.333333,-47.466667,16229
+Paranapanema,Brazil,-23.383333,-48.716667,16218
+Macatuba,Brazil,-22.516667,-48.683333,16180
+Antonina,Brazil,-25.4314,-48.7184,16152
+Conceição das Alagoas,Brazil,-19.916667,-48.383333,16152
+Cachoeira,Brazil,-12.6,-38.966667,16145
+Rubiataba,Brazil,-15.133333,-49.8,16128
+Itapaci,Brazil,-14.95,-49.566667,16118
+Padre Bernardo,Brazil,-15.35,-48.5,16118
+Arroio Grande,Brazil,-32.233333,-53.083333,16117
+Cabrobó,Brazil,-8.516667,-39.316667,16096
+Maragogi,Brazil,-9.016667,-35.216667,16066
+Fonte Boa,Brazil,-2.533333,-66.016667,16060
+Nova Petrópolis,Brazil,-29.366667,-51.133333,16050
+Santa Helena,Brazil,-2.233333,-45.3,16045
+Capela,Brazil,-10.5,-37.066667,16024
+Buerarema,Brazil,-14.95,-39.316667,16002
+Ipaba,Brazil,-19.383333,-42.416667,15971
+Buri,Brazil,-23.8,-48.583333,15959
+Valparaíso,Brazil,-21.216667,-50.85,15939
+Itaobim,Brazil,-16.566667,-41.833333,15938
+Satuba,Brazil,-9.566667,-35.816667,15898
+Pombos,Brazil,-8.15,-35.4,15895
+Itaporanga,Brazil,-7.3,-38.166667,15890
+Valença do Piauí,Brazil,-6.4,-41.75,15881
+Coronel Vivida,Brazil,-25.966667,-52.566667,15841
+Conceição da Feira,Brazil,-12.5,-39,15838
+Ladário,Brazil,-19.016667,-57.583333,15790
+Vitória do Mearim,Brazil,-3.466667,-44.883333,15775
+Paraguaçu,Brazil,-21.55,-45.733333,15742
+Wenceslau Braz,Brazil,-23.85,-49.8,15726
+Nova Granada,Brazil,-20.483333,-49.316667,15716
+Diamantino,Brazil,-14.416667,-56.45,15700
+Itatinga,Brazil,-23.116667,-48.6,15696
+Anicuns,Brazil,-16.466667,-49.966667,15685
+União,Brazil,-4.583333,-42.866667,15678
+Saubara,Brazil,-12.75,-38.75,15669
+Ubatã,Brazil,-14.2,-39.516667,15605
+Cordeiro,Brazil,-22.033333,-42.366667,15602
+Nova Era,Brazil,-19.75,-43.05,15595
+Rolante,Brazil,-29.666667,-50.566667,15594
+Campos Belos,Brazil,-13.05,-46.883333,15583
+Dom Pedro,Brazil,-4.483333,-44.45,15570
+Conde,Brazil,-11.816667,-37.616667,15565
+Belém,Brazil,-6.716667,-35.5,15550
+Manhumirim,Brazil,-20.366667,-41.95,15544
+Rio Formoso,Brazil,-8.666667,-35.15,15518
+Itajuípe,Brazil,-14.683333,-39.366667,15517
+Schroeder,Brazil,-26.433333,-49.066667,15515
+Prado,Brazil,-17.35,-39.216667,15466
+Jequitinhonha,Brazil,-16.433333,-41,15463
+Vazante,Brazil,-18,-46.9,15459
+São Miguel do Iguaçu,Brazil,-25.35,-54.166667,15434
+Araçoiaba da Serra,Brazil,-23.5049,-47.6185,15395
+São José de Mipibu,Brazil,-6.083333,-35.25,15317
+Demerval Lobão,Brazil,-5.366667,-42.683333,15285
+Medeiros Neto,Brazil,-17.333333,-40.233333,15255
+São Gabriel da Cachoeira,Brazil,-0.133333,-67.083333,15232
+Candelária,Brazil,-29.666667,-52.8,15200
+Teodoro Sampaio,Brazil,-22.516667,-52.166667,15193
+Sarandi,Brazil,-27.933333,-52.916667,15159
+Pinhão,Brazil,-25.716667,-51.633333,15141
+Resplendor,Brazil,-19.333333,-41.25,15131
+Parati,Brazil,-23.216667,-44.716667,15118
+Santa Cecília,Brazil,-26.933333,-50.45,15092
+Araci,Brazil,-11.333333,-38.95,15089
+Cajueiro,Brazil,-9.716667,-36.45,15063
+Cruzeiro do Oeste,Brazil,-23.766667,-53.066667,15058
+Colina,Brazil,-20.733333,-48.583333,15042
+Tucumã,Brazil,-0.183333,-50.05,15031
+Itamaracá,Brazil,-7.75,-34.833333,14969
+Pontal do Paraná,Brazil,-25.58,-48.354167,14969
+Formoso do Araguaia,Brazil,-11.796667,-49.466944,14963
+Engenheiro Beltrão,Brazil,-23.783333,-52.25,14955
+Itaú de Minas,Brazil,-20.716667,-46.75,14888
+Madre de Deus,Brazil,-12.733333,-38.616667,14887
+Pôrto Franco,Brazil,-6.333333,-47.4,14874
+São Lourenço do Oeste,Brazil,-26.4,-52.766667,14872
+Sengés,Brazil,-24.1,-49.483333,14868
+Mandaguaçu,Brazil,-23.333333,-52.083333,14866
+Sombrio,Brazil,-29.116667,-49.666667,14864
+Três Barras,Brazil,-26.1,-50.316667,14855
+Boquim,Brazil,-11.15,-37.616667,14848
+Jucás,Brazil,-6.533333,-39.533333,14822
+São Gonçalo dos Campos,Brazil,-12.416667,-38.966667,14822
+Joaquim Gomes,Brazil,-9.2,-35.716667,14808
+Lucélia,Brazil,-21.733333,-51.016667,14807
+Pio XII,Brazil,-3.883333,-45.283333,14773
+Triunfo,Brazil,-29.933333,-51.716667,14749
+Inhambupe,Brazil,-11.783333,-38.35,14735
+Brasília de Minas,Brazil,-16.211944,-44.430833,14730
+Porto Belo,Brazil,-27.1575,-48.539722,14722
+Santana do Acaraú,Brazil,-3.45,-40.2,14707
+Clevelândia,Brazil,-26.4,-52.35,14701
+Santa Maria da Boa Vista,Brazil,-8.816667,-39.816667,14695
+Pirapora do Bom Jesus,Brazil,-23.4,-47,14690
+Medina,Brazil,-16.25,-41.483333,14686
+Parambu,Brazil,-6.216667,-40.716667,14656
+Itambacuri,Brazil,-18.016667,-41.7,14652
+Cedro,Brazil,-6.6,-39.05,14644
+São Joaquim de Bicas,Brazil,-20.05,-44.283333,14630
+Altinópolis,Brazil,-21.025278,-47.374444,14616
+Macaúbas,Brazil,-13.033333,-42.7,14598
+Otacílio Costa,Brazil,-27.566667,-50.116667,14557
+Nossa Senhora das Dores,Brazil,-10.483333,-37.216667,14550
+São João Batista,Brazil,-27.266667,-48.833333,14539
+Nôvo Oriente,Brazil,-5.533333,-40.766667,14529
+Lambari,Brazil,-21.966667,-45.35,14516
+Açucena,Brazil,-19.066667,-42.533333,14506
+Bonito,Brazil,-21.133333,-56.466667,14504
+Marco,Brazil,-3.133333,-40.15,14502
+Angatuba,Brazil,-23.483333,-48.416667,14476
+Agrestina,Brazil,-8.45,-35.95,14453
+Carmo do Rio Claro,Brazil,-20.966667,-46.116667,14446
+Ibipeba,Brazil,-11.633333,-42.033333,14444
+Bôca do Acre,Brazil,-8.75,-67.383333,14427
+Horizontina,Brazil,-27.616667,-54.316667,14416
+Luz,Brazil,-19.8,-45.666667,14396
+Cássia,Brazil,-20.6,-46.933333,14391
+Formosa do Rio Prêto,Brazil,-11.046389,-45.059722,14365
+Macaparana,Brazil,-7.566667,-35.45,14363
+Acajutiba,Brazil,-11.666667,-38.016667,14349
+Bela Vista do Paraíso,Brazil,-23,-51.2,14332
+São Francisco de Assis,Brazil,-29.55,-55.133333,14305
+Conchas,Brazil,-23.016667,-48,14301
+Tamboril,Brazil,-4.833333,-40.333333,14292
+Iúna,Brazil,-20.35,-41.533333,14290
+Bela Vista de Goiás,Brazil,-16.966667,-48.95,14289
+Ampère,Brazil,-25.916667,-53.466667,14275
+Cerqueira César,Brazil,-23.05,-49.166667,14261
+Panorama,Brazil,-21.35,-51.85,14227
+Iguaí,Brazil,-14.75,-40.066667,14218
+Bady Bassitt,Brazil,-20.933333,-49.466667,14216
+São José do Belmonte,Brazil,-7.866667,-38.766667,14211
+Maraial,Brazil,-8.783333,-35.833333,14204
+Ibirubá,Brazil,-28.633333,-53.1,14180
+Redenção,Brazil,-4.216667,-38.716667,14174
+Maracaçumé,Brazil,-2.05,-45.933333,14164
+Porteirinha,Brazil,-15.733333,-43.033333,14144
+Chopinzinho,Brazil,-25.85,-52.5,14142
+Baraúna,Brazil,-5.083333,-37.616667,14113
+Guapiaçu,Brazil,-20.833333,-49.216667,14065
+Tapejara,Brazil,-28.066667,-52,14064
+Manicoré,Brazil,-5.812222,-61.2975,14058
+Mimoso do Sul,Brazil,-21.066667,-41.366667,14045
+Cantagalo,Brazil,-21.966667,-42.366667,14019
+América Dourada,Brazil,-11.466667,-41.433333,14018
+Benjamin Constant,Brazil,-4.374444,-70.029722,13998
+Francisco Sá,Brazil,-16.466667,-43.5,13997
+Corrente,Brazil,-10.436111,-45.131111,13967
+Junqueirópolis,Brazil,-21.533333,-51.433333,13965
+Juquitiba,Brazil,-23.927482,-47.069543,13961
+Morro da Fumaça,Brazil,-28.666667,-49.2,13952
+Camamu,Brazil,-13.95,-39.116667,13924
+Água Branca,Brazil,-5.883333,-42.633333,13912
+Sertanópolis,Brazil,-23.066667,-51.033333,13904
+Pedras de Fogo,Brazil,-7.383333,-35.116667,13894
+Itaíba,Brazil,-8.95,-37.416667,13870
+Castro Alves,Brazil,-12.75,-39.433333,13869
+Maravilha,Brazil,-26.783333,-53.15,13865
+Caarapó,Brazil,-22.633333,-54.8,13863
+Piquete,Brazil,-22.6,-45.183333,13845
+Areia,Brazil,-6.966667,-35.7,13825
+Ubajara,Brazil,-3.85,-40.933333,13802
+Bom Sucesso,Brazil,-21.033333,-44.766667,13786
+Cananéia,Brazil,-25.016667,-47.95,13786
+Cafelândia,Brazil,-21.816667,-49.583333,13777
+Ecoporanga,Brazil,-18.383333,-40.833333,13774
+Caaporã,Brazil,-7.516667,-34.9,13770
+Correia Pinto,Brazil,-27.583333,-50.4,13752
+Miguel Calmon,Brazil,-11.433333,-40.6,13748
+Rio Pomba,Brazil,-21.283333,-43.183333,13707
+Getúlio Vargas,Brazil,-27.833333,-52.266667,13695
+Extrema,Brazil,-22.85,-46.316667,13682
+Chapada dos Guimarães,Brazil,-15.433333,-55.75,13657
+Pontalina,Brazil,-17.516667,-49.45,13640
+Pirenópolis,Brazil,-15.85,-48.95,13615
+Regeneração,Brazil,-6.25,-42.683333,13608
+Inhapim,Brazil,-19.55,-42.116667,13594
+Presidente Olegário,Brazil,-18.416667,-46.416667,13587
+Palmeiras de Goiás,Brazil,-16.816667,-49.916667,13573
+Paraisópolis,Brazil,-22.55,-45.783333,13563
+Afonso Cláudio,Brazil,-20.083333,-41.133333,13543
+Bom Jardim,Brazil,-7.783333,-35.583333,13523
+Amontada,Brazil,-3.383333,-39.833333,13520
+São Joaquim do Monte,Brazil,-8.416667,-35.85,13520
+Itanhém,Brazil,-17.15,-40.333333,13517
+Terra Santa,Brazil,-2.1,-56.483333,13512
+Juquiá,Brazil,-24.316667,-47.633333,13497
+Lima Duarte,Brazil,-21.85,-43.8,13480
+Mairi,Brazil,-11.716667,-40.133333,13475
+Carambeí,Brazil,-24.933333,-50.083333,13466
+Faxinal,Brazil,-23.983333,-51.366667,13464
+Pariquera-Açu,Brazil,-24.716667,-47.883333,13436
+Goianinha,Brazil,-6.266667,-35.2,13434
+Lagoa da Canoa,Brazil,-9.816667,-36.766667,13428
+Aracoiaba,Brazil,-4.383333,-38.816667,13425
+Arroio dos Ratos,Brazil,-30.083333,-51.716667,13405
+Sobradinho,Brazil,-29.4,-53.05,13397
+Taquaritinga do Norte,Brazil,-7.9,-36.05,13379
+Juruti,Brazil,-2.166667,-56.066667,13333
+São Lourenço da Serra,Brazil,-23.866667,-46.95,13331
+São Francisco de Paula,Brazil,-29.45,-50.583333,13292
+Alpinópolis,Brazil,-20.866667,-46.383333,13286
+Irauçuba,Brazil,-3.75,-39.783333,13282
+Vitorino Freire,Brazil,-4.066667,-45.166667,13267
+Raposos,Brazil,-19.95,-43.8,13263
+Florestópolis,Brazil,-22.866667,-51.4,13250
+Santa Luzia,Brazil,-6.883333,-36.933333,13243
+Itirapina,Brazil,-22.25,-47.816667,13229
+Santa Rita,Brazil,-3.833333,-43.883333,13226
+Severínia,Brazil,-20.833333,-48.8,13212
+Tapauá,Brazil,-5.620278,-63.1875,13211
+Raul Soares,Brazil,-20.083333,-42.366667,13210
+Carlos Chagas,Brazil,-17.716667,-40.75,13206
+Pradópolis,Brazil,-21.366667,-48.066667,13193
+Miranda,Brazil,-20.233333,-56.366667,13189
+Correntina,Brazil,-13.333333,-44.65,13187
+Esperantinópolis,Brazil,-4.883333,-44.883333,13167
+Campina Verde,Brazil,-19.516667,-49.466667,13137
+Missão Velha,Brazil,-7.25,-39.133333,13106
+Araçoiaba,Brazil,-7.8,-35.05,13095
+Itacarambi,Brazil,-15.016667,-44.05,13084
+Ituporanga,Brazil,-27.416667,-49.6,13038
+Espera Feliz,Brazil,-20.65,-41.916667,13031
+Luzilândia,Brazil,-3.466667,-42.366667,12999
+Matipó,Brazil,-20.283333,-42.35,12997
+Feira Nova,Brazil,-7.933333,-35.35,12985
+Caririaçu,Brazil,-7.033333,-39.283333,12971
+Terra Boa,Brazil,-23.75,-52.45,12958
+Presidente Bernardes,Brazil,-22.05,-51.55,12954
+Feijó,Brazil,-8.15,-70.35,12951
+Cafarnaum,Brazil,-11.7,-41.466667,12940
+Costa Rica,Brazil,-23.416667,-54.65,12931
+São Geraldo do Araguaia,Brazil,-6.4,-48.533333,12925
+Santa Maria do Pará,Brazil,-1.35,-47.566667,12915
+Cachoeirinha,Brazil,-8.483333,-36.233333,12905
+Dianópolis,Brazil,-11.700556,-46.743056,12896
+Umbaúba,Brazil,-11.366667,-37.65,12880
+Tocantins,Brazil,-21.166667,-43.033333,12876
+Cacequi,Brazil,-29.883333,-54.816667,12868
+Dores do Indaiá,Brazil,-19.45,-45.6,12859
+Baependi,Brazil,-21.95,-44.883333,12853
+São Miguel,Brazil,-5.466667,-35.366667,12838
+Carutapera,Brazil,-1.216667,-46.016667,12819
+Cruzília,Brazil,-21.833333,-44.8,12816
+Borda da Mata,Brazil,-22.266667,-46.166667,12814
+São José da Laje,Brazil,-9,-36.033333,12811
+Acará,Brazil,-1.95,-48.183333,12803
+Passa Quatro,Brazil,-22.383333,-44.966667,12765
+Conselheiro Pena,Brazil,-19.166667,-41.5,12735
+Corbélia,Brazil,-24.8,-53.3,12725
+Bela Cruz,Brazil,-3.05,-40.183333,12715
+Fundão,Brazil,-19.916667,-40.4,12715
+Buritama,Brazil,-21.05,-50.133333,12712
+Elias Fausto,Brazil,-23.033333,-47.383333,12705
+São João do Piauí,Brazil,-8.35,-42.25,12689
+Bicas,Brazil,-21.716667,-43.066667,12684
+Maracanã,Brazil,-0.766667,-47.45,12683
+Pôrto Murtinho,Brazil,-21.7,-57.866667,12672
+Bom Jesus,Brazil,-9.066667,-44.366667,12666
+Passira,Brazil,-7.95,-35.633333,12664
+Riacho de Santana,Brazil,-13.616667,-42.95,12658
+Campos Altos,Brazil,-19.683333,-46.166667,12648
+Tibagi,Brazil,-24.5,-50.4,12644
+Santana,Brazil,-14.466667,-41.8,12629
+Panelas,Brazil,-8.666667,-36.016667,12625
+Rio Claro,Brazil,-22.716667,-44.15,12620
+Barra da Estiva,Brazil,-13.633333,-41.316667,12618
+Princesa Isabel,Brazil,-7.733333,-38,12616
+Sêrro,Brazil,-18.616667,-43.383333,12616
+Valente,Brazil,-11.566667,-39.45,12591
+Milagres,Brazil,-7.283333,-38.95,12588
+Santa Adélia,Brazil,-21.266667,-48.8,12585
+Mutum,Brazil,-19.816667,-41.433333,12582
+Itatiaia,Brazil,-22.5,-44.566667,12571
+Não-Me-Toque,Brazil,-28.466667,-52.816667,12556
+Assaí,Brazil,-23.366667,-50.816667,12545
+Santo Antônio,Brazil,-6.3,-35.45,12529
+Capela,Brazil,-9.416667,-36.066667,12520
+Porciúncula,Brazil,-20.966667,-42.033333,12511
+Campanha,Brazil,-21.833333,-45.4,12507
+Itacaré,Brazil,-14.3,-39,12490
+Capinópolis,Brazil,-18.683333,-49.583333,12486
+Bom Jesus do Galho,Brazil,-19.833333,-42.316667,12476
+Caraúbas,Brazil,-5.53,-37.303056,12462
+Monte Alegre de Minas,Brazil,-18.866667,-48.866667,12451
+Miranorte,Brazil,-9.476667,-48.480278,12446
+Caconde,Brazil,-21.55,-46.633333,12434
+Riachão,Brazil,-7.366667,-46.616667,12428
+Bom Jesus dos Perdões,Brazil,-23.133333,-46.466667,12422
+Neópolis,Brazil,-10.3,-36.583333,12422
+Barroquinha,Brazil,-2.983333,-41.083333,12410
+Coração de Jesus,Brazil,-16.684444,-44.360278,12410
+Fartura,Brazil,-23.383333,-49.5,12405
+Conceição do Rio Verde,Brazil,-21.883333,-45.083333,12402
+São José da Tapera,Brazil,-9.633333,-37.383333,12392
+Charqueada,Brazil,-22.5,-47.766667,12391
+Coreaú,Brazil,-3.55,-40.65,12383
+Messias,Brazil,-9.416667,-35.833333,12376
+Ipuã,Brazil,-20.45,-48.033333,12370
+Itarantim,Brazil,-15.65,-40.05,12370
+Paraibano,Brazil,-6.5,-44.016667,12364
+São Simão,Brazil,-21.5,-47.55,12351
+Peabiru,Brazil,-23.9,-52.333333,12345
+Nova Olinda do Norte,Brazil,-3.75,-59.05,12344
+Bom Jardim,Brazil,-7.016667,-46.483333,12343
+Poção de Pedras,Brazil,-4.75,-44.933333,12337
+Sapucaia,Brazil,-22,-42.9,12329
+Itaporã,Brazil,-22.016667,-54.9,12327
+Olindina,Brazil,-11.366667,-38.35,12317
+Baião,Brazil,-2.683333,-49.683333,12316
+Ibimirim,Brazil,-8.533333,-37.7,12272
+Urbano Santos,Brazil,-3.2,-43.383333,12268
+Ibatiba,Brazil,-20.233333,-41.516667,12265
+Pindorama,Brazil,-21.2,-48.916667,12248
+Uruçuí,Brazil,-7.233333,-44.55,12243
+Itajobi,Brazil,-21.316667,-49.066667,12231
+Umirim,Brazil,-3.683333,-39.333333,12220
+Tutóia,Brazil,-2.75,-42.266667,12212
+Parnarama,Brazil,-5.683333,-43.1,12202
+Giruá,Brazil,-28.033333,-54.35,12170
+Poço Verde,Brazil,-10.7,-38.183333,12167
+Maruim,Brazil,-10.75,-37.083333,12153
+Caculé,Brazil,-14.5,-42.216667,12143
+São Pedro do Sul,Brazil,-29.616667,-54.166667,12137
+Cocal,Brazil,-3.466667,-41.566667,12097
+São Benedito do Rio Prêto,Brazil,-3.333333,-43.583333,12081
+Reriutaba,Brazil,-4.166667,-40.583333,12076
+Uruburetama,Brazil,-3.633333,-39.5,12076
+Canhotinho,Brazil,-8.883333,-36.2,12074
+Matias Barbosa,Brazil,-21.869722,-43.318611,12072
+Alvinópolis,Brazil,-20.1,-43.05,12068
+Porto Real,Brazil,-22.4172,-44.2861,12061
+Natividade,Brazil,-21.05,-41.983333,12014
+Nobres,Brazil,-14.733333,-56.333333,12010
+Capela do Alto,Brazil,-23.466667,-47.75,11991
+Auriflama,Brazil,-20.683333,-50.566667,11971
+Maracaí,Brazil,-22.6,-50.65,11960
+Plácido de Castro,Brazil,-10.333333,-67.183333,11950
+Utinga,Brazil,-10.983333,-42.95,11949
+Ribas do Rio Pardo,Brazil,-20.45,-53.766667,11935
+Montanha,Brazil,-18.133333,-40.35,11934
+Presidente Médici,Brazil,-11.283333,-61.916667,11923
+Borba,Brazil,-4.388889,-59.593611,11918
+Colônia Leopoldina,Brazil,-8.95,-35.65,11914
+Altinho,Brazil,-8.483333,-36.066667,11913
+Mundo Novo,Brazil,-11.866667,-40.466667,11912
+Duartina,Brazil,-22.4,-49.416667,11903
+Coremas,Brazil,-7.016667,-37.966667,11897
+Cunha,Brazil,-23.083333,-44.966667,11896
+Raposa,Brazil,-6.516667,-44.183333,11883
+Araripe,Brazil,-7.2,-40.133333,11860
+Curaçá,Brazil,-8.983333,-39.9,11858
+Papagaios,Brazil,-19.533333,-44.75,11850
+Lagoa Formosa,Brazil,-18.783333,-46.4,11822
+Batalha,Brazil,-9.683333,-37.133333,11820
+Rio Tinto,Brazil,-6.8,-35.083333,11804
+Campestre,Brazil,-21.716667,-46.25,11802
+Joanópolis,Brazil,-22.933333,-46.283333,11772
+Rio Casca,Brazil,-20.216667,-42.65,11769
+São Paulo de Olivença,Brazil,-3.45,-68.8,11763
+Borborema,Brazil,-21.616667,-49.066667,11759
+Manga,Brazil,-14.766667,-43.933333,11733
+Senador Guiomard,Brazil,-10.166667,-67.833333,11727
+Santo Antônio do Sudoeste,Brazil,-26.068889,-53.725278,11723
+Bom Jardim,Brazil,-22.15,-42.416667,11716
+Canto do Buriti,Brazil,-8.116667,-42.966667,11715
+Ipanema,Brazil,-19.783333,-41.733333,11705
+Flores,Brazil,-7.85,-37.983333,11694
+Miracatu,Brazil,-24.283333,-47.466667,11679
+Santa Vitória,Brazil,-18.833333,-50.133333,11657
+Jaguaruna,Brazil,-28.6,-49.033333,11650
+Brejo,Brazil,-3.683333,-42.783333,11636
+Jitaúna,Brazil,-14.016667,-39.95,11619
+Tabatinga,Brazil,-21.716667,-48.683333,11617
+Boqueirão,Brazil,-7.483333,-36.116667,11566
+Crixás,Brazil,-14.45,-49.966667,11560
+Carmo,Brazil,-21.933333,-42.616667,11555
+Ortigueira,Brazil,-24.2,-50.916667,11541
+Jucurutu,Brazil,-6.033333,-37.016667,11535
+Quipapá,Brazil,-8.833333,-36.033333,11533
+Barro,Brazil,-6.716667,-38.866667,11519
+São José da Coroa Grande,Brazil,-8.9,-35.15,11512
+Águas Formosas,Brazil,-17.083333,-40.95,11512
+Amarante do Maranhão,Brazil,-5.6,-46.75,11510
+Itiruçu,Brazil,-13.516667,-40.15,11499
+Pão de Açúcar,Brazil,-9.75,-37.433333,11497
+Luís Correia,Brazil,-2.883611,-41.666111,11480
+Uauá,Brazil,-9.833333,-39.466667,11425
+Castilho,Brazil,-20.866667,-51.483333,11419
+Carinhanha,Brazil,-14.3,-43.783333,11408
+Cuité,Brazil,-6.483333,-36.15,11392
+Porecatu,Brazil,-22.716667,-51.4,11390
+Silvânia,Brazil,-16.666667,-48.6,11377
+Assaré,Brazil,-6.866667,-39.866667,11369
+Nova Soure,Brazil,-11.233333,-38.483333,11340
+João Alfredo,Brazil,-7.866667,-35.583333,11334
+Bodocó,Brazil,-7.783333,-39.916667,11329
+Caravelas,Brazil,-17.75,-39.25,11322
+Farias Brito,Brazil,-6.916667,-39.566667,11288
+Ribeirão do Pinhal,Brazil,-23.4,-50.3,11275
+Itanhandu,Brazil,-22.3,-44.95,11274
+Quixeré,Brazil,-5.083333,-37.983333,11258
+Barreirinha,Brazil,-2.793611,-57.068889,11257
+Lapão,Brazil,-11.4,-41.833333,11253
+Mozarlândia,Brazil,-14.783333,-50.583333,11252
+Altônia,Brazil,-23.933333,-53.9,11242
+Riachão das Neves,Brazil,-11.766667,-44.933333,11236
+Monte Azul,Brazil,-15.15,-42.883333,11222
+Pedregulho,Brazil,-20.266667,-47.483333,11216
+Ribeirópolis,Brazil,-10.533333,-37.433333,11215
+Brasiléia,Brazil,-11,-68.733333,11200
+Pedra,Brazil,-8.5,-36.95,11197
+Codajás,Brazil,-3.833333,-62.083333,11185
+Iranduba,Brazil,-3.25,-60.1,11181
+Pinheiro Machado,Brazil,-31.566667,-53.383333,11176
+São Bernardo,Brazil,-3.366667,-42.4,11171
+Terra Nova,Brazil,-12.366667,-40.666667,11169
+Jacupiranga,Brazil,-24.700034,-48.004445,11149
+Itaquitinga,Brazil,-7.666667,-35.1,11128
+Belém de São Francisco,Brazil,-8.766667,-38.966667,11124
+Camapuã,Brazil,-19.5,-54.083333,11119
+Independência,Brazil,-5.383333,-40.316667,11113
+Iguaba Grande,Brazil,-22.833333,-42.216667,11104
+Itaberá,Brazil,-23.85,-49.15,11098
+Reserva,Brazil,-24.633333,-50.866667,11097
+Monte Sião,Brazil,-22.433333,-46.566667,11090
+Botelhos,Brazil,-21.65,-46.4,11073
+Canindé de São Francisco,Brazil,-9.65,-37.8,11053
+Monção,Brazil,-3.5,-45.25,11051
+Novo Aripuanã,Brazil,-5.120278,-60.378889,11044
+Nova Londrina,Brazil,-22.75,-53,11042
+Areal,Brazil,-22.228889,-43.106944,11041
+Astolfo Dutra,Brazil,-21.316667,-42.866667,10999
+Seara,Brazil,-27.116667,-52.283333,10976
+Caiapônia,Brazil,-16.95,-51.816667,10947
+Guiratinga,Brazil,-16.35,-53.75,10938
+Jardim de Piranhas,Brazil,-6.366667,-37.333333,10935
+Terra Roxa,Brazil,-23.855708,-50.031397,10911
+Alto Paraná,Brazil,-23.083333,-52.366667,10888
+Ribeirão Bonito,Brazil,-22.066667,-48.166667,10877
+Tupi Paulista,Brazil,-21.4,-51.566667,10877
+Exu,Brazil,-7.516667,-39.716667,10875
+Curuçá,Brazil,-0.716667,-47.833333,10843
+Ipaussú,Brazil,-23.05,-49.616667,10833
+Matelândia,Brazil,-25.2413,-53.983,10816
+Alhandra,Brazil,-7.433333,-34.9,10788
+Boa Esperança do Sul,Brazil,-21.983333,-48.383333,10787
+Canarana,Brazil,-11.683333,-41.766667,10785
+Picuí,Brazil,-6.516667,-36.35,10779
+Aurora,Brazil,-6.95,-38.966667,10757
+Urupês,Brazil,-21.216667,-49.283333,10745
+Tapejara,Brazil,-23.683333,-52.883333,10726
+Conceição do Mato Dentro,Brazil,-19.016667,-43.416667,10708
+Areado,Brazil,-21.35,-46.15,10689
+Urussanga,Brazil,-28.516667,-49.316667,10670
+Ibicuí,Brazil,-14.85,-39.983333,10640
+Padre Paraíso,Brazil,-17.1,-41.516667,10608
+Aquidabã,Brazil,-10.283333,-37.033333,10596
+Cardoso,Brazil,-20.066667,-49.9,10556
+Itagi,Brazil,-14.166667,-40.016667,10534
+Santa Inês,Brazil,-13.283333,-39.8,10521
+Piancó,Brazil,-7.2,-37.95,10482
+Maribondo,Brazil,-9.583333,-36.233333,10475
+Turiaçu,Brazil,-1.683333,-45.35,10471
+Pastos Bons,Brazil,-6.6,-44.083333,10469
+Rosário Oeste,Brazil,-14.833333,-56.416667,10469
+Itapuí,Brazil,-22.233333,-48.683333,10445
+Sumé,Brazil,-7.65,-36.916667,10441
+Miguel Alves,Brazil,-4.166667,-42.9,10439
+Queimadas,Brazil,-10.966667,-39.633333,10439
+Rio Piracicaba,Brazil,-19.916667,-43.183333,10439
+Elesbão Veloso,Brazil,-6.216667,-42.133333,10430
+Realeza,Brazil,-25.783333,-53.516667,10389
+Novo Cruzeiro,Brazil,-17.483333,-41.883333,10385
+João Neiva,Brazil,-19.75,-40.4,10383
+São Gonçalo do Amarante,Brazil,-5.766667,-35.333333,10381
+Vicência,Brazil,-7.666667,-35.333333,10378
+Quatá,Brazil,-22.266667,-50.7,10370
+Iporã,Brazil,-23.983333,-53.616667,10353
+Terra Rica,Brazil,-22.716667,-52.633333,10346
+Espumoso,Brazil,-28.733333,-52.85,10340
+Tarumã,Brazil,-22.75,-50.566667,10337
+Itarema,Brazil,-2.9,-39.966667,10330
+Chavantes,Brazil,-23.033333,-49.716667,10306
+Santo Augusto,Brazil,-27.85,-53.783333,10305
+Hidrolândia,Brazil,-4.416667,-40.416667,10299
+Quatis,Brazil,-22.4099,-44.2594,10289
+Carira,Brazil,-10.35,-37.7,10276
+Camocim de São Félix,Brazil,-8.35,-35.766667,10270
+Paratinga,Brazil,-12.7,-43.166667,10262
+Uruana,Brazil,-15.5,-49.683333,10258
+São José do Campestre,Brazil,-6.3,-35.7,10254
+Marapanim,Brazil,-0.7,-47.7,10236
+Alvorada,Brazil,-12.47,-49.082222,10232
+São Raimundo das Mangabeiras,Brazil,-7.016667,-45.483333,10216
+Itaporanga,Brazil,-23.7,-49.483333,10202
+Urucurituba,Brazil,-2.683333,-57.666667,10180
+Oeiras do Pará,Brazil,-1.966667,-49.85,10163
+Cambuquira,Brazil,-21.85,-45.3,10116
+Nísia Floresta,Brazil,-6.066667,-35.133333,10115
+Goianápolis,Brazil,-16.5,-49.016667,10114
+Pacaembu,Brazil,-21.566667,-51.283333,10101
+Caçu,Brazil,-18.616667,-51.066667,10098
+Andrelândia,Brazil,-21.733333,-44.3,10079
+Arinos,Brazil,-15.916667,-46.066667,10078
+Guapó,Brazil,-16.816667,-49.533333,10075
+São João de Pirabas,Brazil,-0.766667,-47.166667,10065
+São João Evangelista,Brazil,-18.533333,-42.75,10049
+Alto Piquiri,Brazil,-24.016667,-53.466667,10039
+Lauro Müller,Brazil,-28.4,-49.383333,10036
+Mutuípe,Brazil,-13.25,-39.516667,10016
+Jataìzinho,Brazil,-23.216667,-50.966667,10014
+Manaquiri,Brazil,-3.316667,-60.35,9986
+Joaquim Nabuco,Brazil,-8.616667,-35.533333,9965
+Envira,Brazil,-7.3,-70.216667,9957
+Teixeira,Brazil,-7.216667,-37.25,9954
+Santa Maria do Suaçuí,Brazil,-18.2,-42.416667,9936
+Pôrto de Moz,Brazil,-1.75,-52.233333,9912
+Cansanção,Brazil,-10.683333,-39.516667,9905
+Piranhas,Brazil,-16.516667,-51.85,9887
+Piaçabuçu,Brazil,-10.4,-36.416667,9862
+Itagibá,Brazil,-14.283333,-39.85,9843
+Edéia,Brazil,-17.3,-49.916667,9838
+Belmonte,Brazil,-15.85,-38.9,9806
+Guajará,Brazil,-2.966667,-57.666667,9776
+Alexandria,Brazil,-6.416667,-38.016667,9769
+Choròzinho,Brazil,-4.3,-38.483333,9755
+Fortuna,Brazil,-5.683333,-44.066667,9755
+Paraúna,Brazil,-17.033333,-50.433333,9731
+Ribeirão Branco,Brazil,-24.216667,-48.783333,9718
+Sabinópolis,Brazil,-18.666667,-43.1,9713
+Conceição do Almeida,Brazil,-12.8,-39.2,9691
+Guia Lopes da Laguna,Brazil,-21.433333,-56.116667,9681
+Mar de Espanha,Brazil,-21.865833,-43.009722,9678
+Remígio,Brazil,-6.933333,-35.783333,9659
+Nortelândia,Brazil,-14.416667,-56.8,9636
+Iguatemi,Brazil,-23.666667,-54.566667,9619
+Autazes,Brazil,-3.583333,-59.133333,9614
+Girau do Ponciano,Brazil,-9.916667,-36.833333,9606
+Sananduva,Brazil,-27.95,-51.8,9601
+Anadia,Brazil,-9.7,-36.3,9574
+São Felipe,Brazil,-14.816667,-41.383333,9574
+São Sebastião,Brazil,-9.933333,-36.566667,9551
+Cêrro Largo,Brazil,-28.15,-54.75,9548
+Rio Pardo de Minas,Brazil,-15.616667,-42.55,9540
+Mucurici,Brazil,-18.1,-40.516667,9524
+Jardim do Seridó,Brazil,-6.583333,-36.766667,9520
+Guaratinga,Brazil,-16.566667,-39.566667,9519
+Centralina,Brazil,-18.566667,-49.216667,9497
+Buriti dos Lopes,Brazil,-3.166667,-41.866667,9475
+São Domingos do Prata,Brazil,-19.866667,-42.966667,9466
+Buriti Alegre,Brazil,-18.15,-49.05,9427
+Pôrto da Fôlha,Brazil,-9.916667,-37.283333,9420
+Itiúba,Brazil,-10.716667,-39.85,9410
+Cambuci,Brazil,-21.566667,-41.916667,9395
+Mirante do Paranapanema,Brazil,-22.283333,-51.9,9387
+Pendências,Brazil,-5.263333,-36.723056,9363
+Bernardino de Campos,Brazil,-23.033333,-49.483333,9342
+São Paulo do Potengi,Brazil,-5.916667,-35.75,9334
+Taguatinga,Brazil,-12.465556,-46.366944,9330
+Santo Amaro das Brotas,Brazil,-10.783333,-37.066667,9302
+Santo Antônio do Içá,Brazil,-3.083333,-67.95,9302
+Xambioá,Brazil,-6.4325,-48.381944,9281
+Alterosa,Brazil,-21.25,-46.133333,9277
+Rialma,Brazil,-15.3,-49.566667,9270
+Boa Esperança,Brazil,-18.55,-40.283333,9254
+Iaciara,Brazil,-14.15,-46.666667,9207
+Ibiapina,Brazil,-3.916667,-40.9,9205
+Martinho Campos,Brazil,-19.333333,-45.216667,9198
+Alagoa Nova,Brazil,-7.066667,-35.766667,9182
+Santa Teresa,Brazil,-19.916667,-40.6,9160
+Acari,Brazil,-6.516667,-36.633333,9159
+Irará,Brazil,-12.033333,-38.766667,9099
+Firminópolis,Brazil,-16.666667,-50.316667,9084
+Eldorado,Brazil,-23.783333,-54.316667,9075
+Arenápolis,Brazil,-14.433333,-56.816667,9060
+Barbosa Ferraz,Brazil,-24.066667,-52.05,9048
+Joaíma,Brazil,-16.65,-41.033333,9022
+Nova Aurora,Brazil,-22.866667,-52.566667,9013
+Axixá do Tocantins,Brazil,-5.551111,-47.595556,9007
+Cidreira,Brazil,-30.183333,-50.2,8965
+Mirabela,Brazil,-16.258056,-44.159167,8934
+Ibiraçu,Brazil,-19.833333,-40.366667,8921
+Santo Antônio do Tauá,Brazil,-1.183333,-48.133333,8921
+Paulo Ramos,Brazil,-4.216667,-45.183333,8888
+Recreio,Brazil,-21.533333,-42.466667,8882
+Taperoá,Brazil,-7.2,-36.816667,8879
+Ananás,Brazil,-6.360278,-47.91,8874
+Bonito,Brazil,-8.483333,-35.733333,8867
+São Caetano de Odivelas,Brazil,-0.75,-48.033333,8862
+São João do Paraíso,Brazil,-15.316667,-42.016667,8859
+Juàzeirinho,Brazil,-6.816667,-38.05,8846
+Patu,Brazil,-6.1,-37.633333,8842
+Amarante,Brazil,-6.233333,-42.833333,8828
+Malacacheta,Brazil,-17.833333,-42.083333,8820
+Turmalina,Brazil,-17.283333,-42.75,8798
+Umarizal,Brazil,-5.983333,-37.816667,8781
+Alto Araguaia,Brazil,-17.316667,-53.2,8780
+Serra Branca,Brazil,-6.533333,-38.266667,8765
+Ibateguara,Brazil,-8.983333,-35.866667,8755
+Ingá,Brazil,-7.283333,-35.6,8751
+Batalha,Brazil,-4.016667,-42.083333,8744
+Cruz,Brazil,-2.95,-40.183333,8723
+Moreira Sales,Brazil,-24.016667,-53.05,8699
+Araioses,Brazil,-2.89,-41.903611,8667
+Santa Branca,Brazil,-23.4,-45.883333,8661
+Nova Floresta,Brazil,-6.45,-36.2,8623
+Muqui,Brazil,-20.95,-41.3,8614
+Cândido Mendes,Brazil,-1.45,-45.716667,8613
+Urucará,Brazil,-2.536667,-57.758056,8603
+Castelo do Piauí,Brazil,-5.333333,-41.55,8589
+Mantenópolis,Brazil,-18.883333,-41.1,8547
+Siderópolis,Brazil,-28.583333,-49.433333,8536
+Major Isidoro,Brazil,-9.533333,-37,8507
+Miraí,Brazil,-21.2,-42.616667,8500
+Montanhas,Brazil,-6.483333,-35.3,8442
+Traipu,Brazil,-9.966667,-36.983333,8427
+Palmares do Sul,Brazil,-30.266667,-50.516667,8393
+São João da Ponte,Brazil,-15.933333,-44.016667,8373
+Centenário do Sul,Brazil,-22.8,-51.616667,8358
+Pirpirituba,Brazil,-6.766667,-35.5,8355
+Cantanhede,Brazil,-3.65,-44.4,8344
+Juripiranga,Brazil,-7.366667,-35.233333,8320
+Muniz Freire,Brazil,-20.466667,-41.416667,8312
+Itaguaçu,Brazil,-19.8,-40.85,8202
+Pancas,Brazil,-19.233333,-40.85,8184
+Ourém,Brazil,-1.55,-47.1,8145
+Pau Brasil,Brazil,-15.45,-39.65,8136
+Lagoa Sêca,Brazil,-7.15,-35.85,8103
+Taperoá,Brazil,-13.516667,-39.1,8095
+Japaratuba,Brazil,-10.583333,-36.95,8092
+Soledade,Brazil,-7.05,-36.35,8090
+General Salgado,Brazil,-20.65,-50.366667,8084
+Ubaíra,Brazil,-13.266667,-39.65,8069
+Tangará,Brazil,-6.183333,-35.816667,8067
+Anori,Brazil,-3.783333,-61.633333,8064
+Santana do Matos,Brazil,-5.956111,-36.652778,8050
+Campo do Brito,Brazil,-10.75,-37.5,8011
+São Miguel do Tapuio,Brazil,-5.5,-41.333333,7964
+Parnamirim,Brazil,-8.083333,-39.566667,7928
+Itapirapuã,Brazil,-15.866667,-50.6,7923
+Pitimbu,Brazil,-7.466667,-34.8,7862
+Uiraúna,Brazil,-6.516667,-38.416667,7823
+Vianópolis,Brazil,-16.75,-48.533333,7807
+Pocinhos,Brazil,-7.066667,-36.05,7803
+Flexeiras,Brazil,-9.266667,-35.716667,7783
+Mato Verde,Brazil,-15.383333,-42.866667,7783
+Guaraniaçu,Brazil,-25.1,-52.866667,7781
+Nhamundá,Brazil,-2.233333,-56.716667,7772
+Junqueiro,Brazil,-9.933333,-36.483333,7740
+Angicos,Brazil,-5.666389,-36.600833,7729
+Petrolina de Goiás,Brazil,-16.1,-49.333333,7710
+Araruna,Brazil,-6.533333,-35.733333,7667
+Touros,Brazil,-5.2,-35.466667,7662
+Arara,Brazil,-6.833333,-35.75,7641
+Pauini,Brazil,-7.666667,-66.966667,7633
+São José de Piranhas,Brazil,-7.116667,-38.5,7628
+Brejinho,Brazil,-6.183333,-35.35,7625
+Araguaçu,Brazil,-12.894167,-49.773056,7603
+Pilar,Brazil,-7.25,-35.266667,7588
+Orizona,Brazil,-17.05,-48.3,7583
+Inhapi,Brazil,-9.233333,-37.75,7550
+Baixa Grande,Brazil,-11.95,-40.183333,7534
+Alagoinha,Brazil,-6.933333,-35.55,7474
+Muaná,Brazil,-1.533333,-49.216667,7464
+Cacimba de Dentro,Brazil,-6.65,-35.783333,7447
+São José do Calçado,Brazil,-21.033333,-41.666667,7442
+Paramirim,Brazil,-13.433333,-42.25,7421
+Areia Branca,Brazil,-10.766667,-37.316667,7414
+São Pedro do Piauí,Brazil,-5.933333,-42.716667,7408
+Monte Santo,Brazil,-10.433333,-39.333333,7398
+Passagem Franca,Brazil,-6.166667,-43.783333,7376
+Bananeiras,Brazil,-6.75,-35.616667,7371
+Minas Novas,Brazil,-17.25,-42.6,7365
+Barcelos,Brazil,-1,-62.966667,7356
+Bataiporã,Brazil,-22.333333,-53.283333,7346
+Ibirapitanga,Brazil,-14.15,-39.366667,7302
+São Desidério,Brazil,-12.366667,-44.966667,7295
+Arês,Brazil,-6.183333,-35.15,7231
+Jardim,Brazil,-3.433333,-39.016667,7189
+Ponto Novo,Brazil,-10.866667,-40.133333,7141
+Poço Branco,Brazil,-5.633333,-35.666667,7112
+Jaicós,Brazil,-7.35,-41.133333,7107
+Palmas de Monte Alto,Brazil,-14.266667,-43.166667,7091
+Mâncio Lima,Brazil,-7.616667,-72.9,7086
+Hidrolândia,Brazil,-16.966667,-49.233333,7082
+Simplício Mendes,Brazil,-7.85,-41.9,7076
+Abadiânia,Brazil,-16.1,-48.8,7062
+Inhuma,Brazil,-6.666667,-41.7,7056
+Frei Paulo,Brazil,-10.55,-37.533333,7047
+Jacaraú,Brazil,-6.666667,-35.3,7035
+Afuá,Brazil,-0.166667,-50.383333,7031
+Buriti,Brazil,-3.916667,-42.95,7025
+Aroeiras,Brazil,-7.516667,-35.683333,7019
+Paripiranga,Brazil,-10.683333,-37.866667,6965
+Mirador,Brazil,-6.366667,-44.366667,6955
+Afonso Bezerra,Brazil,-5.498056,-36.509167,6947
+São João,Brazil,-8.866667,-36.366667,6926
+Peçanha,Brazil,-18.55,-42.566667,6903
+Jerônimo Monteiro,Brazil,-20.783333,-41.4,6902
+Nioaque,Brazil,-21.133333,-55.8,6899
+Arraias,Brazil,-12.977222,-46.891667,6881
+Cumaru,Brazil,-8,-35.7,6861
+Matinha,Brazil,-3.1,-45.033333,6851
+Monte Alegre de Sergipe,Brazil,-10.033333,-37.55,6816
+Ocara,Brazil,-4.483333,-38.616667,6793
+Caraí,Brazil,-17.2,-41.7,6750
+Rio Novo do Sul,Brazil,-20.866667,-40.933333,6717
+Pilão Arcado,Brazil,-10.15,-42.433333,6715
+Upanema,Brazil,-5.644444,-37.257778,6704
+Careiro,Brazil,-3.2,-59.75,6659
+Monte Alegre,Brazil,-5.889722,-36.301389,6643
+Governador Dix-Sept Rosado,Brazil,-5.466667,-37.516667,6626
+Tanhaçu,Brazil,-14.016667,-41.283333,6620
+Quebrângulo,Brazil,-9.333333,-36.483333,6587
+Coração de Maria,Brazil,-12.233333,-38.75,6571
+Wanderlândia,Brazil,-6.835833,-47.799167,6545
+Pôrto,Brazil,-3.9,-42.7,6535
+Paranhos,Brazil,-23.916667,-55.416667,6516
+Mazagão,Brazil,-0.116667,-51.283333,6500
+Prainha,Brazil,-1.8,-53.483333,6481
+Igaci,Brazil,-9.55,-36.633333,6480
+Gurupá,Brazil,-1.416667,-51.65,6461
+Pirapemas,Brazil,-3.716667,-44.233333,6441
+Santana do Mundaú,Brazil,-9.15,-36.183333,6439
+Cristinápolis,Brazil,-11.483333,-37.766667,6430
+Alfredo Chaves,Brazil,-20.633333,-40.75,6422
+Varzelândia,Brazil,-15.7,-44.033333,6398
+Santo Antônio do Leverger,Brazil,-15.866667,-56.083333,6387
+Pedro Velho,Brazil,-6.433333,-35.233333,6366
+Canutama,Brazil,-6.533333,-64.333333,6320
+Boquira,Brazil,-12.816667,-42.766667,6306
+Rio Novo,Brazil,-21.483333,-43.133333,6258
+Amapá,Brazil,2.05,-50.8,6256
+Bujaru,Brazil,-1.516667,-48.016667,6189
+Alto Paraguai,Brazil,-14.5,-56.516667,6149
+São Tomé,Brazil,-5.971389,-36.073611,6137
+Terenos,Brazil,-20.433333,-54.833333,6086
+Domingos Martins,Brazil,-20.366667,-40.666667,6061
+Carmo do Rio Verde,Brazil,-15.35,-49.7,6053
+Carnaíba,Brazil,-8.7,-37.666667,6019
+Pôrto Real do Colégio,Brazil,-10.183333,-36.816667,6001
+Lagoa Nova,Brazil,-6.1,-36.483333,5984
+Orobó,Brazil,-7.733333,-35.6,5884
+Marechal Floriano,Brazil,-20.416667,-40.666667,5869
+Jutaí,Brazil,-5.183333,-68.9,5863
+Ipixuna,Brazil,-7.051667,-71.693056,5814
+Cruz do Espírito Santo,Brazil,-7.133333,-35.1,5812
+Sítio Novo do Tocantins,Brazil,-5.518333,-47.461111,5787
+Bueno Brandão,Brazil,-22.45,-46.35,5777
+Bonfim,Brazil,3.083333,-59.95,5769
+Tupanatinga,Brazil,-8.75,-37.333333,5768
+Xapuri,Brazil,-10.65,-68.516667,5721
+Senador José Porfírio,Brazil,-2.583333,-51.916667,5708
+Bequimão,Brazil,-2.433333,-44.783333,5695
+Alcântara,Brazil,-2.4,-44.4,5655
+Anajatuba,Brazil,-3.266667,-44.616667,5627
+Gurinhém,Brazil,-7.133333,-35.45,5618
+Irituia,Brazil,-1.766667,-47.433333,5602
+Oliveira dos Brejinhos,Brazil,-12.316667,-42.9,5596
+Malhador,Brazil,-10.65,-37.3,5574
+Novo Lino,Brazil,-9.016667,-35.616667,5538
+Alvarães,Brazil,-3.2,-64.833333,5527
+Passo de Camaragibe,Brazil,-9.25,-35.433333,5523
+Cariré,Brazil,-3.95,-40.45,5488
+Salgado,Brazil,-11.033333,-37.466667,5457
+Caetés,Brazil,-8.766667,-36.633333,5386
+Destêrro,Brazil,-7.283333,-37.1,5374
+Taquarana,Brazil,-9.633333,-36.483333,5288
+Humberto de Campos,Brazil,-2.616667,-43.45,5208
+Água Branca,Brazil,-9.283333,-37.916667,5161
+Itaueira,Brazil,-7.6,-43.033333,5146
+Fagundes,Brazil,-7.35,-35.8,5137
+Iraquara,Brazil,-12.25,-41.6,5131
+Cândido de Abreu,Brazil,-24.583333,-51.333333,5102
+Iconha,Brazil,-20.8,-40.8,5051
+Beneditinos,Brazil,-5.45,-42.366667,5005
+Itapicuru,Brazil,-11.316667,-38.25,4994
+Indiaroba,Brazil,-11.533333,-37.516667,4989
+Pio IX,Brazil,-6.833333,-40.616667,4973
+Itatuba,Brazil,-7.383333,-35.65,4951
+Tavares,Brazil,-7.633333,-37.9,4939
+Gilbués,Brazil,-9.838889,-45.353889,4920
+Itinga,Brazil,-16.6,-41.783333,4917
+Manaíra,Brazil,-7.7,-38.166667,4913
+Ituaçu,Brazil,-13.816667,-41.3,4891
+Capoeiras,Brazil,-8.75,-36.633333,4861
+Morros,Brazil,-9.446667,-46.300278,4829
+Rio Bananal,Brazil,-19.266667,-40.333333,4814
+São Domingos,Brazil,-13.4,-46.316667,4784
+Mogeiro,Brazil,-7.3,-35.466667,4767
+Monsenhor Gil,Brazil,-5.583333,-42.616667,4751
+Arauá,Brazil,-11.266667,-37.616667,4747
+Encruzilhada,Brazil,-15.516667,-40.9,4711
+Laje,Brazil,-10.183333,-40.966667,4708
+Vargem Alta,Brazil,-20.666667,-41,4672
+Mata Grande,Brazil,-9.111667,-37.7,4654
+Ipanguaçu,Brazil,-5.497778,-36.853333,4624
+Cacimbinhas,Brazil,-9.4,-37,4618
+Riachão do Dantas,Brazil,-11.066667,-37.733333,4615
+Igreja Nova,Brazil,-10.116667,-36.65,4606
+Taipu,Brazil,-5.616667,-35.6,4606
+Umbuzeiro,Brazil,-7.683333,-35.666667,4588
+Umbuzeiro,Brazil,-7.7,-35.666667,4588
+Dois Riachos,Brazil,-9.383333,-37.083333,4565
+Tonantins,Brazil,-2.783333,-67.783333,4561
+Conceição do Castelo,Brazil,-20.366667,-41.25,4538
+Tiradentes,Brazil,-21.116667,-44.183333,4439
+Alto Longá,Brazil,-5.25,-42.2,4435
+Tomar do Geru,Brazil,-11.383333,-37.85,4394
+Maraã,Brazil,-1.833333,-65.366667,4387
+Barão de Melgaço,Brazil,-16.216667,-55.966667,4353
+Simões,Brazil,-7.6,-40.816667,4332
+Quijingue,Brazil,-10.75,-39.2,4293
+Salgado de São Félix,Brazil,-7.35,-35.433333,4266
+Palmeirais,Brazil,-5.966667,-43.066667,4262
+Canapi,Brazil,-9.133333,-37.5,4219
+Japoatã,Brazil,-10.333333,-36.8,4207
+Mulungu,Brazil,-7.033333,-35.466667,4181
+Santa Isabel do Rio Negro,Brazil,-0.4,-65.033333,4142
+Limoeiro do Ajuru,Brazil,-1.916667,-49.383333,4109
+Manoel Urbano,Brazil,-8.883333,-69.3,4066
+Itarana,Brazil,-19.85,-40.866667,4060
+Imaculada,Brazil,-7.366667,-37.5,4014
+Matias Olímpio,Brazil,-3.716667,-42.55,4012
+Feira Grande,Brazil,-9.85,-36.7,3985
+Marilândia,Brazil,-19.416667,-40.516667,3900
+Triunfo,Brazil,-6.566667,-38.6,3871
+Rodrigues Alves,Brazil,-11.9,-65,3827
+Pimenteiras,Brazil,-6.233333,-41.416667,3819
+Juru,Brazil,-7.533333,-37.816667,3796
+Anagé,Brazil,-14.6,-41.133333,3762
+Cavalcante,Brazil,-13.8,-47.5,3747
+Dona Inês,Brazil,-6.616667,-35.633333,3709
+Paulista,Brazil,-6.583333,-37.616667,3677
+Icatu,Brazil,-2.766667,-44.066667,3648
+São João Batista,Brazil,-2.966667,-44.85,3634
+Moita Bonita,Brazil,-10.583333,-37.366667,3602
+Montes Altos,Brazil,-5.833333,-47.066667,3518
+Irupi,Brazil,-20.35,-41.633333,3505
+Natuba,Brazil,-7.633333,-35.566667,3333
+Grão Mogol,Brazil,-16.566667,-42.9,3278
+Tremedal,Brazil,-14.966667,-41.4,3252
+Puxinanã,Brazil,-7.15,-35.966667,3210
+Massaranduba,Brazil,-7.183333,-35.766667,3153
+Campo Grande,Brazil,-10.233333,-36.5,3054
+Laranja da Terra,Brazil,-19.9,-41.066667,3016
+Gararu,Brazil,-9.966667,-37.083333,2977
+Maraú,Brazil,-14.1,-39,2956
+Itainópolis,Brazil,-7.4,-41.516667,2922
+Olivença,Brazil,-9.516667,-37.183333,2848
+Uarini,Brazil,-2.916667,-65.133333,2796
+Limoeiro de Anadia,Brazil,-9.733333,-36.516667,2770
+Paranã,Brazil,-12.640556,-47.7925,2751
+Pacatuba,Brazil,-10.433333,-36.65,2616
+Águia Branca,Brazil,-18.983333,-40.733333,2554
+Coité do Nóia,Brazil,-9.666667,-36.5,2529
+Severiano Melo,Brazil,-5.766667,-37.95,2503
+Santa Leopoldina,Brazil,-20.1,-40.533333,2327
+Jundiá,Brazil,-8.933333,-35.566667,2267
+Minador do Negrão,Brazil,-9.333333,-36.866667,1986
+Japurá,Brazil,-1.395833,-69.422222,1908
+Pôrto Walter,Brazil,-8.261111,-72.738889,1816
+Poço das Trincheiras,Brazil,-9.3,-37.266667,1775
+Jacareacanga,Brazil,-6.266667,-57.65,1402
+Piranhas,Brazil,-9.45,-37.766667,1170
+Careiro da Várzea,Brazil,-3.2,-59.75,1092

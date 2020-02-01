@@ -1,0 +1,619 @@
+City,State,Lat,Long,Pop
+Prague,Czech Republic,50.083333,14.466667,1154508
+Brno,Czech Republic,49.2,16.633333,377407
+Ostrava,Czech Republic,49.811852,18.255282,317136
+Plzen,Czech Republic,49.75,13.366667,165531
+Olomouc,Czech Republic,49.59404,17.25119,102792
+Liberec,Czech Republic,50.763889,15.065278,99416
+Ceske Budejovice,Czech Republic,48.983333,14.466667,97530
+Hradec Kralove,Czech Republic,50.207744,15.829455,97427
+Usti,Czech Republic,50.666667,14.033333,95556
+Pardubice,Czech Republic,50.027778,15.775833,90853
+Havirov,Czech Republic,49.8,18.4,85829
+Zlin,Czech Republic,49.216667,17.666667,81066
+Kladno,Czech Republic,50.142037,14.096549,71262
+Most,Czech Republic,50.509611,13.639121,68254
+Karvina,Czech Republic,49.856792,18.546907,65441
+Frydek-Mistek,Czech Republic,49.683333,18.35,61584
+Opava,Czech Republic,49.93846,17.902628,61514
+Karlovy Vary,Czech Republic,50.237003,12.875042,53585
+Decin,Czech Republic,50.77137,14.198248,52521
+Chomutov,Czech Republic,50.463532,13.41365,51054
+Teplice,Czech Republic,50.646569,13.840138,50972
+Jihlava,Czech Republic,49.4,15.583333,50818
+Prerov,Czech Republic,49.453926,17.452379,48513
+Prostejov,Czech Republic,49.47333,17.113455,48258
+Jablonec,Czech Republic,50.720474,15.171128,45289
+Mlada Boleslav,Czech Republic,50.42311,14.919316,44417
+Ceska Lipa,Czech Republic,50.686736,14.538125,39398
+Trinec,Czech Republic,49.680358,18.665348,39054
+Trebic,Czech Republic,49.210649,15.881458,39038
+Tabor,Czech Republic,49.411005,14.672771,36546
+Pribram,Czech Republic,49.691355,14.020575,35963
+Znojmo,Czech Republic,48.856116,16.056412,35791
+Orlova,Czech Republic,49.860351,18.444873,34938
+Cheb,Czech Republic,50.075777,12.374676,32778
+Trutnov,Czech Republic,50.565612,15.914355,32085
+Kolin,Czech Republic,50.026904,15.202311,30351
+Pisek,Czech Republic,49.308408,14.149171,29756
+Sumperk,Czech Republic,49.965811,16.978874,29604
+Vsetin,Czech Republic,49.341899,17.983582,29302
+Kromeriz,Czech Republic,49.295955,17.395659,29211
+Hodonin,Czech Republic,48.856013,17.123073,27600
+Valasske Mezirici,Czech Republic,49.473211,17.972378,27562
+Litvinov,Czech Republic,50.601105,13.612673,27424
+Novy Jicin,Czech Republic,49.598334,18.012384,27043
+Uherske Hradiste,Czech Republic,49.066667,17.463943,26954
+Breclav,Czech Republic,48.757723,16.890041,26905
+Cesky Tesin,Czech Republic,49.745479,18.621783,26478
+Krnov,Czech Republic,50.089054,17.698012,25769
+Sokolov,Czech Republic,50.178428,12.647147,25079
+Litomerice,Czech Republic,50.538408,14.130347,24930
+Havlickuv Brod,Czech Republic,49.614082,15.564558,24373
+Chrudim,Czech Republic,49.95,15.8,23909
+Strakonice,Czech Republic,49.260997,13.905073,23863
+Koprivnice,Czech Republic,49.598453,18.145241,23798
+Bohumin,Czech Republic,49.901831,18.360679,23310
+Klatovy,Czech Republic,49.39717,13.289064,23059
+Jindrichuv Hradec,Czech Republic,49.144852,15.0025,22646
+Vyskov,Czech Republic,49.278302,17.002565,22549
+Kutna Hora,Czech Republic,49.95,15.266667,21474
+Nachod,Czech Republic,50.416667,16.166667,21196
+Jirkov,Czech Republic,50.5,13.45,20648
+Blansko,Czech Republic,49.363931,16.647513,20643
+Zatec,Czech Republic,50.326309,13.544673,19961
+Louny,Czech Republic,50.355707,13.809376,19720
+Hranice,Czech Republic,49.556306,17.735236,19666
+Melnik,Czech Republic,50.361082,14.472342,19318
+Otrokovice,Czech Republic,49.207366,17.523862,19303
+Roznov,Czech Republic,49.4606,18.136664,17964
+Svitavy,Czech Republic,49.755945,16.466791,17625
+Uhersky Brod,Czech Republic,49.025539,17.646646,17625
+Bruntal,Czech Republic,49.989638,17.463217,17610
+Kadan,Czech Republic,50.384339,13.267338,17559
+Kralupy nad Vltavou,Czech Republic,50.239486,14.300742,17493
+Ostrov,Czech Republic,50.307349,12.94792,17453
+Beroun,Czech Republic,49.966171,14.060086,17422
+Ceska Trebova,Czech Republic,49.901115,16.445046,17103
+Rakovnik,Czech Republic,50.10257,13.728775,16725
+Pelhrimov,Czech Republic,49.428201,15.223368,16590
+Jicin,Czech Republic,50.435841,15.355569,16516
+Dvur Kralove,Czech Republic,50.429766,15.813812,16364
+Benesov,Czech Republic,49.782377,14.686569,16321
+Neratovice,Czech Republic,50.262281,14.508592,16285
+Varnsdorf,Czech Republic,50.915389,14.617839,16018
+Bilina,Czech Republic,50.548752,13.775444,15866
+Klasterec nad Ohri,Czech Republic,50.388821,13.182397,15724
+Brandys nad Labem-Stara Boleslav,Czech Republic,50.183608,14.659499,15375
+Slany,Czech Republic,50.232504,14.074934,15330
+Usti nad Orlici,Czech Republic,49.975283,16.397151,15194
+Marianske Lazne,Czech Republic,49.960197,12.700682,14709
+Chodov,Czech Republic,50.239093,12.748613,14661
+Zabreh,Czech Republic,49.884404,16.873092,14574
+Turnov,Czech Republic,50.592134,15.164575,14500
+Nymburk,Czech Republic,50.190375,15.03947,14498
+Cesky Krumlov,Czech Republic,48.81264,14.318207,14404
+Hlucin,Czech Republic,49.896907,18.191661,14341
+Rokycany,Czech Republic,49.74047,13.592556,14295
+Sternberk,Czech Republic,49.726551,17.292981,14130
+Podebrady,Czech Republic,50.147421,15.118661,13445
+Krupka,Czech Republic,50.681912,13.864749,13281
+Vrchlabi,Czech Republic,50.624091,15.61315,13155
+Roudnice,Czech Republic,50.421241,14.257235,13114
+Jaromer,Czech Republic,50.349199,15.920442,12911
+Jesenik,Czech Republic,50.229906,17.203426,12693
+Tachov,Czech Republic,49.798116,12.635752,12684
+Unicov,Czech Republic,49.772259,17.122268,12474
+Holesov,Czech Republic,49.329979,17.577216,12455
+Vlasim,Czech Republic,49.703603,14.899412,12350
+Novy Bor,Czech Republic,50.757126,14.556747,12325
+Veseli nad Moravou,Czech Republic,48.950888,17.382144,12245
+Vysoke Myto,Czech Republic,49.953254,16.154723,12173
+Prachatice,Czech Republic,49.014417,13.999526,11825
+Velke Mezirici,Czech Republic,49.355442,16.01449,11795
+Rychnov nad Kneznou,Czech Republic,50.166667,16.283333,11721
+Moravska Trebova,Czech Republic,49.755711,16.657149,11564
+Susice,Czech Republic,49.237292,13.523972,11452
+Boskovice,Czech Republic,49.490899,16.659172,11356
+Frenstat,Czech Republic,49.544884,18.210243,11348
+Domazlice,Czech Republic,49.441403,12.925536,11036
+Rumburk,Czech Republic,50.953564,14.553788,11000
+Ricany,Czech Republic,49.992672,14.658531,10928
+Humpolec,Czech Republic,49.541739,15.35586,10915
+Hlinsko,Czech Republic,49.763832,15.909317,10538
+Studenka,Czech Republic,49.719889,18.074529,10503
+Nove Mesto na Morave,Czech Republic,49.562994,16.074353,10459
+Litomysl,Czech Republic,49.86898,16.313674,10351
+Caslav,Czech Republic,49.912041,15.39483,10209
+Celakovice,Czech Republic,50.163545,14.755924,10086
+Nove Mesto nad Metuji,Czech Republic,50.354135,16.139448,10074
+Litovel,Czech Republic,49.706317,17.076908,10026
+Lanskroun,Czech Republic,49.911432,16.612503,9980
+Chotebor,Czech Republic,49.717964,15.672295,9829
+Mohelnice,Czech Republic,49.777384,16.918452,9808
+Frydlant nad Ostravici,Czech Republic,49.591096,18.359548,9753
+Milevsko,Czech Republic,49.451895,14.361574,9436
+Ivancice,Czech Republic,49.101315,16.37623,9314
+Lovosice,Czech Republic,50.514231,14.052128,9266
+Nova Paka,Czech Republic,50.489941,15.516498,9259
+Semily,Czech Republic,50.602889,15.33768,9247
+Steti,Czech Republic,50.453141,14.378383,9152
+Policka,Czech Republic,49.715579,16.268436,9149
+Prelouc,Czech Republic,50.038042,15.560284,9106
+Horice,Czech Republic,50.369111,15.630551,9052
+Bystrice nad Pernstejnem,Czech Republic,49.52333,16.25941,9030
+Chocen,Czech Republic,50.004354,16.22068,9002
+Trebon,Czech Republic,49.005636,14.763256,8968
+Kurim,Czech Republic,49.302631,16.532675,8896
+Bystrice pod Hostynem,Czech Republic,49.399643,17.674172,8748
+Duchcov,Czech Republic,50.608973,13.744816,8737
+Pribor,Czech Republic,49.640482,18.150476,8720
+Mnichovo Hradiste,Czech Republic,50.522981,14.974758,8652
+Nejdek,Czech Republic,50.32224,12.730727,8556
+Lysa nad Labem,Czech Republic,50.201139,14.841773,8461
+Cerveny Kostelec,Czech Republic,50.476607,16.093114,8431
+Broumov,Czech Republic,50.585292,16.331815,8325
+Tisnov,Czech Republic,49.347502,16.425956,8279
+Vimperk,Czech Republic,49.056271,13.785015,8237
+Tyn nad Vltavou,Czech Republic,49.225516,14.418562,8100
+Sedlcany,Czech Republic,49.65885,14.423418,8088
+Dobris,Czech Republic,49.780879,14.170542,8066
+Moravske Budejovice,Czech Republic,49.052105,15.810128,7970
+Dacice,Czech Republic,49.079485,15.4357,7895
+Stribro,Czech Republic,49.754845,12.995478,7748
+Mikulov,Czech Republic,48.806314,16.637074,7653
+Dubi,Czech Republic,50.674556,13.79464,7592
+Hulin,Czech Republic,49.314891,17.471896,7576
+Napajedla,Czech Republic,49.177848,17.517417,7573
+Frydlant,Czech Republic,50.923446,15.077856,7481
+Bilovec,Czech Republic,49.75703,18.016558,7465
+Sezimovo Usti,Czech Republic,49.377523,14.702868,7455
+Odry,Czech Republic,49.666667,17.833333,7415
+Sobeslav,Czech Republic,49.259093,14.718653,7252
+Kraslice,Czech Republic,50.327579,12.511121,7236
+Novy Bydzov,Czech Republic,50.2411,15.491409,7170
+Svetla nad Sazavou,Czech Republic,49.667892,15.402449,7158
+Dobruska,Czech Republic,50.291973,16.161633,7150
+Slavicin,Czech Republic,49.087973,17.879764,7127
+Kaplice,Czech Republic,48.739407,14.493856,7087
+Tanvald,Czech Republic,50.740333,15.274131,6971
+Nyrany,Czech Republic,49.714397,13.207057,6884
+Cesky Brod,Czech Republic,50.07358,14.858163,6875
+Benatky nad Jizerou,Czech Republic,50.28619,14.834337,6853
+Petrvald,Czech Republic,49.828425,18.390542,6785
+Rychvald,Czech Republic,49.868333,18.375828,6743
+Mimon,Czech Republic,50.65575,14.729251,6708
+Kravare,Czech Republic,49.932857,18.017489,6667
+Stare Mesto,Czech Republic,49.076493,17.437993,6661
+Dubnany,Czech Republic,48.922718,17.104341,6635
+Letovice,Czech Republic,49.547591,16.576105,6614
+Blatna,Czech Republic,49.427165,13.884526,6609
+Veseli nad Luznici,Czech Republic,49.184951,14.698235,6606
+Horovice,Czech Republic,49.836564,13.902058,6570
+Vodnany,Czech Republic,49.147394,14.170186,6546
+Zelezny Brod,Czech Republic,50.645106,15.255259,6516
+Hronov,Czech Republic,50.476002,16.182718,6491
+Vratimov,Czech Republic,49.768571,18.315002,6431
+Prestice,Czech Republic,49.574825,13.328597,6426
+Kojetin,Czech Republic,49.350476,17.302747,6407
+Vitkov,Czech Republic,49.775114,17.752379,6312
+Bucovice,Czech Republic,49.150789,17.002631,6297
+Tyniste nad Orlici,Czech Republic,50.152992,16.076118,6259
+Letohrad,Czech Republic,50.035969,16.496683,6257
+Vrbno pod Pradedem,Czech Republic,50.121807,17.379478,6220
+Holice,Czech Republic,50.069729,15.992836,6192
+Slapanice,Czech Republic,49.165352,16.725835,6190
+Kostelec nad Orlici,Czech Republic,50.123826,16.211445,6153
+Zamberk,Czech Republic,50.086091,16.463802,6128
+Lomnice nad Popelkou,Czech Republic,50.532459,15.370539,6108
+Ledec,Czech Republic,49.696295,15.274891,6101
+Podborany,Czech Republic,50.226883,13.409585,6082
+Moravsky Krumlov,Czech Republic,49.046745,16.30917,6079
+Fulnek,Czech Republic,49.713098,17.900844,6030
+Telc,Czech Republic,49.18228,15.458117,6028
+Straznice,Czech Republic,48.898948,17.311932,5960
+Horni Slavkov,Czech Republic,50.139647,12.806378,5942
+Chrastava,Czech Republic,50.816043,14.968178,5918
+Jablunkov,Czech Republic,49.574677,18.769523,5911
+Roztoky,Czech Republic,50.161771,14.392392,5910
+Upice,Czech Republic,50.512965,16.016914,5906
+Bechyne,Czech Republic,49.299118,14.469875,5900
+Hustopece,Czech Republic,48.941028,16.73353,5858
+Slavkov u Brna,Czech Republic,49.153157,16.879558,5858
+Jilemnice,Czech Republic,50.605466,15.50996,5728
+Dobrany,Czech Republic,49.653671,13.29378,5642
+Sluknov,Czech Republic,51.004656,14.453761,5630
+Luhacovice,Czech Republic,49.097632,17.749896,5596
+Stochov,Czech Republic,50.139507,13.965953,5563
+Kraluv Dvur,Czech Republic,49.947837,14.038397,5509
+Ceska Kamenice,Czech Republic,50.800341,14.418459,5468
+Trebechovice pod Orebem,Czech Republic,50.201595,15.988212,5406
+Senov,Czech Republic,49.790917,18.375858,5385
+Ceska Skalice,Czech Republic,50.394014,16.049184,5384
+Plana,Czech Republic,49.867527,12.74151,5377
+Tynec nad Sazavou,Czech Republic,49.827817,14.598529,5374
+Habartov,Czech Republic,50.193493,12.574425,5367
+Skutec,Czech Republic,49.842468,15.994781,5322
+Rosice,Czech Republic,49.181825,16.393079,5276
+Frantiskovy Lazne,Czech Republic,50.12425,12.348123,5234
+Jilove,Czech Republic,50.751482,14.109192,5233
+Chropyne,Czech Republic,49.361302,17.367619,5232
+Chlumec nad Cidlinou,Czech Republic,50.156747,15.45845,5229
+Nove Straseci,Czech Republic,50.153997,13.90082,5210
+Pacov,Czech Republic,49.471272,15.004092,5210
+Zruc nad Sazavou,Czech Republic,49.744364,15.103751,5175
+Valasske Klobouky,Czech Republic,49.143456,18.01618,5168
+Kynsperk nad Ohri,Czech Republic,50.11917,12.531531,5134
+Kunovice,Czech Republic,49.040529,17.466141,5129
+Nyrsko,Czech Republic,49.292258,13.142736,5088
+Doksy,Czech Republic,50.565654,14.654607,5041
+Osek,Czech Republic,50.624513,13.694421,5005
+Bystrice,Czech Republic,49.641899,18.730349,4972
+Adamov,Czech Republic,49.301409,16.655487,4951
+Mezibori,Czech Republic,50.621852,13.60102,4945
+Bela pod Bezdezem,Czech Republic,50.503175,14.799517,4937
+Protivin,Czech Republic,49.201066,14.214535,4926
+Rousinov,Czech Republic,49.82358,14.813137,4903
+Kdyne,Czech Republic,49.392123,13.039451,4879
+Velka Bites,Czech Republic,49.28905,16.227124,4868
+Hermanuv Mestec,Czech Republic,49.936342,15.678921,4865
+Hostinne,Czech Republic,50.540171,15.730411,4865
+Polna,Czech Republic,49.487442,15.716744,4849
+Uvaly,Czech Republic,50.073111,14.725905,4834
+Postoloprty,Czech Republic,50.359982,13.696013,4812
+Kraliky,Czech Republic,50.084047,16.759172,4806
+Vamberk,Czech Republic,50.117637,16.293932,4794
+Cernosice,Czech Republic,49.958377,14.319865,4774
+Dolni Lutyne,Czech Republic,49.902974,18.423696,4752
+Bojkovice,Czech Republic,49.037279,17.816865,4747
+Hostivice,Czech Republic,50.080782,14.255397,4727
+Bakov nad Jizerou,Czech Republic,50.478355,14.939416,4684
+Tremosna,Czech Republic,49.82666,13.391741,4605
+Votice,Czech Republic,49.639484,14.640219,4599
+Trhove Sviny,Czech Republic,48.841687,14.638371,4596
+Ludgerovice,Czech Republic,49.884296,18.249405,4577
+Holysov,Czech Republic,49.592964,13.100612,4562
+Hlubocky,Czech Republic,49.628217,17.403569,4556
+Oslavany,Czech Republic,49.121758,16.338463,4527
+Hluboka nad Vltavou,Czech Republic,49.05379,14.454533,4514
+Vracov,Czech Republic,48.974388,17.21088,4514
+Petrovice u Karvine,Czech Republic,49.898572,18.532976,4499
+Uhersky Ostroh,Czech Republic,48.98866,17.394875,4499
+Rozmital pod Tremsinem,Czech Republic,49.607461,13.8706,4491
+Zlate Hory,Czech Republic,50.260746,17.395136,4489
+Vizovice,Czech Republic,49.221403,17.853332,4481
+Odolena Voda,Czech Republic,50.232887,14.411094,4478
+Horni Briza,Czech Republic,49.842714,13.361977,4468
+Cvikov,Czech Republic,50.777624,14.632985,4430
+Pecky,Czech Republic,50.090851,15.030752,4386
+Police nad Metuji,Czech Republic,50.538067,16.234725,4377
+Dolni Benesov,Czech Republic,49.922199,18.113812,4353
+Horni Sucha,Czech Republic,49.804997,18.476979,4353
+Pohorelice,Czech Republic,48.983333,16.516667,4345
+Milovice,Czech Republic,50.228034,14.889739,4342
+Hluk,Czech Republic,48.987772,17.526427,4340
+Jemnice,Czech Republic,49.017549,15.576795,4289
+Stary Plzenec,Czech Republic,49.694596,13.474666,4225
+Mnisek pod Brdy,Czech Republic,49.865009,14.264299,4208
+Kamenice nad Lipou,Czech Republic,49.302353,15.076126,4202
+Bzenec,Czech Republic,48.970968,17.269298,4184
+Velke Opatovice,Czech Republic,49.613217,16.676185,4176
+Bolatice,Czech Republic,49.953699,18.082143,4118
+Terlicko,Czech Republic,49.752945,18.482957,4110
+Chlumec,Czech Republic,50.699732,13.936998,4090
+Jaromerice nad Rokytnou,Czech Republic,49.095265,15.891582,4089
+Albrechtice,Czech Republic,50.857945,15.033725,4055
+Kamenicky Senov,Czech Republic,50.773234,14.472826,4055
+Volary,Czech Republic,48.91039,13.889017,4047
+Benesov nad Ploucnici,Czech Republic,50.738658,14.311497,4042
+Ratiskovice,Czech Republic,48.918075,17.162063,4032
+Nova Role,Czech Republic,50.271955,12.786849,4027
+Straz pod Ralskem,Czech Republic,50.698886,14.794952,4010
+Velesin,Czech Republic,48.83049,14.463114,4006
+Kosmonosy,Czech Republic,50.436676,14.928258,4005
+Nove Mesto pod Smrkem,Czech Republic,50.92634,15.22973,4001
+Bystrice,Czech Republic,49.731793,14.667197,3991
+Mosty u Jablunkova,Czech Republic,49.534671,18.753926,3981
+Pribyslav,Czech Republic,49.57721,15.738639,3965
+Slatinany,Czech Republic,49.918333,15.815192,3957
+Bor,Czech Republic,49.713098,12.776297,3944
+Zdice,Czech Republic,49.914201,13.976926,3936
+Zbysov,Czech Republic,49.130834,16.806276,3925
+Jirikov,Czech Republic,50.993215,14.572155,3901
+Lisov,Czech Republic,49.016476,14.6081,3897
+Blovice,Czech Republic,49.583231,13.533991,3852
+Sazava,Czech Republic,49.870565,14.895367,3843
+Strani,Czech Republic,48.905327,17.705316,3831
+Vendryne,Czech Republic,49.655127,18.699643,3827
+Bridlicna,Czech Republic,49.911432,17.365002,3796
+Velke Bilovice,Czech Republic,48.849474,16.89145,3785
+Lazne Belohrad,Czech Republic,50.428875,15.582745,3780
+Touzim,Czech Republic,50.055655,12.990823,3779
+Breznice,Czech Republic,49.558764,13.950916,3772
+Detmarovice,Czech Republic,49.894051,18.462384,3768
+Lanzhot,Czech Republic,48.723731,16.96522,3756
+Vetrni,Czech Republic,48.77493,14.287545,3756
+Klimkovice,Czech Republic,49.788341,18.127265,3755
+Navsi,Czech Republic,49.589936,18.754532,3750
+Paskov,Czech Republic,49.733452,18.290601,3704
+Zliv,Czech Republic,49.066667,14.366667,3679
+Jablonne v Podjestedi,Czech Republic,50.763952,14.761264,3674
+Libochovice,Czech Republic,50.4097,14.069006,3659
+Mutenice,Czech Republic,48.902988,17.026664,3655
+Brtnice,Czech Republic,49.310551,15.674454,3641
+Suchdol nad Luznici,Czech Republic,48.89419,14.878038,3628
+Krasna Lipa,Czech Republic,50.48378,13.357497,3621
+Zacler,Czech Republic,50.65811,15.908241,3617
+Valtice,Czech Republic,48.741812,16.757793,3616
+Mesto Albrechtice,Czech Republic,50.16305,17.572759,3612
+Lom,Czech Republic,50.59408,13.660254,3603
+Hanusovice,Czech Republic,50.079228,16.93492,3585
+Brusperk,Czech Republic,49.699167,18.222021,3573
+Borovany,Czech Republic,48.899809,14.642921,3565
+Rajec-Jestrebi,Czech Republic,49.416667,16.633333,3548
+Desna,Czech Republic,50.757871,15.311269,3534
+Nepomuk,Czech Republic,49.487615,13.583583,3531
+Ceske Velenice,Czech Republic,48.764608,14.95924,3504
+Modrice,Czech Republic,49.130176,16.611011,3491
+Kralovice,Czech Republic,49.98058,13.485576,3475
+Frystak,Czech Republic,49.291023,17.693884,3457
+Rotava,Czech Republic,50.297435,12.573072,3431
+Stod,Czech Republic,49.639961,13.16422,3429
+Jilove u Prahy,Czech Republic,49.898235,14.496985,3427
+Moravsky Beroun,Czech Republic,49.796431,17.444735,3418
+Smrzovka,Czech Republic,50.735331,15.244694,3415
+Libcice nad Vltavou,Czech Republic,50.197949,14.354321,3404
+Stramberk,Czech Republic,49.590958,18.117846,3395
+Tremosnice,Czech Republic,49.870259,15.577777,3390
+Nova Bystrice,Czech Republic,49.019462,15.104118,3389
+Rokytnice nad Jizerou,Czech Republic,50.72763,15.445253,3373
+Rohatec,Czech Republic,48.933333,17.166667,3358
+Kostelec nad Cernymi Lesy,Czech Republic,49.995688,14.861005,3345
+Ostrozska Nova Ves,Czech Republic,49.004698,17.437016,3333
+Vejprty,Czech Republic,50.49575,13.033892,3320
+Stepanov,Czech Republic,50.162384,16.917024,3316
+Chvaletice,Czech Republic,50.027712,15.445573,3308
+Haj ve Slezsku,Czech Republic,49.898602,18.098483,3299
+Hrusovany nad Jevisovkou,Czech Republic,48.833333,16.4,3261
+Postrelmov,Czech Republic,49.910957,16.916429,3222
+Nivnice,Czech Republic,48.97692,17.64596,3221
+Budisov nad Budisovkou,Czech Republic,49.794289,17.628931,3220
+Velka nad Velickou,Czech Republic,48.883333,17.533333,3216
+Cervena Voda,Czech Republic,50.042613,16.742237,3214
+Koberice,Czech Republic,49.984879,18.056068,3198
+Lutin,Czech Republic,49.556673,17.139519,3198
+Loket,Czech Republic,50.185921,12.754252,3186
+Bludov,Czech Republic,49.942862,16.926266,3177
+Volyne,Czech Republic,50.448742,13.211491,3177
+Uhlirske Janovice,Czech Republic,49.881494,15.064461,3172
+Rudna,Czech Republic,50.032859,14.225905,3170
+Sadska,Czech Republic,50.136909,14.985015,3153
+Baska,Czech Republic,49.64417,18.371902,3145
+Smirice,Czech Republic,50.300086,15.865792,3131
+Opocno,Czech Republic,50.269932,16.110817,3124
+Jablonne nad Orlici,Czech Republic,50.030388,16.603926,3106
+Velke Pavlovice,Czech Republic,48.902269,16.814891,3089
+Tepla,Czech Republic,49.979968,12.864322,3085
+Lazne Bohdanec,Czech Republic,50.076389,15.682222,3083
+Zidlochovice,Czech Republic,49.038068,16.614826,3075
+Vnorovy,Czech Republic,48.929189,17.350493,3065
+Stankov,Czech Republic,49.552243,13.06993,3053
+Lostice,Czech Republic,49.745003,16.930656,3051
+Vrdy,Czech Republic,49.920754,15.471089,3049
+Revnice,Czech Republic,49.913114,14.240644,3047
+Zirovnice,Czech Republic,49.252133,15.188454,3043
+Rtyne v Podkrkonosi,Czech Republic,50.506405,16.069229,3040
+Stepankovice,Czech Republic,49.957387,18.03714,3030
+Kostelec nad Labem,Czech Republic,50.226468,14.58672,3029
+Dobrovice,Czech Republic,50.366759,14.961847,3027
+Plana nad Luznici,Czech Republic,49.344926,14.713605,3027
+Konice,Czech Republic,49.592494,16.888092,3019
+Vlcnov,Czech Republic,49.580239,17.952866,3016
+Mestec Kralove,Czech Republic,50.205726,15.296462,3010
+Dolni Nemci,Czech Republic,48.968436,17.584023,3002
+Velvary,Czech Republic,50.281733,14.24153,3001
+Miroslav,Czech Republic,48.95,16.316667,2998
+Sezemice,Czech Republic,50.066321,15.850651,2995
+Kaznejov,Czech Republic,49.893351,13.381569,2986
+Slusovice,Czech Republic,49.250592,17.79852,2972
+Javornik,Czech Republic,50.395669,17.01267,2935
+Dobra,Czech Republic,49.672268,18.414883,2920
+Terezin,Czech Republic,50.510696,14.149776,2916
+Kamenice,Czech Republic,49.901177,14.5812,2901
+Ivanovice na Hane,Czech Republic,49.304928,17.093292,2893
+Hradek,Czech Republic,49.26142,13.495013,2888
+Rapotin,Czech Republic,49.983333,17.016667,2887
+Hrusovany u Brna,Czech Republic,49.036583,16.591713,2881
+Karolinka,Czech Republic,49.351904,18.24642,2881
+Velke Losiny,Czech Republic,50.043327,17.053093,2878
+Podivin,Czech Republic,48.829387,16.849737,2876
+Dolni Bojanovice,Czech Republic,48.857761,17.028111,2870
+Dobrichovice,Czech Republic,49.930846,14.27753,2863
+Velka Bystrice,Czech Republic,49.594408,17.360232,2857
+Zlutice,Czech Republic,50.090704,13.162844,2854
+Mezimesti,Czech Republic,50.626582,16.242148,2840
+Cesky Dub,Czech Republic,50.660313,14.995326,2835
+Raspenava,Czech Republic,50.899712,15.133397,2835
+Korycany,Czech Republic,49.109827,17.166496,2827
+Jevicko,Czech Republic,49.632619,16.711918,2817
+Jachymov,Czech Republic,50.365752,12.922539,2816
+Kozlovice,Czech Republic,49.600238,18.257268,2811
+Morkovice-Slizany,Czech Republic,49.247255,17.21128,2799
+Veverska Bityska,Czech Republic,49.275743,16.436621,2779
+Mikulovice,Czech Republic,50.300642,17.324338,2771
+Brezova,Czech Republic,50.196603,12.87048,2767
+Pocatky,Czech Republic,49.261044,15.238458,2743
+Novy Hrozenkov,Czech Republic,49.339768,18.205008,2738
+Zasova,Czech Republic,49.476432,18.044408,2738
+Luzice,Czech Republic,48.83974,17.07035,2731
+Zdanice,Czech Republic,49.067259,17.0284,2731
+Mlada Vozice,Czech Republic,49.538113,14.813137,2721
+Kostelec na Hane,Czech Republic,49.514288,17.058101,2713
+Velke Hamry,Czech Republic,50.717417,15.296648,2709
+Rajhrad,Czech Republic,49.087673,16.604472,2703
+Slavonice,Czech Republic,48.998229,15.350296,2703
+Hejnice,Czech Republic,50.878539,15.181515,2692
+Cercany,Czech Republic,49.849118,14.706445,2689
+Trmice,Czech Republic,50.642224,14.001877,2678
+Velke Karlovice,Czech Republic,49.36405,18.3069,2664
+Tovacov,Czech Republic,49.430834,17.287735,2656
+Ustek,Czech Republic,50.58494,14.345113,2649
+Nove Sedlo,Czech Republic,50.210998,12.739372,2626
+Obrnice,Czech Republic,50.503511,13.697048,2610
+Plasy,Czech Republic,49.931803,13.382054,2610
+Netolice,Czech Republic,49.050948,14.198223,2606
+Luze,Czech Republic,49.893878,16.029931,2601
+Golcuv Jenikov,Czech Republic,49.816395,15.477346,2593
+Chotesov,Czech Republic,49.655302,13.201168,2592
+Palkovice,Czech Republic,49.628455,18.302271,2590
+Hodkovice nad Mohelkou,Czech Republic,50.665805,15.090202,2588
+Nove Hrady,Czech Republic,48.790466,14.778111,2588
+Zakupy,Czech Republic,50.68491,14.646469,2582
+Zbiroh,Czech Republic,49.8565,13.769114,2582
+Kelc,Czech Republic,49.478455,17.819404,2569
+Cejkovice,Czech Republic,48.883333,16.283333,2554
+Dolni Dobrouc,Czech Republic,49.992745,16.498762,2553
+Jesenice,Czech Republic,49.969168,14.514608,2551
+Vyssi Brod,Czech Republic,48.617733,14.31264,2547
+Komarov,Czech Republic,49.807361,13.858013,2542
+Libusin,Czech Republic,50.167322,14.054582,2539
+Kunstat,Czech Republic,49.506871,16.521307,2532
+Strelice,Czech Republic,49.15342,16.500263,2527
+Bohusovice nad Ohri,Czech Republic,50.494477,14.149776,2523
+Moravska Nova Ves,Czech Republic,48.804341,17.012853,2518
+Vejprnice,Czech Republic,49.73007,13.277113,2509
+Sobotin,Czech Republic,50.016667,17.1,2502
+Spalene Porici,Czech Republic,49.612487,13.605553,2501
+Studena,Czech Republic,49.187082,15.28649,2482
+Jedovnice,Czech Republic,49.344289,16.755841,2477
+Ceska Ves,Czech Republic,50.257388,17.228514,2475
+Kremze,Czech Republic,48.905005,14.309279,2475
+Horni Benesov,Czech Republic,49.967143,17.603331,2473
+Luka nad Jihlavou,Czech Republic,49.375568,15.700632,2470
+Luby,Czech Republic,50.253328,12.404506,2465
+Ruda nad Moravou,Czech Republic,49.981072,16.877622,2464
+Nova Vcelnice,Czech Republic,49.239363,15.072403,2463
+Strasice,Czech Republic,49.735474,13.757592,2456
+Stara Ves nad Ondrejnici,Czech Republic,49.726075,18.19404,2439
+Buchlovice,Czech Republic,49.088463,17.340304,2437
+Kryry,Czech Republic,50.17508,13.42508,2434
+Neveklov,Czech Republic,49.751765,14.544805,2432
+Horni Becva,Czech Republic,49.433333,18.283333,2408
+Stary Jicin,Czech Republic,49.577494,17.961908,2400
+Tlumacov,Czech Republic,49.252762,17.500987,2393
+Mikulasovice,Czech Republic,50.965381,14.364363,2385
+Batelov,Czech Republic,49.313905,15.396317,2383
+Rudolfov,Czech Republic,48.989583,14.542241,2377
+Chlumcany,Czech Republic,49.631497,13.310957,2371
+Morkov,Czech Republic,49.536277,18.06176,2365
+Dolni Bousov,Czech Republic,50.437513,15.127006,2362
+Bohunovice,Czech Republic,49.66286,17.289043,2354
+Zastavka,Czech Republic,49.2,16.366667,2350
+Halenkov,Czech Republic,49.319523,18.146193,2349
+Lednice,Czech Republic,48.797895,16.803683,2347
+Orechov,Czech Republic,49.11351,16.517417,2344
+Bustehrad,Czech Republic,50.154904,14.187483,2343
+Dobsice,Czech Republic,48.85,16.083333,2333
+Vresina,Czech Republic,49.946431,18.191672,2328
+Tlucna,Czech Republic,49.724768,13.239043,2307
+Novy Malin,Czech Republic,49.95,17.033333,2303
+Hovezi,Czech Republic,49.304997,18.06167,2302
+Dolni Kounice,Czech Republic,49.07548,16.458775,2297
+Jince,Czech Republic,49.788652,13.976619,2296
+Bilovice nad Svitavou,Czech Republic,49.245536,16.671772,2293
+Horni Plana,Czech Republic,48.768088,14.043873,2281
+Sobotka,Czech Republic,50.467115,15.175501,2279
+Kvasice,Czech Republic,49.23974,17.471008,2275
+Borsice,Czech Republic,49.061597,17.350058,2273
+Velke Porici,Czech Republic,50.458755,16.192494,2272
+Zlonice,Czech Republic,50.286003,14.091592,2261
+Plumlov,Czech Republic,49.466667,17.016667,2259
+Hranice,Czech Republic,50.303473,12.17667,2254
+Chlum u Trebone,Czech Republic,48.961325,14.92961,2253
+Svoboda nad Upou,Czech Republic,50.623117,15.817125,2249
+Line,Czech Republic,49.69531,13.257388,2230
+Probostov,Czech Republic,50.666667,13.833333,2229
+Mirosov,Czech Republic,49.690165,13.66891,2228
+Chabarovice,Czech Republic,50.67493,13.939411,2223
+Hovorany,Czech Republic,48.95513,16.990661,2212
+Tuchlovice,Czech Republic,50.136983,13.990812,2211
+Mnichovice,Czech Republic,49.936421,14.708604,2204
+Mlade Buky,Czech Republic,50.604513,15.84315,2199
+Kopidlno,Czech Republic,50.333198,15.26877,2195
+Sardice,Czech Republic,48.963116,17.03136,2189
+Velky Osek,Czech Republic,50.100358,15.192194,2188
+Nechanice,Czech Republic,50.237115,15.635234,2186
+Drnovice,Czech Republic,49.274783,16.950789,2178
+Rudnik,Czech Republic,50.608353,15.737229,2178
+Valasska Bystrice,Czech Republic,49.414654,18.109637,2172
+Opatovice nad Labem,Czech Republic,50.151404,15.791597,2171
+Cernilov,Czech Republic,50.263472,15.914827,2160
+Novosedlice,Czech Republic,50.65795,13.822201,2143
+Moravsky Pisek,Czech Republic,48.988068,17.329189,2140
+Stare Mesto,Czech Republic,50.161224,16.946342,2137
+Ledenice,Czech Republic,48.933078,14.621598,2135
+Borohradek,Czech Republic,50.096142,16.092833,2127
+Frycovice,Czech Republic,49.674995,18.228693,2114
+Velky Tynec,Czech Republic,49.551547,17.335117,2114
+Milin,Czech Republic,49.633333,14.046329,2107
+Horomerice,Czech Republic,50.133877,14.334353,2105
+Nemcice nad Hanou,Czech Republic,49.342743,17.209161,2102
+Povrly,Czech Republic,50.673057,14.160202,2099
+Prosec,Czech Republic,49.807075,16.116531,2089
+Prusanky,Czech Republic,48.828992,16.983727,2087
+Kobyli,Czech Republic,48.931754,16.888425,2084
+Solnice,Czech Republic,50.203468,16.238854,2076
+Vacenovice,Czech Republic,48.948027,17.174783,2075
+Banov,Czech Republic,48.988364,17.721403,2072
+Becov,Czech Republic,50.44922,13.717491,2069
+Rakvice,Czech Republic,48.856971,16.814168,2066
+Chynov,Czech Republic,49.408237,14.811225,2059
+Tvrdonice,Czech Republic,48.76088,16.992502,2059
+Peruc,Czech Republic,50.342619,13.960352,2058
+Trojanovice,Czech Republic,49.515596,18.233463,2054
+Horka nad Moravou,Czech Republic,49.638936,17.207852,2048
+Velim,Czech Republic,50.061389,15.101479,2046
+Jistebnice,Czech Republic,49.485539,14.527817,2035
+Celadna,Czech Republic,49.552926,18.346749,2027
+Janovice nad Uhlavou,Czech Republic,49.344417,13.217585,2025
+Brasy,Czech Republic,49.832415,13.568605,2024
+Kardasova Recice,Czech Republic,49.184224,14.853137,2022
+Stity,Czech Republic,49.961908,16.763931,2021
+Klecany,Czech Republic,50.176478,14.412374,2018
+Zdounky,Czech Republic,49.229255,17.314168,2018
+Stara Paka,Czech Republic,50.510833,15.49,2015
+Okrisky,Czech Republic,49.24487,15.768936,2014
+Vikyrovice,Czech Republic,49.983333,17.016667,2014
+Zelezna Ruda,Czech Republic,49.137768,13.232492,2009
+Pruhonice,Czech Republic,50.001471,14.559534,2008
+Velky Senov,Czech Republic,50.992377,14.382757,2004
+Vsetaty,Czech Republic,50.28187,14.592122,2001
+Blucina,Czech Republic,49.055618,16.647764,1998
+Polesovice,Czech Republic,49.033464,17.342672,1980
+Troubky,Czech Republic,49.429764,17.347977,1980
+Hrob,Czech Republic,50.656467,13.724949,1979
+Plesna,Czech Republic,50.217447,12.349792,1972
+Pozorice,Czech Republic,49.210654,16.791883,1968
+Jablonec nad Jizerou,Czech Republic,50.704428,15.42863,1967
+Jablunka,Czech Republic,49.38369,17.950487,1965
+Loucovice,Czech Republic,48.620897,14.249763,1960
+Kuncice pod Ondrejnikem,Czech Republic,49.56047,18.255484,1954
+Lesna,Czech Republic,49.519404,17.93131,1951
+Nydek,Czech Republic,49.659767,18.763336,1944
+Bochov,Czech Republic,50.150569,13.046016,1940
+Milotice,Czech Republic,48.955224,17.142277,1940
+Sitborice,Czech Republic,49.014957,16.777808,1940
+Dolni Poustevna,Czech Republic,50.991419,14.293227,1938
+Verovice,Czech Republic,49.538936,18.119879,1934
+Dolany,Czech Republic,49.64881,17.322268,1932
+Doudleby nad Orlici,Czech Republic,50.107118,16.258362,1927
+Loucna nad Desnou,Czech Republic,50.073687,17.091196,1925
+Vranovice,Czech Republic,48.966667,16.6,1918
+Brodek u Prerova,Czech Republic,49.484523,17.336783,1908
+Horni Jiretin,Czech Republic,50.566667,13.566667,1908
+Cerna Hora,Czech Republic,49.41309,16.581007,1906
+Merin,Czech Republic,49.391768,15.88687,1901
+Mikulcice,Czech Republic,48.817654,17.05,1899
+Dobronin,Czech Republic,49.48208,15.679466,1897
+Hukvaldy,Czech Republic,49.624767,18.22096,1897
+Olovi,Czech Republic,50.244662,12.55825,1891

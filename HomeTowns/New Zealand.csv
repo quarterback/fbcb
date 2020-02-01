@@ -1,0 +1,277 @@
+City,Country,Lat,Long,Pop
+Auckland,New Zealand,-36.85,174.76,379600
+Manukau,New Zealand,-37,174.88,344400
+Christchurch,New Zealand,-43.53,172.64,343800
+North shore,New Zealand,-36.8,174.75,193000
+Wellington,New Zealand,-41.28,174.78,167700
+Waitakere,New Zealand,-36.85,174.54,154400
+Hamilton,New Zealand,-37.78,175.28,143600
+Dunedin,New Zealand,-45.88,170.48,107000
+Tauranga,New Zealand,-37.7,176.15,103200
+Lower hutt,New Zealand,-41.2,174.93,96200
+Palmerston north,New Zealand,-40.35,175.61,72400
+Hastings,New Zealand,-39.64,176.84,59600
+Nelson,New Zealand,-41.29,173.24,56200
+Napier,New Zealand,-39.49,176.9,54800
+Rotorua,New Zealand,-38.14,176.24,53300
+Porirua,New Zealand,-41.14,174.85,48200
+Whangarei,New Zealand,-35.72,174.31,47600
+New plymouth,New Zealand,-39.06,174.08,47500
+Invercargill,New Zealand,-46.41,168.37,45400
+Wanganui,New Zealand,-39.93,175.03,38900
+Kapiti,New Zealand,-40.91,175.02,35600
+Upper hutt,New Zealand,-41.14,175.03,34800
+Gisborne,New Zealand,-38.66,178.02,31400
+Blenheim,New Zealand,-41.53,173.96,27300
+Timaru,New Zealand,-44.38,171.22,27100
+Taupo,New Zealand,-38.69,176.08,21000
+Pukekohe,New Zealand,-37.19,174.95,19900
+Masterton,New Zealand,-40.95,175.65,19700
+Levin,New Zealand,-40.62,175.28,19000
+Whakatane,New Zealand,-37.97,176.99,18200
+Ashburton,New Zealand,-43.91,171.75,16100
+Cambridge,New Zealand,-37.88,175.44,14400
+Tokoroa,New Zealand,-38.22,175.87,14200
+Feilding,New Zealand,-40.22,175.55,13500
+Te awamutu,New Zealand,-38.01,175.33,13500
+Oamaru,New Zealand,-45.07,170.98,12700
+Rangiora,New Zealand,-43.31,172.57,11400
+Hawera,New Zealand,-39.58,174.28,10800
+Gore,New Zealand,-46.09,168.92,9700
+Greymouth,New Zealand,-42.46,171.2,9300
+Queenstown,New Zealand,-45.04,168.64,9100
+Waiheke,New Zealand,-36.8,175.1,7700
+Motueka,New Zealand,-41.12,173,7200
+Te puke,New Zealand,-37.78,176.32,7000
+Waiuku,New Zealand,-37.25,174.75,7000
+Huntly,New Zealand,-37.55,175.17,6800
+Kawerau,New Zealand,-38.09,176.7,6800
+Thames,New Zealand,-37.12,175.53,6800
+Morrinsville,New Zealand,-37.65,175.53,6400
+Matamata,New Zealand,-37.82,175.77,6300
+Waitara,New Zealand,-38.93,174.25,6200
+Orewa,New Zealand,-36.79,175.45,5800
+Otaki,New Zealand,-40.76,175.15,5700
+Dannevirke,New Zealand,-40.21,176.09,5300
+Kerikeri,New Zealand,-35.22,173.97,5200
+Kaitaia,New Zealand,-35.12,173.27,5100
+Ngaruawahia,New Zealand,-37.67,175.12,5100
+Stratford,New Zealand,-39.34,174.26,5100
+Taumarunui,New Zealand,-38.89,175.26,4900
+Dargaville,New Zealand,-35.92,173.88,4600
+Foxton,New Zealand,-40.47,175.3,4600
+Marton,New Zealand,-40.08,175.38,4600
+Waihi,New Zealand,-37.38,175.83,4500
+Alexandra,New Zealand,-45.25,169.37,4400
+Te kuiti,New Zealand,-38.32,175.17,4300
+Wairoa,New Zealand,-39.02,177.37,4300
+Balclutha,New Zealand,-46.22,169.75,4100
+Carterton,New Zealand,-41.02,175.53,4100
+Temuka,New Zealand,-44.25,171.27,4100
+Kaikohe,New Zealand,-35.4,173.8,4000
+Opotiki,New Zealand,-38.07,177.28,4000
+Picton,New Zealand,-41.3,174.02,4000
+Whangamata,New Zealand,-37.2,175.87,4000
+Paeroa,New Zealand,-37.36,175.67,3900
+Waipukurau,New Zealand,-40.17,176.67,3900
+Putaruru,New Zealand,-38.05,175.78,3700
+Te aroha,New Zealand,-37.53,175.71,3700
+Wanaka,New Zealand,-44.7,169.15,3700
+Westport,New Zealand,-41.74,171.57,3600
+Hokitika,New Zealand,-42.71,170.97,3400
+Turangi,New Zealand,-39,175.93,3400
+Snells beach,New Zealand,,,3300
+Whitianga,New Zealand,-36.83,175.7,3200
+Katikati,New Zealand,-37.55,175.92,3100
+Lyttelton,New Zealand,-43.6,172.72,3100
+Warkworth,New Zealand,-36.4,174.67,3000
+Inglewood,New Zealand,-39.16,174.25,2800
+Cromwell,New Zealand,-45.05,169.23,2700
+Otorohanga,New Zealand,-38.17,175.2,2700
+Raglan,New Zealand,-37.8,174.88,2700
+Waimate,New Zealand,-35.31,173.88,2700
+Pahiatua,New Zealand,-40.45,175.83,2600
+Woodend,New Zealand,-43.32,172.67,2600
+Featherston,New Zealand,-41.12,175.32,2300
+Helensville,New Zealand,-36.68,174.47,2300
+Rolleston,New Zealand,-43.58,172.38,2300
+Eltham,New Zealand,-39.43,174.3,2200
+Geraldine,New Zealand,-44.1,171.25,2200
+Kaikoura,New Zealand,-39.73,174.41,2100
+Lincoln,New Zealand,-43.65,172.48,2100
+Muriwai beach,New Zealand,-36.82,174.45,2100
+Winton,New Zealand,-46.15,168.33,2100
+Greytown,New Zealand,-41.08,175.45,2000
+Bluff,New Zealand,-46.6,168.33,1900
+Milton,New Zealand,-46.12,169.97,1900
+Murupara,New Zealand,-38.47,176.7,1900
+Paihia,New Zealand,-35.28,174.08,1900
+Te anau,New Zealand,-45.42,167.72,1900
+Waihi beach,New Zealand,-37.4,175.93,1900
+Waipawa,New Zealand,-41.4,175.52,1900
+Arrowtown,New Zealand,-44.93,168.83,1800
+Wellsford,New Zealand,-36.28,174.52,1800
+Bulls,New Zealand,-40.17,175.38,1700
+Mapua,New Zealand,-41.25,173.1,1700
+Moerewa,New Zealand,-35.38,174.03,1700
+Taihape,New Zealand,-39.68,175.8,1700
+Edgecumbe,New Zealand,-37.98,176.83,1600
+Oxford,New Zealand,-43.3,172.18,1600
+Riverton,New Zealand,-46.35,168.02,1600
+Taipa bay-mangonui,New Zealand,-34.98,173.47,1600
+Wakefield,New Zealand,-41.4,173.05,1600
+Brightwater,New Zealand,-41.38,173.12,1500
+Darfield,New Zealand,-43.48,172.12,1500
+Opunake,New Zealand,-39.46,173.86,1500
+Tairua,New Zealand,-37.02,175.85,1500
+Waiouru,New Zealand,-39.48,175.67,1500
+Woodville,New Zealand,-40.33,175.87,1500
+Coromandel,New Zealand,-36.77,175.5,1400
+Kawakawa,New Zealand,-35.38,174.07,1400
+Shannon,New Zealand,-40.55,175.42,1400
+Martinborough,New Zealand,-41.22,175.47,1300
+Ngunguru,New Zealand,-35.62,174.5,1300
+Ohakune,New Zealand,-39.42,175.42,1300
+Patea,New Zealand,-39.76,174.48,1300
+Burnham,New Zealand,-43.62,172.32,1200
+Leeston,New Zealand,-43.76,172.3,1200
+Mangakino,New Zealand,-38.4,175.77,1200
+Methven,New Zealand,-43.63,171.65,1200
+Parakai,New Zealand,-36.65,174.43,1200
+Takaka,New Zealand,-40.85,172.8,1200
+Ahipara,New Zealand,-35.17,173.17,1100
+Amberley,New Zealand,-43.16,172.73,1100
+Ngatea,New Zealand,-37.28,175.5,1100
+Pleasant point,New Zealand,-44.27,171.13,1100
+Te kauwhata,New Zealand,-37.4,175.15,1100
+Waikouaiti,New Zealand,-45.6,170.68,1100
+Maketu,New Zealand,-37.77,176.45,1000
+Raetihi,New Zealand,-39.43,175.28,1000
+Maungatapere,New Zealand,-35.75,174.2,993
+Rakaia,New Zealand,-43.75,172.02,993
+Te puru-thornton bay,New Zealand,-43.63,172.75,990
+Reefton,New Zealand,-42.12,171.87,974
+Twizel,New Zealand,-44.33,170.18,971
+Waverley,New Zealand,-39.77,174.63,937
+Manaia,New Zealand,-39.55,174.13,913
+Riwaka,New Zealand,-41.08,173,909
+Tolaga bay,New Zealand,-38.37,178.3,903
+Makara-ohariu,New Zealand,-41.2,174.77,878
+Tapanui,New Zealand,-45.93,169.27,878
+Ruatoria,New Zealand,-37.88,178.33,869
+Paengaroa,New Zealand,-37.82,176.42,862
+Clyde,New Zealand,-45.18,169.32,856
+Palmerston,New Zealand,-45.48,170.72,837
+Algies bay-mahurangi,New Zealand,-36.44,174.74,825
+Kaitangata,New Zealand,-46.25,169.85,819
+Russell,New Zealand,-35.27,174.12,818
+Maungaturoto,New Zealand,-36.1,174.37,778
+Taneatua,New Zealand,-38.07,177.02,778
+Dobson,New Zealand,-42.45,171.3,772
+Waikuku,New Zealand,-43.3,172.68,766
+Fairlie,New Zealand,-44.09,170.83,763
+Ranfurly,New Zealand,-45.13,170.1,763
+Otautau,New Zealand,-46.15,168,757
+Ohaeawai,New Zealand,-35.35,173.88,753
+Tirau,New Zealand,-37.98,175.75,753
+Southbridge,New Zealand,-43.82,172.25,747
+Pauanui beach,New Zealand,-37.02,175.87,725
+Mamaku,New Zealand,-38.1,176.08,719
+Bombay,New Zealand,-37.17,174.98,716
+Okaihau,New Zealand,-35.32,173.78,716
+Hanmer springs,New Zealand,-42.52,172.82,712
+Tuatapere,New Zealand,-46.13,167.68,707
+Waitangi,New Zealand,-43.94,176.52,693
+Matata,New Zealand,-37.88,176.75,691
+Mangawhai heads,New Zealand,-36.12,174.57,682
+Waimana,New Zealand,-38.15,177.08,679
+Te horo,New Zealand,-40.8,175.1,666
+Manutuke,New Zealand,-38.68,177.92,663
+Te teko,New Zealand,-38.22,175.82,651
+Wallacetown,New Zealand,-46.33,168.27,648
+Roxburgh,New Zealand,-45.55,169.32,644
+Rongotea,New Zealand,-40.3,175.42,638
+Island view-pios beach,New Zealand,,,632
+Outram,New Zealand,-45.87,170.23,632
+Haruru falls,New Zealand,-35.27,174.05,623
+Omapere and opononi,New Zealand,-35.53,173.38,620
+Takapau,New Zealand,-40.03,176.35,604
+Eketahuna,New Zealand,-40.65,175.7,601
+Akaroa,New Zealand,-43.8,172.97,598
+Wyndham,New Zealand,-46.33,168.85,595
+Edendale,New Zealand,-46.32,168.78,592
+Murchison,New Zealand,-41.8,172.33,576
+Reporoa,New Zealand,-38.43,176.35,576
+Te karaka,New Zealand,-38.47,177.87,573
+Kaingaroa forest,New Zealand,-35.03,173.33,570
+Tokomaru,New Zealand,-40.47,175.5,570
+Otane,New Zealand,-39.88,176.63,567
+Kaiwaka,New Zealand,-36.17,174.45,557
+Waharoa,New Zealand,-37.77,175.77,551
+Himatangi,New Zealand,-40.4,175.32,545
+Athenree,New Zealand,-37.47,175.92,539
+Okato,New Zealand,-39.2,173.88,539
+Hunterville,New Zealand,-39.93,175.57,526
+Kawhia,New Zealand,-38.07,174.82,526
+Kerepehi,New Zealand,-37.3,175.53,520
+Sefton,New Zealand,-43.25,172.67,520
+Sanson,New Zealand,-40.22,175.42,514
+Waitati,New Zealand,-45.75,170.57,514
+Kaeo,New Zealand,-35.1,173.78,501
+Te kopuru,New Zealand,-39.67,175.07,498
+Seddon,New Zealand,-41.67,174.08,495
+Lawrence,New Zealand,-45.92,169.7,492
+Egmont village,New Zealand,-39.15,174.15,489
+Havelock,New Zealand,-41.28,173.77,489
+Piopio,New Zealand,-38.47,175.02,486
+Pareora,New Zealand,-44.5,171.2,479
+Rawene,New Zealand,-35.4,173.5,479
+Tokomaru bay,New Zealand,-38.13,178.3,479
+Lumsden,New Zealand,-45.73,168.45,470
+Ruawai,New Zealand,-36.13,174.03,470
+Karamea,New Zealand,-41.25,172.12,461
+Halcombe,New Zealand,-40.15,175.5,451
+Ratana,New Zealand,-40.05,175.18,442
+Leigh,New Zealand,-36.28,174.82,439
+Taitapu,New Zealand,-43.67,172.55,433
+Urenui,New Zealand,-39,174.38,430
+Kakanui,New Zealand,-45.18,170.9,427
+Dunsandel,New Zealand,-43.67,172.18,417
+Cust,New Zealand,-43.32,167.05,414
+Ohai,New Zealand,-45.92,167.95,414
+Culverden,New Zealand,-42.77,172.85,411
+Karitane,New Zealand,-45.65,170.67,411
+Warrington,New Zealand,-45.72,170.58,411
+Cheviot,New Zealand,-42.82,173.27,405
+Kurow,New Zealand,-44.73,170.47,402
+Tapawera,New Zealand,-41.4,172.82,398
+Te kaha,New Zealand,-37.73,177.68,386
+Awanui,New Zealand,-35.05,173.25,383
+Owaka,New Zealand,-46.45,169.67,380
+Riversdale,New Zealand,-45.9,168.75,377
+Patutahi,New Zealand,-38.62,177.9,374
+Waitoa,New Zealand,-37.62,175.63,374
+Meremere,New Zealand,-39.58,174.38,367
+Kaponga,New Zealand,-39.43,174.15,364
+Harihari,New Zealand,-43.15,170.55,361
+East opua,New Zealand,-35.32,174.12,355
+Night caps,New Zealand,-45.97,168.03,355
+Nuhaka,New Zealand,-39.05,177.75,342
+Blackball,New Zealand,-42.37,171.42,336
+Clinton,New Zealand,-46.2,169.37,330
+Franz josef,New Zealand,-43.4,170.18,330
+Ross,New Zealand,-42.9,170.82,327
+Hampden,New Zealand,-41.8,172.33,318
+Lake tekapo,New Zealand,-44.02,170.5,314
+Hector-ngakawau,New Zealand,-41.6,171.88,311
+Rahotu,New Zealand,-39.33,173.8,308
+Stirling,New Zealand,-46.25,169.78,308
+Frasertown,New Zealand,-38.97,177.4,302
+Omarama,New Zealand,-44.48,169.97,290
+Woodlands,New Zealand,-46.37,168.55,290
+Tuai,New Zealand,-38.82,177.17,280
+Fox glacier,New Zealand,-43.5,170.08,265
+Manapouri,New Zealand,-45.57,167.6,252
+Otematata,New Zealand,-44.62,170.27,252
+Mount cook,New Zealand,-43.73,170.1,243
+Ohura,New Zealand,-38.83,174.98,227

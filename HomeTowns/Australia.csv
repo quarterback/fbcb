@@ -1,0 +1,188 @@
+City,Country,Lat,Long,Pop
+Sydney,Australia,-33.861481,151.205475,4394585
+Melbourne,Australia,-37.813938,144.963425,3730212
+Brisbane,Australia,-27.47101,153.024292,1843459
+Perth,Australia,-31.95224,115.861397,1446715
+Adelaide,Australia,-34.928661,138.598633,1074168
+Gold Coast,Australia,-28.00029,153.430878,501175
+Newcastle,Australia,-32.927792,151.784485,497961
+Canberra,Australia,-35.27603,149.13435,324025
+Wollongong,Australia,-34.424,150.893448,260918
+Hobart,Australia,-42.883209,147.331665,204863
+Cairns,Australia,-16.92304,145.766251,154318
+Geelong,Australia,-38.153461,144.358093,150438
+Townsville,Australia,-19.26639,146.805695,138959
+Albury,Australia,-36.07494,146.923935,104261
+Darwin,Australia,-12.45722,130.836639,93081
+Toowoomba,Australia,-27.56056,151.953857,92802
+Ballarat,Australia,-37.56266,143.862579,85110
+Bendigo,Australia,-36.758179,144.280243,81658
+Mackay,Australia,-21.15345,149.165543,75924
+Mandurah,Australia,-32.526901,115.721703,73369
+Launceston,Australia,-41.438759,147.134674,72462
+Rockhampton,Australia,-23.38032,150.505951,65851
+Coffs Harbour,Australia,-30.296261,153.11351,62978
+Wagga Wagga,Australia,-35.125771,147.353745,55382
+Bundaberg,Australia,-24.866211,152.3479,52478
+Port Macquarie,Australia,-31.43084,152.908936,48553
+Mildura,Australia,-34.185509,142.162506,47867
+Hervey Bay,Australia,-25.285,152.873,47561
+Taree,Australia,-31.91099,152.453873,44183
+Cranbourne,Australia,-38.113419,145.283264,39420
+Caloundra,Australia,-26.797091,153.137711,38714
+Tamworth,Australia,-31.090481,150.929047,38552
+Melton,Australia,-37.683392,144.585434,32369
+Queanbeyan,Australia,-35.354931,149.231995,32249
+Wodonga,Australia,-36.121792,146.888092,31518
+Lismore,Australia,-28.81328,153.275803,31433
+Palmerston,Australia,-12.45722,130.836639,31075
+Gladstone,Australia,-23.84761,151.256348,30493
+Orange,Australia,-33.283089,149.100006,30402
+Warrnambool,Australia,-38.38176,142.487991,29928
+Sunbury,Australia,-37.577419,144.726074,29926
+Dubbo,Australia,-32.24295,148.604843,29362
+Geraldton,Australia,-28.778971,114.614594,27259
+Bunbury,Australia,-33.32711,115.641373,26370
+Alice Springs,Australia,-23.697479,133.883621,26188
+Albany,Australia,-35.003101,117.865952,23913
+Mount Gambier,Australia,-37.831799,140.77919,23210
+Armidale,Australia,-30.50828,151.671234,22673
+Mount Isa,Australia,-20.725229,139.497269,22564
+Caboolture,Australia,-27.08465,152.951096,21478
+Goulburn,Australia,-34.751549,149.720856,20941
+Maryborough,Australia,-25.54073,152.704926,20680
+Kwinana,Australia,-32.230129,115.781281,20087
+Burnie,Australia,-41.05584,145.903748,19976
+Kawana Waters,Australia,-26.705999,153.131577,19881
+Craigieburn,Australia,-37.6,144.95,19728
+Whyalla,Australia,-33.032681,137.564835,19646
+Devonport,Australia,-41.176949,146.351517,19318
+Roebourne,Australia,-20.772289,117.146477,19264
+Traralgon,Australia,-38.195278,146.541504,18226
+Nerang,Australia,-27.98941,153.336334,17684
+Broken Hill,Australia,-31.961729,141.459976,17395
+Grafton,Australia,-29.690121,152.933365,16399
+Cessnock,Australia,-32.832111,151.356232,16394
+Gawler,Australia,-34.602509,138.749023,16362
+Deception Bay,Australia,-27.193541,153.026306,16090
+Griffith,Australia,-34.288528,146.050934,15456
+Buderim,Australia,-26.684429,153.057053,15228
+Flinders,Australia,-32.79924,134.211594,15000
+Nambour,Australia,-26.626129,152.959412,14919
+Sawtell,Australia,-30.36459,153.10141,14608
+Port Hedland,Australia,-20.312149,118.610588,14289
+Ballina,Australia,-28.86414,153.565414,14248
+Wangaratta,Australia,-36.358459,146.320557,14023
+Singleton,Australia,-32.567421,151.166031,13813
+Bongaree,Australia,-27.08367,153.159424,13649
+Raymond Terrace,Australia,-32.75,151.75,13606
+Broome,Australia,-17.955379,122.23922,13218
+Sale,Australia,-38.11095,147.068024,12917
+Horsham,Australia,-36.711311,142.199814,12830
+Busselton,Australia,-33.652489,115.345497,12374
+Warwick,Australia,-28.219009,152.034378,12347
+Port Pirie,Australia,-33.191761,138.017456,12328
+Port Augusta,Australia,-32.495972,137.772812,12133
+Victoria Point,Australia,-27.58329,153.311722,11930
+Karratha,Australia,-20.73649,116.84638,11694
+Muswellbrook,Australia,-32.261181,150.890091,11630
+Morwell,Australia,-38.23476,146.394989,11585
+Murray Bridge,Australia,-35.119862,139.273453,11356
+Port Lincoln,Australia,-34.72625,135.87442,11247
+Parkes,Australia,-33.137199,148.175903,11137
+Lithgow,Australia,-33.482471,150.136307,11129
+Gympie,Australia,-26.189159,152.658188,11029
+Bairnsdale,Australia,-37.822891,147.610413,11006
+Kurri Kurri,Australia,-32.819328,151.47908,10991
+Bowen,Australia,-20.01367,148.247543,10983
+Yeppoon,Australia,-23.126829,150.744064,10769
+Pakenham,Australia,-38.070179,145.474106,10602
+Batemans Bay,Australia,-35.706581,150.175415,10557
+Kiama,Australia,-34.668282,150.852188,10380
+Morayfield,Australia,-27.108761,152.949066,10261
+Innisfail,Australia,-17.522091,146.031021,10144
+Katherine,Australia,-14.46517,132.263474,10142
+Dalby,Australia,-27.18169,151.262054,9848
+Bowral,Australia,-34.477501,150.420395,9605
+Ulverstone,Australia,-41.160259,146.182419,9605
+Charters Towers,Australia,-20.07671,146.263535,9574
+Casino,Australia,-28.858191,153.047485,9539
+Kempsey,Australia,-31.078979,152.830933,9522
+Emerald,Australia,-23.522961,148.157837,9399
+Swan Hill,Australia,-35.3386,143.559525,9276
+Ulladulla,Australia,-35.359058,150.472473,9250
+Warragul,Australia,-38.159119,145.931183,9128
+Colac,Australia,-38.339001,143.584885,9089
+Ayr,Australia,-19.573931,147.406662,9079
+Mudgee,Australia,-32.433333,149.583333,9042
+Benalla,Australia,-36.551128,145.984253,9020
+Hamilton,Australia,-37.74334,142.028915,8869
+Portland,Australia,-38.352612,141.605743,8842
+Kingaroy,Australia,-26.53994,151.837296,8573
+Inverell,Australia,-29.774031,151.111664,8561
+Coolum Beach,Australia,-26.533331,153.091232,8555
+Mareeba,Australia,-16.995001,145.423233,8403
+Mount Barker,Australia,-35.066667,138.866667,8357
+Burpengary,Australia,-27.161131,152.959442,8280
+Moree,Australia,-29.46278,149.841568,8205
+Lara,Australia,-38.02388,144.406174,8179
+Deniliquin,Australia,-35.527409,144.959579,8024
+Moranbah,Australia,-21.99828,148.034836,7955
+Esperance,Australia,-33.86013,121.882591,7889
+Victor Harbor,Australia,-35.550419,138.621536,7760
+Nelson Bay,Australia,-32.720428,152.143982,7725
+Young,Australia,-34.313499,148.301071,7501
+Clifton Springs,Australia,-38.1567,144.555099,7413
+Carnarvon,Australia,-24.88073,113.659401,7392
+Leeton,Australia,-34.551048,146.404831,7299
+Blackwater,Australia,-23.583509,148.87912,7250
+Gunnedah,Australia,-30.98065,150.258377,7148
+Healesville,Australia,-37.65395,145.517181,7098
+Narrabri,Australia,-30.32612,149.783707,7082
+Maryborough,Australia,-37.04562,143.739227,7046
+Somerville,Australia,-38.216667,145.166667,7015
+Stawell,Australia,-37.05632,142.780884,6991
+Atherton,Australia,-17.268641,145.47522,6959
+Crib Point,Australia,-38.35,145.2,6908
+Nambucca Heads,Australia,-30.643181,153.008835,6899
+Murwillumbah,Australia,-28.32732,153.393387,6868
+Cowra,Australia,-33.835541,148.696625,6799
+Byron Bay,Australia,-28.64201,153.611938,6764
+Moss Vale,Australia,-34.553741,150.371155,6739
+Mittagong,Australia,-34.45002,150.445724,6717
+Torquay,Australia,-25.283333,152.866667,6670
+Australind,Australia,-33.279202,115.715042,6621
+Castlemaine,Australia,-37.067089,144.216843,6604
+Hastings,Australia,-38.3,145.183333,6583
+Tumut,Australia,-35.300159,148.225052,6526
+Cooma,Australia,-36.234692,149.125977,6520
+Gatton,Australia,-27.558729,152.276184,6513
+Kyabram,Australia,-36.313351,145.050354,6396
+Collie,Australia,-33.362061,116.156174,6337
+Biloela,Australia,-24.416667,150.5,6309
+Ingham,Australia,-18.645519,146.162476,6127
+Leopold,Australia,-38.19001,144.468246,6120
+Ararat,Australia,-37.285419,142.927277,6111
+Wonthaggi,Australia,-38.605862,145.593552,5985
+Lemon Tree Passage,Australia,-32.731579,152.037186,5865
+Northam,Australia,-31.649321,116.674232,5858
+Lakes Entrance,Australia,-37.878941,147.995132,5849
+Medowie,Australia,-32.741501,151.867599,5841
+Kununurra,Australia,-15.77813,128.744141,5679
+New Norfolk,Australia,-42.78075,147.059387,5526
+Roma,Australia,-26.56741,148.787506,5497
+Wellington,Australia,-32.555882,148.945084,5428
+Corowa,Australia,-35.999619,146.385803,5179
+Cootamundra,Australia,-34.640949,148.028381,4934
+Forbes,Australia,-33.384361,148.007599,4838
+Yulara,Australia,-25.245291,130.980545,3903
+Howard Springs,Australia,-12.49576,131.044464,3359
+Nhulunbuy,Australia,-12.18652,136.782013,3202
+Jabiru,Australia,-12.67558,132.831406,1892
+Maningrida,Australia,-12.05111,134.22258,1391
+Port Keats,Australia,-14.24029,129.52092,1351
+Galiwinku,Australia,-12.02811,135.564865,1347
+Alyangula,Australia,-13.85413,136.421295,1289
+Nguiu,Australia,-11.75911,130.638153,1250
+Milingimbi,Australia,-12.10188,134.919006,986
+Ngukurr,Australia,-14.73081,134.731018,947
