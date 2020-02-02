@@ -1,4 +1,4 @@
-﻿ 351,Field 2,Field 3,Field 4,Field 5,Field 6,Field 7,Field 8,Field 9,Field 10,Field 11,Field 12,Field 13,Field 14,Field 15
+ 353 
 ID,Name,Mascot,Prestige,Abbr,Logo,City,State,Conference,Division,TeamColor,TravelPart,Lat,Long,Academics
 1,Abilene Christian,Wildcats,7,ACU  ,abilenechristian,Abilene,TX,27,1,#523295,0,32.47,-99.71,1
 2,Air Force,Falcons,41,AF   ,airforce,Colorado Springs,CO,20,1,#1062A9,0,38.86,-104.79,1
@@ -241,7 +241,7 @@ ID,Name,Mascot,Prestige,Abbr,Logo,City,State,Conference,Division,TeamColor,Trave
 239,Richmond,Spiders,72,RICH ,richmond,Richmond,VA,3,1,#004371,0,37.54,-77.46,1
 240,Rider,Broncs,47,RIDER,rider,Lawrenceville,NJ,16,1,#C82223,0,40.3,-74.74,1
 241,Robert Morris,Colonials,49,RMU  ,robertmorris,Pittsburgh,PA,21,1,#3D4262,0,40.44,-79.98,1
-242,Rutgers,Scarlet Knights,47,RUT  ,rutgers,New Brunswick,NJ,10,1,#FF3B2F,0,40.49,-74.45,1
+242,Rutgers,Scarlet Knights,68,RUT  ,rutgers,New Brunswick,NJ,10,1,#FF3B2F,0,40.49,-74.45,1
 243,Sacramento State,Hornets,33,SACST,sacramentostate,Sacramento,CA,8,1,#145F52,229,38.56,-121.47,1
 244,Sacred Heart,Pioneers,30,HEART,sacredheart,Fairfield,CT,21,1,#BB003A,0,41.18,-73.28,1
 245,Saint Joseph's,Hawks,61,JOES ,stjosephs,Philadelphia,PA,3,1,#BB003A,0,40,-75.14,1
@@ -255,7 +255,7 @@ ID,Name,Mascot,Prestige,Abbr,Logo,City,State,Conference,Division,TeamColor,Trave
 253,San Francisco,Dons,55,SF   ,sanfrancisco,San Francisco,CA,31,1,#006633,255,37.76,-122.44,1
 254,San Jose State,Spartans,14,SJSU ,sanjosestate,San Jose,CA,20,1,#005A94,0,37.3,-121.87,1
 255,Santa Clara,Broncos,47,CLARA,santaclara,Santa Clara,CA,31,1,#690B0B,253,37.35,-121.97,1
-256,Cal Baptist,Lancers,10,CALBAP,calbaptist,Riverside,CA,32,1,#000080,0,33.55,-117.2530,1
+256,Cal Baptist,Lancers,10,CALBA,calbaptist,Riverside,CA,32,1,#000080,0,33.55,-117.253,1
 257,Seattle,Redhawks,32,SEA  ,seattleu,Seattle,WA,32,1,#A42822,37,47.61,-122.33,1
 258,Seton Hall,Pirates,64,HALL ,setonhall,South Orange,NJ,7,1,#3142AD,0,40.75,-74.26,1
 259,Siena,Saints,35,SIENA,siena,Albany,NY,16,1,#006953,0,42.66,-73.78,1
@@ -352,4 +352,4 @@ ID,Name,Mascot,Prestige,Abbr,Logo,City,State,Conference,Division,TeamColor,Trave
 350,Yale,Bulldogs,60,YALE ,yale,New Haven,CT,15,1,#004A81,30,41.31,-72.92,1
 351,Youngstown State,Penguins,34,YSU  ,youngstownstate,Youngstown,OH,14,1,#961F22,52,41.1,-80.65,1
 352,North Alabama,Lions,10,NOALA,northalabama,Florence,AL,5,1,#466166,0,34.81,-87.68,1
-353,Merrimack,Warriors,10,MERR,merrimack,North Andover,MA,21,1,#000080,0,42.41,-71.08,1
+353,Merrimack,Warriors,10,MERR ,merrimack,North Andover,MA,21,1,#000080,0,42.41,-71.08,1
