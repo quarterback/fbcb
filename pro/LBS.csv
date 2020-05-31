@@ -1,0 +1,19 @@
+LeagueName,Abbreviation,HostNation,Region,Team Locations,Prestige,Conf#,C1,C2,Div#,D1,D2,D3,D4,D5,D6,ScheduleGames,PlayoffTeams,Round1,Round2,Round3,Round4,3pShot,MaxFouls,ShotClock,Quarters,QuarterLength,OtLength,SalaryCap,LuxuryCap,MLE,LLE,ResignLength,FaLength,ResignRaise,FaRaise,WaiverLength,RookieDraft,DraftLottery,ExpansionDraft,ExpansionLottery,DispersalDraft,AllowTrades,TradeDeadline,RevenueSharing
+Lega Basket Serie A,LBS,Italy,3,0,3,1,LBS,,1,LBS,,,,,,32,8,5,5,7,0,1,5,24,4,10,5,5000000,9000000,0,0,2,2,0,0,0,0,0,0,0,0,0,122,0
+CityName,NickName,Abbreviation,Logo,Division,TeamColor,City,State,Marketsize,ArenaName,Capacity,ClubSeats,LuxurySuites,Opened,NewCity,NewState,NewMarketsize,NewArena,NewCapacity,NewSuites,NewClub,Opens,DLG
+Virtus Roma,,VIR,virtus,1,#AB2324,Virtus,Italy,5,Palazzetto dello Spo,3500,0,0,1957,,,1,,0,0,0,0,
+Biella,,BIE,biella,1,#020174,Biella,Italy,5,BiellaForum,5707,0,0,2009,,,1,,0,0,0,0,
+Dinamo Sassari,,SAS,sassari,1,#0E3878,Sassari,Italy,5, 	Palaserradimigni,4532,0,0,1975,,,1,,0,0,0,0,
+Cantù,,CAN,cantu,1,#0000A0,Cantù,Italy,5, 	Palasport Pianella,3910,0,0,1974,,,1,,0,0,0,0,
+Varese,,VAR,varese,1,#FF0000,Varese,Italy,5,PalaWhirlpool,5300,0,0,1964,,,1,,0,0,0,0,
+Olimpia Milano,,MIL,milano,1,#D3262C,Milano,Italy,3,Mediolanum Forum,11500,0,0,1990,,,1,,0,0,0,0,
+Brindisi,,BRI,brindisi,1,#0000FF,Brindisi,Italy,5,PalaPentassuglia,3523,0,0,1983,,,1,,0,0,0,0,
+Juvecaserta,,JUV,juvecaserta,1,#000000,Caserta,Italy,5, 	PalaMaggiò,6387,0,0,1982,,,1,,0,0,0,0,
+Mens Sana,,MEN,mesnsana,1,#009B61,Siena,Italy,5,Palasport Mens Sana,7025,0,0,1976,,,1,,0,0,0,0,
+Virtus Bologna,,BOL,bologna,1,#000000,Bologna,Italy,3,Unipol Arena,11000,0,0,1993,,,1,,0,0,0,0,
+Victoria Libertas,,PES,vuelle,1,#B60D28,Pesaro,Italy,4,ADRIATIC Arena,10323,0,0,1982,,,1,,0,0,0,0,
+S.S. Felice Scandone,,SSF,scandone,1,#008000,Avellino,Italy,5,Giacomo del Mauro,5300,0,0,2008,,,1,,0,0,0,0,
+Sutor Montegranaro,,MON,sutor,1,#113259,Montegranaro,Italy,5,PalaSevelli,3800,0,0,1975,,,1,,0,0,0,0,
+Reggiana,,REG,reggiana,1,#E91F29,Reggio Emilia,Italy,5,PalaBigi,3800,0,0,1980,,,1,,0,0,0,0,
+Reyer Venezia,,VEN,reyer,1,#AA0E32,Villorba,Italy,5,Palaverde,5134,0,0,1983,,,1,,0,0,0,0,
+Guerino Vanoli,,GUE,vanoli,1,#000000,Cremona,Italy,5,PalaRadi,4000,0,0,1984,,,1,,0,0,0,0,

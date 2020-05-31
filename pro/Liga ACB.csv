@@ -1,0 +1,21 @@
+LeagueName,Abbreviation,HostNation,Region,Team Locations,Prestige,Conf#,C1,C2,Div#,D1,D2,D3,D4,D5,D6,ScheduleGames,PlayoffTeams,Round1,Round2,Round3,Round4,3pShot,MaxFouls,ShotClock,Quarters,QuarterLength,OtLength,SalaryCap,LuxuryCap,MLE,LLE,ResignLength,FaLength,ResignRaise,FaRaise,WaiverLength,RookieDraft,DraftLottery,ExpansionDraft,ExpansionLottery,DispersalDraft,AllowTrades,TradeDeadline,RevenueSharing
+Liga ACB,ACB,Spain,3,0,2,1,,,1,,,,,,,34,8,3,5,5,5,1,5,24,4,10,5,8000000,15000000,0,0,2,2,75,50,0,0,0,0,0,0,0,122,0
+CityName,NickName,Abbreviation,Logo,Division,TeamColor,City,State,Marketsize,ArenaName,Capacity,ClubSeats,LuxurySuites,Opened,NewCity,NewState,NewMarketsize,NewArena,NewCapacity,NewSuites,NewClub,Opens,DLG
+Asefa Estudiantes,,EST,estudiantes,1,#528ECA,Madrid,Spain,2,Palacio de los Depor,15000,0,0,2005,,,1,,0,0,0,0,
+Bàsquet Manresa,,MAN,basquet,1,#FE1D01,Manresa,Spain,5,Pavelló Nou Congost,18624,0,0,1995,,,1,,0,0,0,0,
+Blancos de Rueda Valladol,,BLA,baloncesto,1,#40216D,Valladolid,Spain,4,Polideportivo Pisuer,6800,0,0,1996,,,1,,0,0,0,0,
+Blu:sens Monbús,,MON,obradoiro,1,#C73536,Santiago de Compostela,Spain,5,Pabellón Multiusos F,6050,0,0,1998,,,1,,0,0,0,0,
+CAI Zaragoza,,ZAR,zaragoza,1,#D7212D,Zaragoza,Spain,2,Príncipe Felipe Aren,11800,0,0,1977,,,1,,0,0,0,0,
+Caja Laboral,,LAB,caja,1,#003153,Vitoria-Gasteiz,Spain,3,Fernando Buesa Arena,15504,0,0,1991,,,1,,0,0,0,0,
+Cajasol,,SEV,cajasol,1,#CA1F7B,Sevilla,Spain,2,Palacio Municipal de,7626,0,0,1988,,,1,,0,0,0,0,
+CB Canarias,,CAN,canarias,1,#000000,San Cristóbal de La Lagun,Spain,4,Pabellón Insular San,5100,0,0,1999,,,1,,0,0,0,0,
+FC Barcelona Regal,,BAR,barcelona,1,#004D98,Barcelona,Spain,2,Palau Blaugrana,7585,0,0,1971,,,1,,0,0,0,0,
+FIATC Mutua Joventut,,JOV,joventut,1,#008040,Badalona,Spain,3,Pavelló Olímpic de B,12500,0,0,1990,,,1,,0,0,0,0,
+Herbalife Gran Canaria,,GRC,grancanaria,1,#004C7E,Las Palmas,Spain,3,Centro Insular de De,5200,0,0,1988,,,1,,0,0,0,0,
+Lagun Aro GBC,,LAG,sebastian,1,#0000FF,San Sebastián,Spain,4,Plaza de Toros de Il,12500,0,0,1999,,,1,,0,0,0,0,
+Mad-Croc Fuenlabrada,,FUE,fuenlabrada,1,#F97801,Fuenlabrada,Spain,4,Polideportivo Fernan,5700,0,0,1991,,,1,,0,0,0,0,
+Real Madrid,,MAD,realmadrid,1,#0344EA,Madrid,Spain,2,Palacio de Deportes,15000,0,0,2005,,,1,,0,0,0,0,
+UCAM Murcia,,MUR,murcia,1,#FF0000,Murcia,Spain,3,Palacio de Deportes,7454,0,0,1994,,,1,,0,0,0,0,
+Unicaja,,UNI,unicaja,1,#004040,Málaga,Spain,3,Palacio de Deportes,11000,0,0,1999,,,1,,0,0,0,0,
+Uxúe Bilbao Basket,,UXU,bilbaobasket,1,#000000,Bilbao,Spain,4,Bilbao Arena,10014,0,0,2010,,,1,,0,0,0,0,
+Valencia Basket,,VAL,valencia,1,#F76834,Valencia,Spain,2,la Fonteta,9000,0,0,1983,,,1,,0,0,0,0,

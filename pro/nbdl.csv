@@ -1,0 +1,19 @@
+LeagueName,Abbreviation,HostNation,Region,Team Locations,Prestige,Conf#,C1,C2,Div#,D1,D2,D3,D4,D5,D6,ScheduleGames,PlayoffTeams,Round1,Round2,Round3,Round4,3pShot,MaxFouls,ShotClock,Quarters,QuarterLength,OtLength,SalaryCap,LuxuryCap,MLE,LLE,ResignLength,FaLength,ResignRaise,FaRaise,WaiverLength,RookieDraft,DraftLottery,ExpansionDraft,ExpansionLottery,DispersalDraft,AllowTrades,TradeDeadline,RevenueSharing
+NBA Development League,NBDL,USA,1,0,4,1,NBDL,,3,Eastern,Central,Western,,,,50,4,3,3,3,3,1,6,24,4,12,5,1000000,0,0,0,2,2,50,50,1,1,1,1,1,1,0,122,0
+CityName,NickName,Abbreviation,Logo,Division,TeamColor,City,State,Marketsize,ArenaName,Capacity,ClubSeats,LuxurySuites,Opened,NewCity,NewState,NewMarketsize,NewArena,NewCapacity,NewSuites,NewClub,Opens,DLG
+Canton,Charge,CAN,canton.jpg,1,#860038,Canton,OH,5,Memorial Center,5200,0,0,1951,,,1,,0,0,0,0,
+Erie,Bayhawks,ERI,erie.jpg,1,#261C01,Erie,PA,5,Erie Insurance Arena,6750,0,0,1983,,,1,,0,0,0,0,
+Fort Wayne,Mad Ants,FRT,fortwayne.jpg,1,#97002D,Fort Wayne,IN,5,Memorial Coliseum,13000,0,0,1952,,,1,,0,0,0,0,
+Maine,Red Claws,MAI,maine.jpg,1,#EC164C,Portland,ME,5,Exposition Building,3100,0,0,1914,,,1,,0,0,0,0,
+Springfield,Armor,SPR,springfield.jpg,1,#0A77BC,Springfield,MA,5,MassMutual Centre,7552,0,0,1972,,,1,,0,0,0,0,
+Austin,Toros,AUS,austin.jpg,2,#000000,Cedar Park,TX,5,Cedar Park Center,8500,0,0,2009,,,1,,0,0,0,0,
+Iowa,Energy,IOW,iowa.jpg,2,#4F2682,Des Moines,IA,5,Wells Fargo Arena,16110,0,0,2005,,,1,,0,0,0,0,
+Rio Grande Valley,Vipers,RIO,riogrande.jpg,2,#A91F26,Hidalgo,TX,5,State Farm Arena,6800,0,0,2003,,,1,,0,0,0,0,
+Siox Falls,Skyforce,SIO,sioxfalls.jpg,2,#008CA8,Sioux Falls,SD,5,Sioux Falls Arena,6113,0,0,1961,,,1,,0,0,0,0,
+Texas,Legends,TEX,texas.jpg,2,#0076C0,Frisco,TX,5,Dr Pepper Arena,4250,0,0,2003,,,1,,0,0,0,0,
+Tulsa,66ers,TUL,tulsa.jpg,2,#002147,Bixby,OK,5,SpiritBank Center,4500,0,0,2008,,,1,,0,0,0,0,
+Bakersfield,Jam,BAK,bakersfield.jpg,3,#002B5C,Bakersfield,CA,5,Dignity Even Center,500,0,0,2009,,,1,,0,0,0,0,
+Idaho,Stampede,IDA,idaho.jpg,3,#000001,Boise,ID,5,CenturyLink Arena,5732,0,0,1997,,,1,,0,0,0,0,
+Los Angeles,D-Fenders,LAD,ladefenders.jpg,3,#410079,El Segundo,CA,5,Toyota Sports Center,250,0,0,2000,,,1,,0,0,0,0,
+Reno,Bighorns,REN,reno.jpg,3,#014711,Reno,NV,5,Reno Events Center,7500,0,0,2005,,,1,,0,0,0,0,
+Santa Cruz,Warriors,SAN,santacruz.jpg,3,#006CB7,Santa Cruz,CA,5,Kaiser Permanente,3500,0,0,2012,,,1,,0,0,0,0,

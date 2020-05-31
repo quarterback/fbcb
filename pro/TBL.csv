@@ -1,0 +1,19 @@
+LeagueName,Abbreviation,HostNation,Region,Team Locations,Prestige,Conf#,C1,C2,Div#,D1,D2,D3,D4,D5,D6,ScheduleGames,PlayoffTeams,Round1,Round2,Round3,Round4,3pShot,MaxFouls,ShotClock,Quarters,QuarterLength,OtLength,SalaryCap,LuxuryCap,MLE,LLE,ResignLength,FaLength,ResignRaise,FaRaise,WaiverLength,RookieDraft,DraftLottery,ExpansionDraft,ExpansionLottery,DispersalDraft,AllowTrades,TradeDeadline,RevenueSharing
+Turkish Basketball League,TBL,Turkey,3,0,3,1,,,1,,,,,,,30,8,3,5,7,7,1,5,24,4,10,5,5000000,9000000,0,0,2,2,25,50,2,0,0,0,0,0,0,122,0
+CityName,NickName,Abbreviation,Logo,Division,TeamColor,City,State,Marketsize,ArenaName,Capacity,ClubSeats,LuxurySuites,Opened,NewCity,NewState,NewMarketsize,NewArena,NewCapacity,NewSuites,NewClub,Opens,DLG
+Aliaga Petkim,,ALI,aliaga,1,#004040,Izmir,Turkey,5,Enka Sport Hall,2500,0,0,2003,,,1,,0,0,0,0,
+Anadolu Efes,,ANA,anadolu,1,#0000A0,Istanbul,Turkey,3,Sinan Erdem Dome,16000,0,0,2010,,,1,,0,0,0,0,
+Antalya BB,,ANT,antalya,1,#0000A0,Antalya,Turkey,5,Dilek Sabanci Sport ,2500,0,0,2001,,,1,,0,0,0,0,
+Banvit,,BAN,banvit,1,#004040,Bandirma,Turkey,5,Jara Ali Acar Sport ,2500,0,0,1999,,,1,,0,0,0,0,
+Besiktas,,BES,besiktas,1,#000000,Istanbul,Turkey,5,BJK Akatlar Arena,3200,0,0,2004,,,1,,0,0,0,0,
+Erdemirspor,,ERD,erdemirspor,1,#FF0000,Zonguldak,Turkey,5,Erdermir Sport Hall,2000,0,0,1998,,,1,,0,0,0,0,
+Fenerbahçe,,FEN,fenerbahce,1,#000080,Istanbul,Turkey,3,Ülker Sports Arena,13800,0,0,2012,,,1,,0,0,0,0,
+Galatasaray,,GAL,galatasaray,1,#800000,Istanbul,Turkey,3,Abdi Ipekçi Arena,11300,0,0,1986,,,1,,0,0,0,0,
+Hacettepe Üniversitesi,,HAC,hacettepe,1,#800080,Ankara,Turkey,5,Ankara Arena,10400,0,0,2010,,,1,,0,0,0,0,
+Mersin,,MER,mersin,1,#000080,Mersin,Turkey,5,Edip Burhan Sport Ha,2700,0,0,1971,,,1,,0,0,0,0,
+Olin Edirne,,OLI,olin,1,#00EC00,Edirne,Turkey,5,Mimar Sinan Sport Ha,2000,0,0,1971,,,1,,0,0,0,0,
+Karsiyaka,,KAR,karsiyaka,1,#008040,Izmir,Turkey,4,Karsiyaka Arena,5000,0,0,2005,,,1,,0,0,0,0,
+Gaziantep,,GAZ,gaziantep,1,#0000FF,Gaziantep,Turkey,5,Kamil Ocak Sport Hal,2500,0,0,2007,,,1,,0,0,0,0,
+TED Ankara Kolejliler,,TED,tedankara,1,#0000FF,Ankara,Turkey,5,TOBB Arena,2400,0,0,1985,,,1,,0,0,0,0,
+Tofas,,TOF,tofas,1,#AE0000,Bursa,Turkey,5,Bursa Atatürk Sport ,3000,0,0,1972,,,1,,0,0,0,0,
+Türk Telekom,,TUR,turk,1,#0000A0,Ankara,Turkey,4,Ankara Arena,10400,0,0,2010,,,1,,0,0,0,0,

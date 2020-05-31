@@ -1,0 +1,16 @@
+LeagueName,Abbreviation,HostNation,Region,Team Locations,Prestige,Conf#,C1,C2,Div#,D1,D2,D3,D4,D5,D6,ScheduleGames,PlayoffTeams,Round1,Round2,Round3,Round4,3pShot,MaxFouls,ShotClock,Quarters,QuarterLength,OtLength,SalaryCap,LuxuryCap,MLE,LLE,ResignLength,FaLength,ResignRaise,FaRaise,WaiverLength,RookieDraft,DraftLottery,ExpansionDraft,ExpansionLottery,DispersalDraft,AllowTrades,TradeDeadline,RevenueSharing
+Greek Basketball League,GBL,Greece,3,0,2,1,,,1,,,,,,,24,8,3,5,5,5,1,5,24,4,10,5,4000000,12000000,0,0,2,2,25,50,2,0,0,0,0,0,0,122,0
+CityName,NickName,Abbreviation,Logo,Division,TeamColor,City,State,Marketsize,ArenaName,Capacity,ClubSeats,LuxurySuites,Opened,NewCity,NewState,NewMarketsize,NewArena,NewCapacity,NewSuites,NewClub,Opens,DLG
+Olympiacos,,OLY,olympiacos,1,#F20000,Piraeus,Greece,3,Peace and Friendship,12171,0,0,1985,,,1,,0,0,0,0,
+Panathinaikos,,PAN,panathinaikos,1,#008040,Athens,Greece,2,Olympic Indoor Hall,19250,0,0,1995,,,1,,0,0,0,0,
+Kolossos Rodou,,KOL,kolossos,1,#0062C4,Rhodes,Greece,4,Venetoklio Indoor Ha,1700,0,0,1996,,,1,,0,0,0,0,
+Rethymno Aegean,,RET,rethymno,1,#002288,Rethymno,Greece,5,Rethymno Indoor Hall,1600,0,0,1998,,,1,,0,0,0,0,
+Panionios,,PAN,panionios,1,#262078,Nea Smyrni,Greece,4,Glyfada Indoor Hall,4532,0,0,1970,,,1,,0,0,0,0,
+Kavala,,KAV,kavala,1,#0000FF,Kavala,Greece,5,Kalamitsa Sports Cen,1500,0,0,1991,,,1,,0,0,0,0,
+Aris,,ARI,aris,1,#000000,Thessaloniki,Greece,4,Alexandrio Melathron,5500,0,0,2004,,,1,,0,0,0,0,
+P.A.O.K.,,PAO,paok,1,#000000,Thessaloniki,Greece,3,P.A.O.K. Sports Aren,8500,0,0,2000,,,1,,0,0,0,0,
+K.A.O.D.,,KAO,kaod,1,#008040,Drama,Greece,5,Drama Indoor Hall,2100,0,0,1994,,,1,,0,0,0,0,
+Ikaros Kallitheas,,IKA,ikaros,1,#000040,Kallithea,Greece,4,Glyfada Indoor Hall,4532,0,0,1970,,,1,,0,0,0,0,
+Ilysiakos,,ILY,ilysiakos,1,#000000,Athens,Greece,5,Illissia Indoor Hall,1700,0,0,1998,,,1,,0,0,0,0,
+Peristeri,,PER,peristeri,1,#0000FF,Peristeri,Greece,4,Peristeri Arena,4300,0,0,1989,,,1,,0,0,0,0,
+Maroussi,,MAR,maroussi,1,#000000,Maroussi,Greece,4,Maroussi Indoor Hall,2500,0,0,1998,,,1,,0,0,0,0,

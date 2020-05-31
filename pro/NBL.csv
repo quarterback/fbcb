@@ -1,0 +1,11 @@
+LeagueName,Abbreviation,HostNation,Region,Team Locations,Prestige,Conf#,C1,C2,Div#,D1,D2,D3,D4,D5,D6,ScheduleGames,PlayoffTeams,Round1,Round2,Round3,Round4,3pShot,MaxFouls,ShotClock,Quarters,QuarterLength,OtLength,SalaryCap,LuxuryCap,MLE,LLE,ResignLength,FaLength,ResignRaise,FaRaise,WaiverLength,RookieDraft,DraftLottery,ExpansionDraft,ExpansionLottery,DispersalDraft,AllowTrades,TradeDeadline,RevenueSharing
+National Basketball League,NBL,Australia,4,1,3,1,NBL,,1,NBL,,,,,,28,4,3,3,3,3,1,5,24,4,10,5,1000000,0,0,0,3,2,50,50,1,0,0,0,0,0,0,122,0
+CityName,NickName,Abbreviation,Logo,Division,TeamColor,City,State,Marketsize,ArenaName,Capacity,ClubSeats,LuxurySuites,Opened,NewCity,NewState,NewMarketsize,NewArena,NewCapacity,NewSuites,NewClub,Opens,DLG
+Adelaide,36ers,ADL,adelaide.jpg,1,#02357A,Adelaide,Australia,4,Adelaide Arena,8000,0,0,1992,,,1,,0,0,0,0,
+Cairns,Taipans,CNS,cairns.jpg,1,#FF7506,Cairns,Australia,5,Convention Centre,5300,0,0,1997,,,1,,0,0,0,0,
+Melbourne,Tigers,MEL,melbourne.jpg,1,#E61824,Melbourne,Australia,3,Hisense Arena,10500,0,0,2000,,,1,,0,0,0,0,
+New Zealand,Breakers,NZB,newzealand.jpg,1,#000000,Wellington,NZ,4,Events Centre,4400,0,0,1992,,,1,,0,0,0,0,
+Perth,Wildcats,PER,perth.jpg,1,#000000,Perth,Australia,3,Perth Arena,14846,0,0,2012,,,1,,0,0,0,0,
+Sydney,Kings,SYD,sydney.jpg,1,#431F83,Sydney,Australia,3,Entertainment Centre,10517,0,0,1983,,,1,,0,0,0,0,
+Townsville,Crocodiles,TWN,townsville.jpg,1,#008357,Townsville,Australia,5,Entertainment Centre,5257,0,0,1993,,,1,,0,0,0,0,
+Wollongong,Hawks,WOL,wollongong.jpg,1,#EC1D23,Wollongong,Australia,4,WIN Centre,6000,0,0,1998,,,1,,0,0,0,0,

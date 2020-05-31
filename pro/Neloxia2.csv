@@ -1,0 +1,16 @@
+LeagueName,Abbreviation,HostNation,Region,Team Locations,Prestige,Conf#,C1,C2,Div#,D1,D2,D3,D4,D5,D6,D7,D8,ScheduleGames,PlayoffTeams,Round1,Round2,Round3,Round4,Seeding,3pShot,MaxFouls,ShotClock,Quarters,QuarterLength,OtLength,SalaryCap,LuxuryCap,MLE,LLE,ResignLength,FaLength,ResignRaise,FaRaise,WaiverLength,RookieDraft,DraftLottery,ExpansionDraft,ExpansionLottery,DispersalDraft,AllowTrades,TradeDeadline,RevenueSharing,SubLeague,Promotion,CutDiscount
+Neloxian Basketball Conference,NBC,Neloxia,6,0,2,1,,,1,,,,,,,,,50,12,5,5,1,1,0,1,5,21,4,10,5,17637462,0,17637462,0,2,2,20,50,0,0,0,0,0,0,0,122,0,,2,0
+CityName,NickName,Abbreviation,Logo,Division,TeamColor,City,State,Marketsize,ArenaName,Capacity,ClubSeats,LuxurySuites,Opened,NewCity,NewState,NewMarketsize,NewArena,NewCapacity,NewSuites,NewClub,Opens,DLG
+BNN,,BNN,npa,1,#3C6FB8,Marisa,Neloxia,4,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Alzate Capital,,ALZ,npa,1,#FF0000,Alzate,Neloxia,4,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Embassy of Basketball,,EMB,npa,1,#00447B,County City,Neloxia,5,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Neloxiant,,NLX,npa,1,#000000,Marisa,Neloxia,4,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Kings Avenue,,KNG,npa,1,#710021,Alzate,Neloxia,4,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Academia Cromwell,,ACA,npa,1,#0000FF,Cromwell,Neloxia,3,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+County City 1886,,CC8,npa,1,#000000,Springhedge,Neloxia,5,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Springhedge United,,SPG,npa,1,#00447B,Springhedge,Neloxia,5,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Enclave,,ENC,npa,1,#00447B,South Hellsbath,Neloxia,5,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+A.D.,,AND,npa,1,#000000,West Marisa,Neloxia,5,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+True Believers,,TRU,npa,1,#005CA2,Seidan,Neloxia,5,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Distillery,,DIS,npa,1,#710021,Alzate,Neloxia,4,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Watchmen B.C.,,WBC,npa,1,#000000,Marisa,Neloxia,4,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,

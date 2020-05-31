@@ -1,0 +1,15 @@
+LeagueName,Abbreviation,HostNation,Region,Team Locations,Prestige,Conf#,C1,C2,Div#,D1,D2,D3,D4,D5,D6,ScheduleGames,PlayoffTeams,Round1,Round2,Round3,Round4,3pShot,MaxFouls,ShotClock,Quarters,QuarterLength,OtLength,SalaryCap,LuxuryCap,MLE,LLE,ResignLength,FaLength,ResignRaise,FaRaise,WaiverLength,RookieDraft,DraftLottery,ExpansionDraft,ExpansionLottery,DispersalDraft,AllowTrades,TradeDeadline,RevenueSharing
+Slovenian Basketball League,SKL,Slovenia,3,0,4,1,,,1,,,,,,,22,4,3,5,0,0,1,5,24,4,10,5,1500000,2000000,0,0,2,2,0,0,0,0,0,0,0,0,0,122,0
+CityName,NickName,Abbreviation,Logo,Division,TeamColor,City,State,Marketsize,ArenaName,Capacity,ClubSeats,LuxurySuites,Opened,NewCity,NewState,NewMarketsize,NewArena,NewCapacity,NewSuites,NewClub,Opens,DLG
+Elektra Šoštanj,,SOS,sostanj,1,#122F59,Šoštanj,Slovenia,5, 	Šoštanj Sport Hall,1000,0,0,1997,,,1,,0,0,0,0,
+Slovan,,SLO,slovan,1,#FF0000,Ljubljana,Slovenia,5,Kodeljevo Sports,1540,0,0,1965,,,1,,0,0,0,0,
+Helios Domzale,,DOM,domzale,1,#0000FF,Domzale,Slovenia,5,Košarkarski Klub,2500,0,0,2006,,,1,,0,0,0,0,
+Krka,,KRK,krka,1,#229B5A,Novo Mesto,Slovenia,5,Leon Štukelj Hall,2500,0,0,1975,,,1,,0,0,0,0,
+Maribor,,MAR,maribor,1,#450364,Maribor,Slovenia,5,Tabor Hall,3800,0,0,1986,,,1,,0,0,0,0,
+Grosuplje,,GRO,grosuplje,1,#009700,Grosuplje,Slovenia,5,Brinje Sport Hall,800,0,0,1976,,,1,,0,0,0,0,
+Hopsi Polzela,,POL,polzela,1,#0068FA,Polzela,Slovenia,5,Polzela Sport Hall,1800,0,0,1985,,,1,,0,0,0,0,
+Rogaška Crystal,,ROG,rogaska,1,#4F89D2, 	Rogaška Slatina,Slovenia,5,Rogaška Sports Hall,700,0,0,1984,,,1,,0,0,0,0,
+Tajfun,,TAJ,tajfun,1,#D50000,Šentjur,Slovenia,5,Hruševec Sport Hall,500,0,0,1974,,,1,,0,0,0,0,
+Škofja Loka,,SKO,skofja,1,#000000,Škofja Loka,Slovenia,5,Poden Hall,500,0,0,1985,,,1,,0,0,0,0,
+Union Olimpija,,OLI,uolimpija,1,#00753A,Ljubljana,Slovenia,3,Arena Stozice,12480,0,0,2010,,,1,,0,0,0,0,
+Zlatorog Laško,,LAS,lasko,1,#008750,Laško,Slovenia,5,Dvorana Tri Iilije,3000,0,0,2002,,,1,,0,0,0,0,

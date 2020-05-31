@@ -1,0 +1,15 @@
+LeagueName,Abbreviation,HostNation,Region,Team Locations,Prestige,Conf#,C1,C2,Div#,D1,D2,D3,D4,D5,D6,D7,D8,ScheduleGames,PlayoffTeams,Round1,Round2,Round3,Round4,Seeding,3pShot,MaxFouls,ShotClock,Quarters,QuarterLength,OtLength,SalaryCap,LuxuryCap,MLE,LLE,ResignLength,FaLength,ResignRaise,FaRaise,WaiverLength,RookieDraft,DraftLottery,ExpansionDraft,ExpansionLottery,DispersalDraft,AllowTrades,TradeDeadline,RevenueSharing,SubLeague,Promotion,CutDiscount
+Neloxian Premier Association,NPA,Neloxia,6,0,1,1,,,1,,,,,,,,,62,4,5,5,7,9,0,1,6,21,4,15,7,18832009,0,18832009,0,2,2,20,50,0,1,0,0,0,0,0,122,0,,1,0
+CityName,NickName,Abbreviation,Logo,Division,TeamColor,City,State,Marketsize,ArenaName,Capacity,ClubSeats,LuxurySuites,Opened,NewCity,NewState,NewMarketsize,NewArena,NewCapacity,NewSuites,NewClub,Opens,DLG
+Black Tambourine,,BTM,npa,1,#000000,Marisa,Neloxia,4,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Cerise,,CER,npa,1,#002983,Marisa,Neloxia,4,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Centillion,,CEN,npa,1,#000000,Marisa,Neloxia,4,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Upton Park,,UPK,npa,1,#0000FF,Upton Par,Neloxia,5,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Swenton United,,SWU,npa,1,#FF0000,Swenton,Neloxia,4,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Vampire Lake,,VMP,npa,1,#3C6FB8,Vampire Lake,Neloxia,5,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Vampire Lake,,VMP,npa,1,#3C6FB8,Vampire Lake,Neloxia,5,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Heart of the City,,HRT,npa,1,#00447B,Upton Park,Neloxia,5,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Sam Harding,,SAM,npa,1,#008000,Southwick,Neloxia,4,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Tom Luke,,TOM,npa,1,#FF0000,Mapouras,Neloxia,5,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+Nicosa,Kingfishers,NIC,npa,1,#0000A0,Nicosa,Neloxia,4,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,
+White Moon Brewery,,WMN,npa,1,#FF0000,Marisa,Neloxia,4,Metro Arena,20000,5000,100,1891,,,,,0,0,0,0,

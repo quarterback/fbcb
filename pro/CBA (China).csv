@@ -1,0 +1,20 @@
+LeagueName,Abbreviation,HostNation,Region,Team Locations,Prestige,Conf#,C1,C2,Div#,D1,D2,D3,D4,D5,D6,ScheduleGames,PlayoffTeams,Round1,Round2,Round3,Round4,3pShot,MaxFouls,ShotClock,Quarters,QuarterLength,OtLength,SalaryCap,LuxuryCap,MLE,LLE,ResignLength,FaLength,ResignRaise,FaRaise,WaiverLength,RookieDraft,DraftLottery,ExpansionDraft,ExpansionLottery,DispersalDraft,AllowTrades,TradeDeadline,RevenueSharing
+Chinese Basketball Association,CBA,China,5,0,4,1,CBA,,2,Northern,Southern,,,,,32,8,5,5,7,7,1,6,24,4,12,5,2000000,4000000,0,0,2,2,50,25,0,0,0,0,0,0,1,122,0
+CityName,NickName,Abbreviation,Logo,Division,TeamColor,City,State,Marketsize,ArenaName,Capacity,ClubSeats,LuxurySuites,Opened,NewCity,NewState,NewMarketsize,NewArena,NewCapacity,NewSuites,NewClub,Opens,DLG
+Beijing,Ducks,BEI,beijing,1,#477FAE,Beijing,China,4,Shougang Gymnasium,6000,0,0,2002,,,1,,0,0,0,0,
+Foshan,Dralions,FOS,foshan,1,#E7002C,Foshan,China,5,Foshan Lingnan Mingz,8324,0,0,2006,,,1,,0,0,0,0,
+Jilin Northeast,Tigers,JNE,jilin,1,#DF0000,Changchun,China,5,Changchun Gymnasium,4299,0,0,1957,,,1,,0,0,0,0,
+Liaoning,Dinosaurs,LIA,liaoning,1,#0F0F0F,Benxi,China,5,Tiexi Gymnasium,4500,0,0,2008,,,1,,0,0,0,0,
+Qingdao,Eagles,QIN,qingdao,1,#D7212D,Qinqdao,China,5,Qingdao University G,6000,0,0,2005,,,1,,0,0,0,0,
+Shandong,Lions,SHA,shandong,1,#EA0000,Jinan,China,5,Shandong Arena,8800,0,0,1979,,,1,,0,0,0,0,
+Shanxi Zhongyu,Brave Dragons,SHZ,shanxi,1,#0000FF,Taiyuan,China,5,Riverside Sports Are,5331,0,0,1998,,,1,,0,0,0,0,
+Tianjin Ronggang,Golden Lions,TIA,tianjin,1,#0000A0,Tianjin,China,5,Tianjin Arena,10000,0,0,1995,,,1,,0,0,0,0,
+Xinjiang,Flying Tigers,XIN,xinjiang,1,#000040,Urumqi,China,5,Hongshan Arena,3800,0,0,2002,,,1,,0,0,0,0,
+Bayi,Rockets,BAY,bayi,1,#000080,Ningbo,China,5,Youngor Arena,5000,0,0,1994,,,1,,0,0,0,0,
+Dongguan,Leopards,DON,dongguan,1,#2E1976,Dongguan,China,5,Dalang Arena,4000,0,0,1994,,,1,,0,0,0,0,
+Fujian,Xunxing,FUJ,fujian,1,#000080,Jinjiang,China,5,Zuchang Gymnasium,6000,0,0,2002,,,1,,0,0,0,0,
+Guangdong,Southern Tigers,GUA,guangdong,1,#FF0000,Dongguan,China,5,Dongguan Arena,4000,0,0,1994,,,1,,0,0,0,0,
+Zhejiang,Lions,ZHE,zhejiang,1,#0F0F0F,Hangzhou,China,5,Hangzhou Gymnasium,5136,0,0,1966,,,1,,0,0,0,0,
+Jiangsu,Dragons,JIA,jiangsu,1,#AA0004,Nanjing,China,5,Nangang Gymnasium,6000,0,0,1995,,,1,,0,0,0,0,
+Shanghai,Sharks,SHS,shanghai,1,#FF8000,Shanghai,China,3,Yuanshen Sports Cent,20000,0,0,1999,,,1,,0,0,0,0,
+Zhejiang,Golden Bulls,ZHG,zhejianggb,1,#008040,Yiwu,China,5,Yiwu Maeho Sports Ce,6000,0,0,1984,,,1,,0,0,0,0,
