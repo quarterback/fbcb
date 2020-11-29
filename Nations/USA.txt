@@ -1,0 +1,2 @@
+English,95
+Spanish,5
