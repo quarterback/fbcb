@@ -1,0 +1,365 @@
+363,,,,,,,,,,,,,,
+ID,Name,Mascot,Prestige,Abbr,Logo,City,State,Conference,Division,TeamColor,TravelPart,Lat,Long,Academics
+1,Abilene Christian,Wildcats,42,AB CH,abilenechristian,Abilene,TX,27,1,#523295,0,32.47,-99.71,1
+2,Air Force,Falcons,38,AF,airforce,Colorado Springs,CO,20,1,#1062A9,0,38.86,-104.79,1
+3,Akron,Zips,63,AKRON,akron,Akron,OH,17,1,#0A1E5B,0,41.07,-81.52,1
+4,Alabama,Crimson Tide,79,ALA,alabama,Tuscaloosa,AL,25,1,#A42D47,0,33.21,-87.53,1
+5,Alabama A&M,Bulldogs,6,AL AM,alabamaam,Huntsville,AL,28,1,#790000,6,34.71,-86.6,1
+6,Alabama State,Hornets,11,AL ST,alabamastate,Montgomery,AL,28,1,#EE9D11,5,32.36,-86.28,1
+7,Albany,Great Danes,38,ALB,albany,Albany,NY,1,1,#331165,0,42.66,-73.78,1
+8,Alcorn State,Braves,12,ALCRN,alcornstate,Lorman,MS,28,1,#4D3069,270,31.82,-91.19,1
+9,American,Eagles,33,AMER ,american,Washington,DC,24,1,#353C91,0,38.91,-77.01,1
+10,Appalachian State,Mountaineers,39,APP,appalachianstate,Boone,NC,30,1,#FCD116,52,36.21,-81.67,1
+11,Arizona,Wildcats,84,ARIZ,arizona,Tucson,AZ,23,1,#102142,12,32.21,-110.92,1
+12,Arizona State,Sun Devils,76,AZ ST,arizonastate,Tempe,AZ,23,1,#8E0C3A,11,33.39,-111.93,1
+13,Arkansas,Razorbacks,82,ARK,arkansas,Fayetteville,AR,25,1,#9C1831,0,36.08,-94.16,1
+14,Arkansas Pine Bluff,Golden Lions,8,AR PB,arkansaspinebluff,Pine Bluff,AR,28,1,#FFBD24,175,34.22,-92.02,1
+15,Arkansas State,Red Wolves,35,AR ST,arkansasstate,Jonesboro,AR,30,1,#E81018,143,35.83,-90.69,1
+16,Army,Black Knights,30,ARMY ,army,West Point,NY,24,1,#CE9C00,0,41.37,-74.04,1
+17,Auburn,Tigers,83,AUB,auburn,Auburn,AL,25,1,#002649,0,32.6,-85.48,1
+18,Austin Peay,Governors,49,PEAY ,austinpeay,Clarksville,TN,5,1,#C41E3A,184,36.56,-87.36,1
+19,Ball State,Cardinals,57,BALL ,ballstate,Muncie,IN,17,2,#DE0000,0,40.19,-85.39,1
+20,Baylor,Bears,89,BAYL,baylor,Waco,TX,6,1,#004833,0,31.55,-97.16,1
+21,Belmont,Bruins,72,BELM,belmont,Nashville,TN,19,1,#182142,287,36.15,-86.76,1
+22,Bethune-Cookman,Wildcats,20,BCOOK,bethunecookman,Daytona Beach,FL,18,1,#7B1831,0,29.21,-81.04,1
+23,Binghamton,Bearcats,15,BING ,binghamton,Binghamton,NY,1,1,#00614A,0,42.1,-75.91,1
+24,Boise State,Broncos,71,BOISE,boisestate,Boise,ID,20,1,#29299C,0,43.61,-116.24,1
+25,Boston College,Eagles,59,BOS C,bostoncollege,Newton,MA,4,1,#222222,0,42.34,-71.21,1
+26,Boston University,Terriers,39,BOS U,bostonu,Boston,MA,24,1,#CC0000,0,42.32,-71.09,1
+27,Bowling Green,Falcons,48,B GRN,bowlinggreen,Bowling Green,OH,17,1,#F04C27,0,41.37,-83.65,1
+28,Bradley,Braves,54,BRAD ,bradley,Peoria,IL,19,1,#B70002,0,40.72,-89.61,1
+29,Brown,Bears,39,BROWN,brown,Providence,RI,15,1,#593D2B,350,41.82,-71.42,1
+30,Bryant,Bulldogs,20,BRYNT,bryant,Smithfield,RI,1,1,#866A17,0,41.92,-71.55,1
+31,Bucknell,Bison,50,BUCK,bucknell,Lewisburg,PA,24,1,#000060,0,40.96,-76.89,1
+32,Buffalo,Bulls,69,BUFF ,buffalo,Buffalo,NY,17,1,#004A84,0,42.9,-78.85,1
+33,Butler,Bulldogs,85,BUTL,butler,Indianapolis,IN,7,1,#004F87,0,39.79,-86.15,1
+34,BYU,Cougars,78,BYU  ,brighamyoung,Provo,UT,6,1,#002942,0,40.24,-111.66,1
+35,Cal Poly,Mustangs,18,POLY ,calpoly,San Luis Obispo,CA,11,1,#004231,0,35.27,-120.66,1
+36,CSU Bakersfield,Roadrunners,40,CSB,calbakersfield,Bakersfield,CA,11,1,#004A84,0,35.37,-119.02,1
+37,CSU Fullerton,Titans,33,CSF,calstatefullerton,Fullerton,CA,11,1,#004A7B,0,33.88,-117.93,1
+38,CSU Northridge,Matadors,28,CSN,calstatenorthridge,Northridge,CA,11,1,#B50000,0,34.23,-118.54,1
+39,California,Golden Bears,52,CAL  ,california,Berkeley,CA,23,1,#002942,278,37.87,-122.27,1
+40,Campbell,Fighting Camels,35,CAMP ,campbell,Buies Creek,NC,12,1,#FF7F00,0,35.41,-78.74,1
+41,Canisius,Golden Griffins,34,CANIS,canisius,Buffalo,NY,16,1,#002649,0,42.9,-78.85,1
+42,Central Arkansas,Bears,24,C ARK,centralarkansas,Conway,AR,27,1,#4D2585,0,35.09,-92.44,1
+43,Central Connecticut,Blue Devils,12,CN CT,centralconnecticut,New Britain,CT,21,1,#1E489C,0,41.67,-72.78,1
+44,Central Michigan,Chippewas,47,CN MI,centralmichigan,Mount Pleasant,MI,17,2,#7B0000,0,43.6,-84.77,1
+45,Charleston Southern,Buccaneers,29,CH SO,charlestonsouthern,Charleston,SC,9,1,#2E3192,0,32.79,-79.99,1
+46,Charlotte,49ers,33,CHRLT,charlotte,Charlotte,NC,2,1,#0C562D,219,35.21,-80.83,1
+47,Chattanooga,Mocs,44,CHAT,chattanooga,Chattanooga,TN,26,1,#253B81,0,35.05,-85.27,1
+48,Chicago State,Cougars,5,CH ST,chicagostate,Chicago,IL,33,1,#006700,310,41.84,-87.68,1
+49,Cincinnati,Bearcats,88,CINC,cincinnati,Cincinnati,OH,6,1,#252525,0,39.14,-84.5,1
+50,Clemson,Tigers,84,CLEM ,clemson,Clemson,SC,4,1,#F35B0F,0,34.68,-82.81,1
+51,Cleveland State,Vikings,23,CLEV ,clevelandstate,Cleveland,OH,14,1,#116644,351,41.48,-81.67,1
+52,Coastal Carolina,Chanticleers,46,C CAR,coastalcarolina,Conway,SC,30,1,#59A0A0,10,33.84,-79.06,1
+53,Colgate,Raiders,48,COLG ,colgate,Hamilton,NY,24,1,#910028,0,42.83,-75.54,1
+54,Charleston,Cougars,56,CHSTN,collegeofcharleston,Charleston,SC,12,1,#9E8249,313,32.79,-79.99,1
+55,Colorado,Buffaloes,76,COL,colorado,Boulder,CO,23,1,#000200,319,40.02,-105.26,1
+56,Colorado State,Rams,54,CO ST,coloradostate,Fort Collins,CO,20,1,#076D54,0,40.56,-105.08,1
+57,Columbia,Lions,35,CLMB,columbia,New York,NY,15,1,#80BEE8,60,40.7,-73.92,1
+58,UConn,Huskies,69,UCONN,connecticut,Storrs,CT,7,1,#091D5A,0,41.81,-72.26,1
+59,Coppin State,Eagles,9,COPP ,coppinstate,Baltimore,MD,18,1,#2E3192,0,39.31,-76.62,1
+60,Cornell,Big Red,31,CORN ,cornell,Ithaca,NY,15,1,#D60027,57,42.44,-76.5,1
+61,Creighton,Bluejays,88,CREI,creighton,Omaha,NE,7,1,#13299E,0,41.26,-96.01,1
+62,Dartmouth,Big Green,34,DART ,dartmouth,Hanover,NH,15,1,#005730,108,43.7,-72.28,1
+63,Davidson,Wildcats,75,DAV,davidson,Davidson,NC,3,1,#E71A39,0,35.49,-80.83,1
+64,Dayton,Flyers,80,DAYT,dayton,Dayton,OH,3,1,#E50B0D,0,39.76,-84.2,1
+65,Delaware,Blue Hens,37,DEL,delaware,Newark,DE,12,1,#0068A9,71,39.68,-75.76,1
+66,Delaware State,Hornets,6,DE ST,delawarestate,Dover,DE,18,1,#FF3630,0,39.16,-75.53,1
+67,Denver,Pioneers,28,DENV,denver,Denver,CO,29,1,#9C143D,0,39.73,-104.97,1
+68,DePaul,Blue Demons,64,DEP,depaul,Chicago,IL,7,1,#2D649C,0,41.84,-87.68,1
+69,Detroit Mercy,Titans,26,DET M,detroit,Detroit,MI,14,1,#165B9E,214,42.39,-83.1,1
+70,Drake,Bulldogs,52,DRAKE,drake,Des Moines,IA,19,1,#0D1361,0,41.59,-93.62,1
+71,Drexel,Dragons,30,DREX ,drexel,Philadelphia,PA,12,1,#020260,65,40,-75.14,1
+72,Duke,Blue Devils,95,DUKE ,duke,Durham,NC,4,1,#00519B,0,35.99,-78.91,1
+73,Duquesne,Dukes,55,DUQ  ,duquesne,Pittsburgh,PA,3,1,#283A61,0,40.44,-79.98,1
+74,East Carolina,Pirates,35,E CAR,eastcarolina,Greenville,NC,2,1,#4B1869,0,35.6,-77.37,1
+75,East Tennessee State,Buccaneers,69,ETNST,easttennesseestate,Johnson City,TN,26,1,#00378A,0,36.34,-82.37,1
+76,Eastern Illinois,Panthers,31,E ILL,easternillinois,Charleston,IL,22,1,#003399,260,39.49,-88.18,1
+77,Eastern Kentucky,Colonels,30,E KY,easternkentucky,Richmond,KY,22,1,#75263D,181,37.74,-84.29,1
+78,Eastern Michigan,Eagles,50,E MI,easternmichigan,Ypsilanti,MI,17,2,#385242,0,42.24,-83.62,1
+79,Eastern Washington,Eagles,49,E WA,easternwashington,Cheney,WA,8,1,#D72D35,116,47.49,-117.58,1
+80,Elon,Phoenix,33,ELON ,elon,Elon,NC,12,1,#020303,343,36.1,-79.51,1
+81,Evansville,Purple Aces,41,EVANS,evansville,Evansville,IN,19,1,#663399,0,37.98,-87.55,1
+82,Fairfield,Stags,28,FAIR ,fairfield,Fairfield,CT,16,1,#D82D39,0,41.18,-73.28,1
+83,Fairleigh Dickinson,Knights,27,FLDKN,fairleighdickinson,Teaneck,NJ,21,1,#AB2941,0,40.89,-74.01,1
+84,Florida International,Golden Panthers,43,FL IN,floridainternational,Miami,FL,13,1,#002D62,87,25.79,-80.22,1
+85,Florida,Gators,89,FLA,florida,Gainesville,FL,25,1,#2A42CE,0,29.67,-82.34,1
+86,Florida A&M,Rattlers,14,FL AM,floridaam,Tallahassee,FL,18,1,#FF7329,0,30.45,-84.27,1
+87,FAU,Owls,40,FL AT,floridaatlantic,Boca Raton,FL,2,1,#00386B,84,26.37,-80.1,1
+88,Florida Gulf Coast,Eagles,39,FL GC,floridagulfcoast,Fort Myers,FL,5,1,#1D5083,280,26.64,-81.87,1
+89,Florida State,Seminoles,89,FL ST,floridastate,Tallahassee,FL,4,1,#B72931,0,30.45,-84.27,1
+90,Fordham,Rams,34,FORD ,fordham,New York,NY,3,1,#A50019,0,40.7,-73.92,1
+91,Purdue Fort Wayne,Mastodons,42,PR FW,purduefortwayne,Fort Wayne,IN,14,1,#00378A,0,41.08,-85.13,1
+92,Fresno State,Bulldogs,65,FRES ,fresnostate,Fresno,CA,20,1,#D81C3F,0,36.78,-119.79,1
+93,Furman,Paladins,70,FURM,furman,Greenville,SC,26,1,#4A2184,0,34.84,-82.39,1
+94,Gardner-Webb,Bulldogs,40,GWEBB,gardnerwebb,Boiling Springs,NC,9,1,#CF0000,0,35.25,-81.66,1
+95,George Mason,Patriots,47,G MSN,georgemason,Fairfax,VA,3,1,#016600,0,38.85,-77.3,1
+96,George Washington,Colonials,42,G WSH,georgewashington,Washington,DC,3,1,#002843,0,38.91,-77.01,1
+97,Georgetown,Hoyas,74,GTOWN,georgetown,Washington,DC,7,1,#4B4B7C,0,38.91,-77.01,1
+98,Georgia,Bulldogs,73,GEO,georgia,Athens,GA,25,1,#D60022,0,33.96,-83.38,1
+99,Georgia Southern,Eagles,56,GA SO,georgiasouthern,Statesboro,GA,30,1,#0A3861,100,32.45,-81.78,1
+100,Georgia State,Panthers,62,GA ST,georgiastate,Atlanta,GA,30,1,#015DAB,99,33.76,-84.4,1
+101,Georgia Tech,Yellow Jackets,72,GTOWN,georgiatech,Atlanta,GA,4,1,#CFB53B,0,33.76,-84.4,1
+102,Gonzaga,Bulldogs,95,GONZ,gonzaga,Spokane,WA,31,1,#002967,0,47.67,-117.41,1
+103,Grambling,Tigers,19,GRAMB,grambling,Grambling,LA,28,1,#EE8601,128,32.53,-92.71,1
+104,Grand Canyon,Antelopes,51,G CYN,grandcanyon,Phoenix,AZ,32,1,#492F92,36,33.48,-112.14,1
+105,Green Bay,Phoenix,40,G BAY,greenbay,Green Bay,WI,14,1,#006633,171,44.51,-88.02,1
+106,Hampton,Pirates,29,HAMP ,hampton,Hampton,VA,12,1,#2E3192,0,37.03,-76.36,1
+107,Hartford,Hawks,31,HART,hartford,West Hartford,CT,33,1,#D60008,0,41.76,-72.74,1
+108,Harvard,Crimson,63,HARV ,harvard,Boston,MA,15,1,#990000,62,42.32,-71.09,1
+109,Hawai'i,Warriors,43,HAW  ,hawaii,Honolulu,HI,11,1,#004231,0,21.31,-157.83,1
+110,High Point,Panthers,25,H PT,highpoint,High Point,NC,9,1,#263996,0,35.97,-80,1
+111,Hofstra,Pride,60,HOFS,hofstra,Hempstead,NY,12,1,#27297C,205,40.7,-73.62,1
+112,Holy Cross,Crusaders,23,HC,holycross,Worcester,MA,24,1,#0A0A0A,0,42.27,-71.8,1
+113,Houston,Cougars,90,HOU,houston,Houston,TX,6,1,#E73139,0,29.76,-95.38,1
+114,Houston Christian,Huskies,20,HOU C,houstonbaptist,Houston,TX,27,1,#CE4122,0,29.76,-95.36,1
+115,Howard,Bison,11,HOWRD,howard,Washington,DC,18,1,#9E0B0E,0,38.91,-77.01,1
+116,Idaho,Vandals,26,IDAHO,idaho,Moscow,ID,8,1,#CEBE70,79,46.73,-117,1
+117,Idaho State,Bengals,24,ID ST,idahostate,Pocatello,ID,8,1,#EF8C00,336,42.88,-112.45,1
+118,Illinois,Fighting Illini,78,ILL,illinois,Champaign,IL,10,1,#F77329,0,40.11,-88.26,1
+119,UIC,Flames,42,IL CH,illinoischicago,Chicago,IL,19,1,#234077,127,41.84,-87.68,1
+120,Illinois State,Redbirds,51,IL ST,illinoisstate,Normal,IL,19,1,#D72D35,0,40.51,-88.99,1
+121,Incarnate Word,Cardinals,12,IN WD,incarnateword,San Antonio,TX,27,1,#C7020C,0,29.47,-98.47,1
+122,Indiana,Hoosiers,82,IND  ,indiana,Bloomington,IN,10,1,#DE3129,0,39.16,-86.53,1
+123,Indiana State,Sycamores,53,IN ST,indianastate,Terre Haute,IN,19,1,#00669A,0,39.47,-87.39,1
+124,Iona,Gaels,45,IONA ,iona,New Rochelle,NY,16,1,#8C001A,0,40.93,-73.78,1
+125,Iowa,Hawkeyes,82,IOWA ,iowa,Iowa City,IA,10,1,#232323,0,41.66,-91.52,1
+126,Iowa State,Cyclones,81,IA ST,iowastate,Ames,IA,6,1,#BA0A2B,0,42.03,-93.63,1
+127,IUPUI,Jaguars,28,IUPUI,indianapurdue,Indianapolis,IN,14,1,#CA3A44,119,39.79,-86.15,1
+128,Jackson State,Tigers,20,JCKST,jacksonstate,Jackson,MS,28,1,#123297,103,32.32,-90.2,1
+129,Jacksonville,Dolphins,25,JAX  ,jacksonville,Jacksonville,FL,5,1,#008568,203,30.32,-81.66,1
+130,Jacksonville State,Gamecocks,44,JX ST,jacksonvillestate,Jacksonville,AL,13,1,#C61018,288,33.82,-85.76,1
+131,James Madison,Dukes,32,J MSN,jamesmadison,Harrisonburg,VA,30,1,#450084,297,38.44,-78.87,1
+132,Kansas,Jayhawks,94,KANS,kansas,Lawrence,KS,6,1,#0337B4,0,38.96,-95.25,1
+133,Kansas State,Wildcats,82,KS ST,kansasstate,Manhattan,KS,6,1,#633194,0,39.19,-96.59,1
+134,Kennesaw State,Owls,13,KNSW,kennstate,Kennesaw,GA,13,1,#FEBC11,353,34.02,-84.3,1
+135,Kent State,Golden Flashes,54,KENT ,kentstate,Kent,OH,17,1,#212142,0,41.15,-81.36,1
+136,Kentucky,Wildcats,92,KEN,kentucky,Lexington,KY,25,1,#015DAB,0,38.03,-84.49,1
+137,La Salle,Explorers,48,LASL,lasalle,Philadelphia,PA,3,1,#000063,0,40,-75.14,1
+138,Lafayette,Leopards,25,LAFY,lafayette,Easton,PA,24,1,#8C2633,0,40.69,-75.22,1
+139,Lamar,Cardinals,37,LAMAR,lamar,Beaumont,TX,27,1,#EB0E19,0,30.08,-94.13,1
+140,Lehigh,Mountain Hawks,39,LEH,lehigh,Bethlehem,PA,24,1,#884818,0,40.63,-75.38,1
+141,Liberty,Flames,60,LIB,liberty,Lynchburg,VA,13,1,#000073,195,37.4,-79.17,1
+142,Lipscomb,Bison,51,LIPSC,lipscomb,Nashville,TN,5,1,#331165,354,36.15,-86.76,1
+143,Little Rock,Trojans,42,L RCK,arkansaslittlerock,Little Rock,AR,22,1,#993333,15,34.74,-92.33,1
+144,Long Island University,Sharks,28,LIU,longisland,Brookville,NY,21,1,#02183E,0,40.82,-73.57,1
+145,Long Beach State,49ers,36,LB ST,longbeachstate,Long Beach,CA,11,1,#232323,0,33.8,-118.16,1
+146,Longwood,Lancers,17,LONG ,longwood,Farmville,VA,9,1,#001F6B,0,37.3,-78.39,1
+147,Louisiana,Ragin' Cajuns,51,LOU,louisianalafayette,Lafayette,LA,30,1,#CE2842,148,30.21,-92.03,1
+148,UL Monroe,Warhawks,41,UL MN,louisianamonroe,Monroe,LA,30,1,#800000,147,32.51,-92.09,1
+149,Louisiana Tech,Bulldogs,63,LA TC,louisianatech,Ruston,LA,13,1,#3129E7,272,32.53,-92.64,1
+150,Louisville,Cardinals,90,LVIL,louisville,Louisville,KY,4,1,#DE0018,0,38.23,-85.75,1
+151,Loyola Chicago,Ramblers,70,LY CH,loyolachicago,Chicago,IL,3,1,#9D1244,0,41.84,-87.68,1
+152,Loyola Marymount,Lions,48,LYMMT,loyolamarymount,Los Angeles,CA,31,1,#880029,0,34.09,-118.38,1
+153,Loyola (MD),Greyhounds,25,LY MD,loyolamaryland,Baltimore,MD,24,1,#3F8379,0,39.31,-76.62,1
+154,LSU,Tigers,79,LSU  ,louisianastate,Baton Rouge,LA,25,1,#4E1E8A,0,30.46,-91.14,1
+155,Maine,Black Bears,14,MAINE,maine,Orono,ME,1,1,#0099CC,0,44.89,-68.67,1
+156,Manhattan,Jaspers,23,MANH ,manhattan,Riverdale,NY,16,1,#4F8537,0,40.9,-73.9,1
+157,Marist,Red Foxes,22,MARST,marist,Poughkeepsie,NY,16,1,#E53730,0,41.7,-73.92,1
+158,Marquette,Golden Eagles,85,MARQ ,marquette,Milwaukee,WI,7,1,#083963,0,43.05,-87.96,1
+159,Marshall,Thundering Herd,56,MARSH,marshall,Huntington,WV,30,1,#186329,340,38.41,-82.43,1
+160,Maryland,Terrapins,87,MARY,maryland,College Park,MD,10,1,#D60039,0,39,-76.93,1
+161,Maryland-Eastern Shore,Hawks,6,MD ES,marylandeastshore,Princess Anne,MD,18,1,#822433,0,38.2,-75.7,1
+162,UMass,Minutemen,45,UMASS,massachusetts,Amherst,MA,3,1,#AC0D1E,0,42.38,-72.52,1
+163,McNeese,Cowboys,20,MCNS,mcneesestate,Lake Charles,LA,27,1,#004E7F,0,30.21,-93.21,1
+164,Memphis,Tigers,72,MEMP,memphis,Memphis,TN,2,1,#29299C,0,35.12,-89.97,1
+165,Mercer,Bears,47,MERC,mercer,Macon,GA,26,1,#FF7F29,0,32.83,-83.65,1
+166,Miami,Hurricanes,78,MIAMI,miami,Coral Gables,FL,4,1,#004325,0,25.73,-80.27,1
+167,Miami (OH),RedHawks,41,MI OH,miamiohio,Oxford,OH,17,1,#CE2229,0,39.51,-84.75,1
+168,Michigan,Wolverines,93,MICH ,michigan,Ann Arbor,MI,10,1,#292942,0,42.27,-83.74,1
+169,Michigan State,Spartans,93,MI ST,michiganstate,East Lansing,MI,10,1,#265142,0,42.74,-84.48,1
+170,Middle Tennessee,Blue Raiders,48,MD TN,middletennesseestate,Murfreesboro,TN,13,1,#0066A4,301,35.86,-86.39,1
+171,Milwaukee,Panthers,32,MILW,milwaukee,Milwaukee,WI,14,1,#FDBB30,105,43.05,-87.96,1
+172,Minnesota,Golden Gophers,79,MINN ,minnesota,Minneapolis,MN,10,1,#752132,0,44.96,-93.27,1
+173,Ole Miss,Rebels,73,MISS ,mississippi,Oxford,MS,25,1,#101894,0,34.36,-89.53,1
+174,Mississippi State,Bulldogs,81,MS ST,mississippistate,Starkville,MS,25,1,#531122,0,33.46,-88.82,1
+175,Mississippi Valley State,Delta Devils,6,MV ST,mississippivalleystate,Itta Bena,MS,28,1,#054105,14,33.5,-90.32,1
+176,Missouri,Tigers,72,MIZZ,missouri,Columbia,MO,25,1,#232323,0,38.95,-92.33,1
+177,Missouri State,Bears,57,MO ST,missouristate,Springfield,MO,19,1,#50011A,0,37.2,-93.29,1
+178,Monmouth,Hawks,43,MONM ,monmouth,West Long Branch,NJ,12,1,#0D217B,0,40.29,-74.02,1
+179,Montana,Grizzlies,58,MONT ,montana,Missoula,MT,8,1,#63104A,180,46.86,-114.01,1
+180,Montana State,Bobcats,32,MT ST,montanastate,Bozeman,MT,8,1,#013D7D,179,45.68,-111.05,1
+181,Morehead State,Eagles,28,MORE ,moreheadstate,Morehead,KY,22,1,#29109C,77,38.18,-83.44,1
+182,Morgan State,Bears,14,MORG ,morganstate,Baltimore,MD,18,1,#00337F,0,39.31,-76.62,1
+183,Mount St. Mary's,Mountaineers,26,MTSTM,mtsaintmarys,Emmitsburg,MD,16,1,#003F87,0,39.7,-77.33,1
+184,Murray State,Racers,65,MURR,murraystate,Murray,KY,19,1,#182356,18,36.61,-88.32,1
+185,Navy,Midshipmen,32,NAVY ,navy,Annapolis,MD,24,1,#0F1021,0,38.97,-76.5,1
+186,Nebraska,Cornhuskers,70,NEBR,nebraska,Lincoln,NE,10,1,#FE0D04,0,40.81,-96.68,1
+187,Omaha,Mavericks,39,OMAHA,omaha,Omaha,NE,29,1,#EA0C2B,0,41.2,-96.19,1
+188,Nevada,Wolf Pack,79,NEV,nevada,Reno,NV,20,1,#084A73,0,39.53,-119.82,1
+189,New Hampshire,Wildcats,25,N HAM,newhampshire,Durham,NH,1,1,#004371,0,43.14,-70.93,1
+190,New Mexico,Lobos,56,N MEX,newmexico,Albuquerque,NM,20,1,#C41E3A,0,35.11,-106.61,1
+191,New Mexico State,Aggies,75,NM ST,newmexicostate,Las Cruces,NM,13,1,#730000,318,32.32,-106.77,1
+192,New Orleans,Privateers,24,N ORL,neworleans,New Orleans,LA,27,1,#2B3986,0,29.97,-90.06,1
+193,Niagara,Purple Eagles,23,NIAG ,niagara,Lewiston,NY,16,1,#4F2170,0,43.17,-79.04,1
+194,Nicholls,Colonels,34,NICH ,nichollsstate,Thibodaux,LA,27,1,#AF1E2D,0,29.79,-90.82,1
+195,NJIT,Highlanders,31,NJIT ,njit,Newark,NJ,1,1,#900108,141,40.74,-74.17,1
+196,Norfolk State,Spartans,25,NORF ,norfolkstate,Norfolk,VA,18,1,#08614F,0,36.89,-76.26,1
+197,North Carolina,Tar Heels,88,N CAR,northcarolina,Chapel Hill,NC,4,1,#5FB1E0,0,35.93,-79.04,1
+198,North Carolina A&T,Aggies,19,NC AT,northcarolinaat,Greensboro,NC,12,1,#002659,0,36.08,-79.82,1
+199,North Carolina Central,Eagles,25,NCCU,northcarolinacentral,Durham,NC,18,1,#660000,0,35.99,-78.9,1
+200,NC State,Wolfpack,80,NC ST,northcarolinastate,Raleigh,NC,4,1,#D4212C,0,35.82,-78.64,1
+201,North Dakota,Fighting Hawks,35,N DAK,northdakota,Grand Forks,ND,29,1,#017338,0,47.93,-97.03,1
+202,North Dakota State,Bison,51,ND ST,northdakotastate,Fargo,ND,29,1,#006633,0,46.88,-96.79,1
+203,North Florida,Ospreys,43,N FLA,northflorida,Jacksonville,FL,5,1,#000098,129,30.33,-81.66,1
+204,North Texas,Mean Green,54,N TEX,northtexas,Denton,TX,2,1,#006342,238,33.22,-97.13,1
+205,Northeastern,Huskies,63,NEAST,northeastern,Boston,MA,12,1,#D72D35,111,42.32,-71.09,1
+206,Northern Arizona,Lumberjacks,22,N ARZ,northernarizona,Flagstaff,AZ,8,1,#001894,273,35.2,-111.63,1
+207,Northern Colorado,Bears,55,N COL,northerncolorado,Greeley,CO,8,1,#000066,201,40.42,-104.71,1
+208,Northern Illinois,Huskies,44,N ILL,northernillinois,DeKalb,IL,17,2,#E73139,0,41.93,-88.75,1
+209,Northern Iowa,Panthers,65,N IA,northerniowa,Cedar Falls,IA,19,1,#4A015B,0,42.52,-92.45,1
+210,Northern Kentucky,Norse,58,N KY,northernkentucky,Highland Heights,KY,14,1,#FFD700,347,39.04,-84.45,1
+211,Northwestern,Wildcats,73,NW,northwestern,Evanston,IL,10,1,#372286,0,42.05,-87.69,1
+212,Northwestern State,Demons,17,NW ST,northwesternstate,Natchitoches,LA,27,1,#4A2F8E,0,31.75,-93.1,1
+213,Notre Dame,Fighting Irish,80,ND,notredame,South Bend,IN,4,1,#002157,0,41.67,-86.26,1
+214,Oakland,Golden Grizzlies,48,OAKL,oakland,Rochester,MI,14,1,#04091C,69,42.68,-83.13,1
+215,Ohio,Bobcats,52,OHIO ,ohio,Athens,OH,17,1,#006342,0,39.33,-82.1,1
+216,Ohio State,Buckeyes,87,OH ST,ohiostate,Columbus,OH,10,1,#DE3129,0,39.99,-82.99,1
+217,Oklahoma,Sooners,85,OKLA ,oklahoma,Norman,OK,25,1,#7B0000,0,35.22,-97.42,1
+218,Oklahoma State,Cowboys,80,OK ST,oklahomastate,Stillwater,OK,6,1,#FF7300,0,36.16,-97.09,1
+219,Old Dominion,Monarchs,63,OLD D,olddominion,Norfolk,VA,30,1,#00507D,46,36.89,-76.26,1
+220,Oral Roberts,Golden Eagles,39,ORAL,oralroberts,Tulsa,OK,29,1,#002955,0,36.13,-95.94,1
+221,Oregon,Ducks,87,ORE,oregon,Eugene,OR,23,1,#044520,222,44.06,-123.11,1
+222,Oregon State,Beavers,65,OR ST,oregonstate,Corvallis,OR,23,1,#D85A1A,221,44.57,-123.28,1
+223,Pacific,Tigers,48,PAC,pacific,Stockton,CA,31,1,#FF5109,0,37.98,-121.3,1
+224,Pennsylvania,Quakers,60,PENN ,pennsylvania,Philadelphia,PA,15,1,#96203D,232,40,-75.14,1
+225,Penn State,Nittany Lions,84,PA ST,pennstate,State College,PA,10,1,#002654,0,40.79,-77.86,1
+226,Pepperdine,Waves,48,PEPP ,pepperdine,Malibu,CA,31,1,#2B6396,0,34.03,-118.78,1
+227,Pittsburgh,Panthers,61,PITT ,pittsburgh,Pittsburgh,PA,4,1,#313169,0,40.44,-79.98,1
+228,Portland,Pilots,25,PORT ,portland,Portland,OR,31,1,#25205E,0,45.52,-122.64,1
+229,Portland State,Vikings,40,PRTST,portlandstate,Portland,OR,8,1,#005E60,243,45.52,-122.64,1
+230,Prairie View A&M,Panthers,29,PV AM,prairieviewam,Prairie View,TX,28,1,#4D0960,292,30.08,-95.99,1
+231,Presbyterian,Blue Hose,20,PRES ,presbyterian,Clinton,SC,9,1,#013082,0,34.47,-81.88,1
+232,Princeton,Tigers,57,PRIN ,princeton,Princeton,NJ,15,1,#F96302,224,40.35,-74.66,1
+233,Providence,Friars,82,PROV ,providence,Providence,RI,7,1,#6C6468,0,41.82,-71.42,1
+234,Purdue,Boilermakers,93,PURD,purdue,West Lafayette,IN,10,1,#211818,0,40.44,-86.91,1
+235,Quinnipiac,Bobcats,26,QUIN ,quinnipiac,Hamden,CT,16,1,#051D45,0,41.31,-72.91,1
+236,Radford,Highlanders,44,RADF,radford,Radford,VA,9,1,#BD1818,0,37.13,-80.57,1
+237,Rhode Island,Rams,74,R ISL,rhodeisland,Kingston,RI,3,1,#003559,0,41.48,-71.53,1
+238,Rice,Owls,36,RICE ,rice,Houston,TX,2,1,#00315A,204,29.76,-95.38,1
+239,Richmond,Spiders,65,RICH ,richmond,Richmond,VA,3,1,#004371,0,37.54,-77.46,1
+240,Rider,Broncs,42,RIDER,rider,Lawrenceville,NJ,16,1,#C82223,0,40.3,-74.74,1
+241,Robert Morris,Colonials,31,ROB M,robertmorris,Pittsburgh,PA,21,1,#3D4262,0,40.44,-79.98,1
+242,Rutgers,Scarlet Knights,70,RUTG,rutgers,New Brunswick,NJ,10,1,#FF3B2F,0,40.49,-74.45,1
+243,Sacramento State,Hornets,30,SACST,sacramentostate,Sacramento,CA,8,1,#145F52,229,38.56,-121.47,1
+244,Sacred Heart,Pioneers,29,HEART,sacredheart,Fairfield,CT,21,1,#BB003A,0,41.18,-73.28,1
+245,Saint Joseph's,Hawks,48,JOES ,stjosephs,Philadelphia,PA,3,1,#BB003A,0,40,-75.14,1
+246,Saint Louis,Billikens,62,LOUIS,saintlouis,St. Louis,MO,3,1,#00428C,0,38.63,-90.24,1
+247,Saint Mary's,Gaels,86,MARYS,saintmarys,Moraga,CA,31,1,#D80024,0,37.84,-122.12,1
+248,Saint Peter's,Peacocks,38,PETER,stpeters,New Brunswick,NJ,16,1,#2361AA,0,40.49,-74.45,1
+249,Sam Houston State,Bearkats,40,SH ST,samhouston,Huntsville,TX,13,1,#011F9D,0,30.71,-95.55,1
+250,Samford,Bulldogs,34,SAM,samford,Birmingham,AL,26,1,#00295C,0,33.52,-86.81,1
+251,San Diego,Toreros,48,SAN D,sandiego,San Diego,CA,31,1,#002868,0,32.78,-117.15,1
+252,San Diego State,Aztecs,81,SDGST,sandiegostate,San Diego,CA,20,1,#A81933,0,32.78,-117.15,1
+253,San Francisco,Dons,68,SAN F,sanfrancisco,San Francisco,CA,31,1,#006633,0,37.76,-122.44,1
+254,San Jose State,Spartans,22,SJ ST,sanjosestate,San Jose,CA,20,1,#005A94,0,37.3,-121.87,1
+255,Santa Clara,Broncos,47,CLARA,santaclara,Santa Clara,CA,31,1,#690B0B,0,37.35,-121.97,1
+256,Merrimack,Warriors,12,MERR,merrimack,North Andover,MA,21,1,#003768,0,42.67,-71.14,1
+257,Seattle,Redhawks,41,SEA  ,seattle,Seattle,WA,32,1,#A42822,321,47.61,-122.33,1
+258,Seton Hall,Pirates,85,SETON,setonhall,South Orange,NJ,7,1,#3142AD,0,40.75,-74.26,1
+259,Siena,Saints,42,SIENA,siena,Albany,NY,16,1,#006953,0,42.66,-73.78,1
+260,SIU-Edwardsville,Cougars,16,SIU-E,siuedwardsville,Edwardsville,IL,22,1,#FF0000,76,38.81,-89.95,1
+261,SMU,Mustangs,76,SMU  ,southernmethodist,Dallas,TX,2,1,#E73139,0,32.8,-96.79,1
+262,South Alabama,Jaguars,41,S ALA,southalabama,Mobile,AL,30,1,#004A7B,298,30.68,-88.1,1
+263,South Carolina,Gamecocks,80,S CAR,southcarolina,Columbia,SC,25,1,#98012D,0,34.02,-81.01,1
+264,South Carolina State,Bulldogs,11,SC ST,southcarolinastate,Orangeburg,SC,18,1,#8C2633,0,33.5,-80.86,1
+265,South Dakota,Coyotes,50,S DAK,southdakota,Vermillion,SD,29,1,#870006,0,42.78,-96.93,1
+266,South Dakota State,Jackrabbits,65,SDKST,southdakotastate,Brookings,SD,29,1,#002662,0,44.31,-96.8,1
+267,South Florida,Bulls,51,S FLA,southflorida,Tampa,FL,2,1,#004231,0,27.97,-82.46,1
+268,Southeast Missouri State,Redhawks,20,SE MO,southeastmissouristate,Cape Girardeau,MO,22,1,#CE1126,286,37.31,-89.55,1
+269,Southeastern Louisiana,Lions,28,SE LA,southeasternlouisiana,Hammond,LA,27,1,#205228,0,30.5,-90.47,1
+270,Southern,Jaguars,21,SOUTH,southern,Baton Rouge,LA,28,1,#291B4C,8,30.46,-91.14,1
+271,Southern Illinois,Salukis,52,S ILL,southernillinois,Carbondale,IL,19,1,#85283D,0,37.78,-89.25,1
+272,Southern Miss,Golden Eagles,38,S MS,southernmississippi,Hattiesburg,MS,30,1,#FFBD24,149,31.32,-89.31,1
+273,Southern Utah,Thunderbirds,31,S UT,southernutah,Cedar City,UT,32,1,#D10000,206,37.68,-113.07,1
+274,St. Bonaventure,Bonnies,67,STBON,stbonaventure,St. Bonaventure,NY,3,1,#712A1B,0,42.08,-78.47,1
+275,St. Francis (NY),Terriers,19,SF NY,stfrancisny,Brooklyn Heights,NY,21,1,#032845,0,40.69,-73.99,1
+276,St. Francis (PA),Red Flash,36,SF PA,stfrancispa,Loretto,PA,21,1,#A20012,0,40.51,-78.64,1
+277,St. John's,Red Storm,72,JOHNS,stjohns,New York,NY,7,1,#E24552,0,40.7,-73.92,1
+278,Stanford,Cardinal,72,STAN ,stanford,Stanford,CA,23,1,#B72931,39,37.42,-122.17,1
+279,Stephen F. Austin,Lumberjacks,50,SFA  ,stephenfaustin,Nacogdoches,TX,27,1,#230D3C,0,31.61,-94.65,1
+280,Stetson,Hatters,20,STET ,stetson,De Land,FL,5,1,#18581C,88,29.03,-81.3,1
+281,Stony Brook,Seawolves,41,S BRK,stonybrook,Stony Brook,NY,12,1,#003559,0,40.91,-73.13,1
+282,Syracuse,Orange,85,SYR  ,syracuse,Syracuse,NY,4,1,#FF6318,0,43.05,-76.14,1
+283,TCU,Horned Frogs,80,TCU  ,tcu,Fort Worth,TX,6,1,#4D1979,0,32.74,-97.33,1
+284,Temple,Owls,69,TEMP,temple,Philadelphia,PA,2,1,#BC0138,0,40,-75.14,1
+285,Tennessee,Volunteers,86,TENN,tennessee,Knoxville,TN,25,1,#EE9627,0,35.97,-83.94,1
+286,UT Martin,Skyhawks,23,UTMAR,tennesseemartin,Martin,TN,22,1,#000099,268,36.34,-88.85,1
+287,Tennessee State,Tigers,34,TN ST,tennesseestate,Nashville,TN,22,1,#21398C,21,36.15,-86.76,1
+288,Tennessee Tech,Golden Eagles,21,TN TC,tennesseetech,Cookeville,TN,22,1,#440E62,130,36.16,-85.5,1
+289,Texas,Longhorns,83,TEXAS,texas,Austin,TX,25,1,#EF7321,0,30.3,-97.75,1
+290,Texas A&M,Aggies,73,TX AM,texasam,College Station,TX,25,1,#500000,0,30.6,-96.31,1
+291,Texas A&M-Corpus Christi,Islanders,26,TAMCC,texasamcorpuschristi,Corpus Christi,TX,27,1,#00639C,0,27.74,-97.4,1
+292,Texas Southern,Tigers,30,TX SO,texassouthern,Houston,TX,28,1,#680100,230,29.76,-95.38,1
+293,Texas State,Bobcats,57,TX ST,texasstate,San Marcos,TX,30,1,#570318,317,29.88,-97.94,1
+294,Texas Tech,Red Raiders,90,TX TC,texastech,Lubbock,TX,6,1,#D60039,0,33.56,-101.88,1
+295,The Citadel,Bulldogs,21,CIT  ,thecitadel,Charleston,SC,26,1,#0000FF,0,32.79,-79.99,1
+296,Toledo,Rockets,62,TOL,toledo,Toledo,OH,17,2,#00275D,0,41.67,-83.58,1
+297,Towson,Tigers,46,TOWS,towson,Towson,MD,12,1,#F3AE22,131,39.39,-76.61,1
+298,Troy,Trojans,34,TROY ,troy,Troy,AL,30,1,#A80532,262,31.8,-85.97,1
+299,Tulane,Green Wave,41,TUL,tulane,New Orleans,LA,2,1,#084A38,0,29.97,-90.06,1
+300,Tulsa,Golden Hurricane,68,TULSA,tulsa,Tulsa,OK,2,1,#004273,0,36.13,-95.94,1
+301,UAB,Blazers,53,UAB  ,uab,Birmingham,AL,2,1,#006117,170,33.52,-86.81,1
+302,UC Davis,Aggies,38,UCD,ucdavis,Davis,CA,11,1,#1B265C,0,38.55,-121.74,1
+303,UC Irvine,Anteaters,66,UCI,ucirvine,Irvine,CA,11,1,#00108C,0,33.68,-117.79,1
+304,UC Riverside,Highlanders,27,UCR,ucriverside,Riverside,CA,11,1,#13214E,0,33.95,-117.4,1
+305,UC Santa Barbara,Gauchos,46,UCSB,ucsantabarbara,Santa Barbara,CA,11,1,#0439A7,0,34.43,-119.71,1
+306,UCF,Knights,72,UCF  ,centralflorida,Orlando,FL,6,1,#222222,0,28.53,-81.38,1
+307,UCLA,Bruins,77,UCLA ,ucla,Los Angeles,CA,10,1,#005A94,315,34.09,-118.38,1
+308,UMass Lowell,River Hawks,24,UMLOW,umasslowell,Lowell,MA,1,1,#2051A0,0,42.64,-71.31,1
+309,UMBC,Retrievers,34,UMBC ,umbc,Baltimore,MD,1,1,#232323,0,39.31,-76.62,1
+310,Kansas City,Roos,33,KC,umkc,Kansas City,MO,29,1,#004A8B,0,39.08,-94.56,1
+311,UNC Asheville,Bulldogs,30,UNCA,uncasheville,Asheville,NC,9,1,#092575,0,35.58,-82.56,1
+312,UNC Greensboro,Spartans,66,UNCG,uncgreensboro,Greensboro,NC,26,1,#21467B,0,36.08,-79.82,1
+313,UNC Wilmington,Seahawks,36,UNCW,uncwilmington,Wilmington,NC,12,1,#1D2F68,54,34.22,-77.91,1
+314,UNLV,Rebels,58,UNLV ,unlv,Las Vegas,NV,20,1,#E73139,0,36.19,-115.22,1
+315,USC,Trojans,79,USC  ,southerncalifornia,Los Angeles,CA,10,1,#A50010,307,34.09,-118.38,1
+316,South Carolina Upstate,Spartans,16,SC UP,southcarolinaupstate,Spartanburg,SC,9,1,#2B5F49,0,34.95,-81.93,1
+317,UT Arlington,Mavericks,60,UTARL,texasarlington,Arlington,TX,32,1,#004B7C,293,32.71,-97.12,1
+318,UT Rio Grande Valley,Vaqueros,29,UTRGV,utriograndevalley,Edinburg,TX,32,1,#DC6000,191,26.3,-98.16,1
+319,Utah,Utes,73,UTAH ,utah,Salt Lake City,UT,23,1,#CE4242,55,40.75,-111.89,1
+320,Utah State,Aggies,73,UT ST,utahstate,Logan,UT,20,1,#003366,0,41.74,-111.83,1
+321,Utah Valley,Wolverines,48,UT VL,utahvalley,Orem,UT,32,1,#004812,257,40.3,-111.69,1
+322,UTEP,Miners,35,UTEP ,utep,El Paso,TX,13,1,#FF7339,323,31.79,-106.42,1
+323,UTSA,Roadrunners,44,UTSA ,texassanantonio,San Antonio,TX,2,1,#113B7D,322,29.45,-98.51,1
+324,Valparaiso,Crusaders,51,VALPO,valparaiso,Valparaiso,IN,19,1,#964B00,0,41.48,-87.06,1
+325,Vanderbilt,Commodores,63,VANDY,vanderbilt,Nashville,TN,25,1,#997F3D,0,36.15,-86.76,1
+326,VCU,Rams,78,VCU  ,virginiacommonwealth,Richmond,VA,3,1,#EDBC31,0,37.54,-77.46,1
+327,Vermont,Catamounts,71,VRMNT,vermont,Burlington,VT,1,1,#214231,0,44.48,-73.22,1
+328,Villanova,Wildcats,91,NOVA ,villanova,Villanova,PA,7,1,#002868,0,40.04,-75.35,1
+329,Virginia,Cavaliers,93,VIR,virginia,Charlottesville,VA,4,1,#002C62,0,38.03,-78.49,1
+330,Virginia Tech,Hokies,80,VA TC,virginiatech,Blacksburg,VA,4,1,#7B2129,0,37.23,-80.42,1
+331,VMI,Keydets,22,VMI  ,vmi,Lexington,VA,26,1,#FF0000,0,37.78,-79.45,1
+332,Wagner,Seahawks,25,WAGN,wagner,New York,NY,21,1,#003E22,0,40.7,-73.92,1
+333,Wake Forest,Deamon Deacons,67,WAKE ,wakeforest,Winston-Salem,NC,4,1,#E3A444,0,36.1,-80.26,1
+334,Washington,Huskies,74,WASH ,washington,Seattle,WA,23,1,#3E3468,335,47.63,-122.33,1
+335,Washington State,Cougars,50,WA ST,washingtonstate,Pullman,WA,23,1,#A32638,334,46.73,-117.17,1
+336,Weber State,Wildcats,37,WEBER,weberstate,Ogden,UT,8,1,#18005A,117,41.23,-111.96,1
+337,West Virginia,Mountaineers,87,W VA,westvirginia,Morgantown,WV,6,1,#00386B,0,39.63,-79.95,1
+338,Western Carolina,Catamounts,32,W CAR,westerncarolina,Cullowhee,NC,26,1,#6E268B,0,35.31,-83.18,1
+339,Western Illinois,Leathernecks,21,W ILL,westernillinois,Macomb,IL,29,1,#4E1E8A,0,40.46,-90.67,1
+340,Western Kentucky,Hilltoppers,62,W KY,westernkentucky,Bowling Green,KY,13,1,#E51636,159,36.98,-86.44,1
+341,Western Michigan,Broncos,37,W MI,westernmichigan,Kalamazoo,MI,17,2,#514B52,0,42.28,-85.58,1
+342,Wichita State,Shockers,86,WICH ,wichitastate,Wichita,KS,2,1,#0D0A03,0,37.69,-97.34,1
+343,William & Mary,Tribe,48,WMARY,williammary,Williamsburg,VA,12,1,#073E2B,80,37.27,-76.71,1
+344,Winthrop,Eagles,49,WINTH,winthrop,Rock Hill,SC,9,1,#9E0B0E,0,34.94,-81.03,1
+345,Wisconsin,Badgers,87,WISC,wisconsin,Madison,WI,10,1,#D71034,0,43.07,-89.39,1
+346,Wofford,Terriers,62,WOFF,wofford,Spartanburg,SC,26,1,#CFB53B,0,34.95,-81.93,1
+347,Wright State,Raiders,60,WRGHT,wrightstate,Dayton,OH,14,1,#A36209,210,39.76,-84.2,1
+348,Wyoming,Cowboys,39,WYOM,wyoming,Laramie,WY,20,1,#523921,0,41.31,-105.59,1
+349,Xavier,Musketeers,85,XAV,xavier,Cincinnati,OH,7,1,#004B80,0,39.14,-84.5,1
+350,Yale,Bulldogs,65,YALE ,yale,New Haven,CT,15,1,#004A81,29,41.31,-72.92,1
+351,Youngstown State,Penguins,28,YO ST,youngstownstate,Youngstown,OH,14,1,#961F22,51,41.1,-80.65,1
+352,California Baptist,Lancers,25,CA BP,californiabaptist,Riverside,CA,32,1,#002554,0,33.93,-117.43,1
+353,North Alabama,Lions,14,N ALA,northalabama,Florence,AL,5,1,#46166B,134,34.81,-87.68,1
+354,Bellarmine,Knights,0,BELL,bellarmine,Louisville,KY,5,1,#782F40,142,38.22,-85.71,1
+355,Utah Tech,Trailblazers,0,UT TECH,dixiestate,St. George,UT,32,1,#BA1C21,0,37.1,-113.57,1
+356,Tarleton State,Texans,0,TARL,tarletonstate,Stephenville,TX,32,1,#4F2D7F,0,32.22,-98.22,1
+357,UC San Diego,Tritons,0,UCSD,ucsandiego,La Jolla,CA,11,1,#182B49,0,32.88,-117.24,1
+358,Stonehill,Skyhawks,0,STNE,stonehill,North Easton,MA,21,1,#2F2975,0,42.057,-71.08,1
+359,Queens,Royals,0,QUEEN,queens,Charlotte,NC,5,1,#243167,0,35.18,-80.83,1
+360,Lindenwood,Lions,0,LINDEN,lindenwood,St Charles,MO,22,1,#FFFFFF,0,38.78,-90.5,1
+361,Southern Indiana,Screaming Eagles,0,USI,usi,Evansville,IN,22,1,#FCB643,0,37.57,-87.4,1
+362,Texas A&M-Commerce,Lions,0,TAMC,commerce,Commerce,TX,27,1,#00386C,0,33.14,-95.54,1
+363,St. Thomas,Tommies,0,UST,stthomas,St. Paul,MN,29,1,#858ac3,0,44.56,-93.11,1

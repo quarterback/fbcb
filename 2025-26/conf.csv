@@ -1,0 +1,35 @@
+33,,,,,,,,,,,,,,,,,,,
+ID,Name,ShortName,Games,Prestige,Divisions,DivisionOne,DivisionTwo,TourneyTeams,TDay1,TDay2,TDay3,TDay4,TDay5,SeedDiv,D1,D2,D3,TourneyBirth,TourneyType
+1,America East Conference,America East,16,1,1,,,8,177,183,187,0,0,0,sat,wed,mon,1,2
+2,American Athletic Conference,AAC,20,5,1,,,11,185,186,187,191,0,0,sat,wed,tue,1,0
+3,Atlantic 10 Conference,A10,18,3,1,,,14,184,185,186,187,191,0,sat,wed,tue,1,1
+4,Atlantic Coast Conference,ACC,20,5,1,,,15,183,184,185,186,187,0,sat,wed,tue,1,1
+5,Atlantic Sun Conference,ASUN,18,2,1,,,8,173,175,181,0,0,0,sat,thu,mon,1,0
+6,Big 12 Conference,B12,18,5,1,,,10,184,185,186,187,0,0,sat,tue,mon,1,0
+7,Big East Conference,Big East,20,5,1,,,11,184,185,186,187,0,0,sat,wed,sun,1,0
+8,Big Sky Conference,Big Sky,20,1,1,,,11,184,185,186,187,0,0,sat,thu,mon,1,0
+9,Big South Conference,Big South,20,2,1,,,11,173,175,176,181,0,0,sat,thu,mon,1,0
+10,Big Ten Conference,B1G,20,5,1,,,14,184,185,186,187,191,0,sat,tue,thu,1,1
+11,Big West Conference,Big West,20,2,1,,,8,185,186,187,0,0,0,sat,thu,wed,1,2
+12,Colonial Athletic Association,CAA,18,2,1,,,10,177,181,182,183,0,0,sat,thu,tue,1,0
+13,Conference USA,C-USA,18,3,1,,,12,184,185,186,187,0,0,sat,thu,wed,1,0
+14,Horizon League,Horizon,20,3,1,,,10,173,175,182,183,0,0,sat,thu,sun,1,1
+15,Ivy League,Ivy,14,3,1,,,4,187,191,0,0,0,0,sat,fri,mon,1,0
+16,Metro Atlantic Athletic Conference,MAAC,20,1,1,,,11,183,184,186,187,0,0,sun,fri,tue,1,0
+17,Mid-American Conference,MAC,18,4,2,East,West,12,182,185,186,187,0,0,sat,tue,fri,1,0
+18,Mid-Eastern Athletic Conference,MEAC,16,1,1,,,11,183,184,186,187,0,0,sat,mon,thu,1,0
+19,Missouri Valley Conference,MVC,18,3,1,,,10,175,176,177,181,0,0,sat,wed,sun,1,0
+20,Mountain West Conference,MWC,18,3,1,,,11,184,185,186,187,0,0,sat,tue,wed,1,0
+21,Northeast Conference,NEC,18,1,1,,,8,174,177,183,0,0,0,sat,thu,sun,1,2
+22,Ohio Valley Conference,OVC,18,2,1,,,8,174,175,176,177,0,0,sat,thu,mon,1,1
+23,Pac-10 Conference,Pac-10,18,4,1,,,12,184,185,186,187,0,0,sat,thu,sun,1,0
+24,Patriot League,Patriot,18,2,1,,,10,173,175,181,184,0,0,sat,wed,mon,1,0
+25,Southeastern Conference,SEC,18,5,1,,,14,184,185,186,187,191,0,sat,wed,tue,1,1
+26,Southern Conference,SoCon,18,3,1,,,10,176,177,181,182,0,0,sat,wed,sun,1,0
+27,Southland Conference,Southland,20,1,1,,,8,184,185,186,187,0,0,sat,wed,sun,1,1
+28,Southwestern Athletic Conference,SWAC,18,1,1,,,8,183,186,187,0,0,0,sat,mon,thu,1,0
+29,Summit League,Summit,16,2,1,,,8,177,182,183,0,0,0,sat,thu,tue,1,0
+30,Sun Belt Conference,Sun Belt,20,3,1,,,10,177,182,184,187,191,0,sat,thu,mon,1,1
+31,West Coast Conference,WCC,16,4,1,,,10,175,176,177,182,183,0,sat,thu,mon,1,1
+32,Western Athletic Conference,WAC,16,3,1,,,8,185,186,187,0,0,0,sat,thu,wed,1,0
+33,Independents,Ind,0,1,1,,,0,0,0,0,0,0,0,sat,thu,wed,1,0
