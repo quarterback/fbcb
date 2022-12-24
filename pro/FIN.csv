@@ -1,0 +1,16 @@
+﻿LeagueName,Abbreviation,HostNation,Region,Team Locations,Prestige,Conf#,C1,C2,Div#,D1,D2,D3,D4,D5,D6,ScheduleGames,PlayoffTeams,Round1,Round2,Round3,Round4,3pShot,MaxFouls,ShotClock,Quarters,QuarterLength,OtLength,SalaryCap,LuxuryCap,MLE,LLE,ResignLength,FaLength,ResignRaise,FaRaise,WaiverLength,RookieDraft,DraftLottery,ExpansionDraft,ExpansionLottery,DispersalDraft
+Korisliiga,KOR,Finland,2,1,1,1,FIN,,1,FIN,,,,,,24,6,3,5,5,5,1,5,24,4,10,5,10000,0,0,0,3,3,100,75,2,0,0,0,0,0
+CityName,NickName,Abbreviation,Logo,Division,TeamColor,City,State,Marketsize,ArenaName,Capacity,ClubSeats,LuxurySuits,Opened,NewCity,NewState,NewMarketsize,NewArena,NewCapacity,NewSuites,NewClub,Opens,,,,,,,,,,,,,,,,,,,,
+Helsinki,Seagulls,HEL,seagulls,1,#528ECA,Helsinki,Finland,2,Suomen Areena,5000,0,0,1940,,,0,,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+Joensuu,Kataja,JOE,joensuu,1,#000000,Joensuu,Finland,2,Suomen Areena,5000,0,0,1940,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+Kobrat,,KOB,kolossos,1,#000000,Lapua,Finland,2,Suomen Areena,5000,0,0,1940,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+Korihait,,KOR,rethymno,1,#000000,Uusikaupunki,Finland,2,Suomen Areena,5000,0,0,1940,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+Kouvot,,KOU,panionios,1,#000000,Kouvola,Finland,2,Suomen Areena,5000,0,0,1940,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+Kavala,,KAV,kavala,1,#000000,Kavala,Finland,2,Suomen Areena,5000,0,0,1940,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+KTP Basket,,KTP,aris,1,#000000,Kotka,Finland,2,Suomen Areena,5000,0,0,1940,,,0,,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+Kauhajoen,Karhu,KAU,paok,1,#000000,Kauhajoki,Finland,2,Suomen Areena,5000,0,0,1940,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+Lahti,,LAH,kaod,1,#000000,Lahti,Finland,2,Suomen Areena,5000,0,0,1940,,,0,,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+BC Nokia,,NOK,ikaros,1,#000000,Nokia,Finland,2,Suomen Areena,5000,0,0,1940,,,0,,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+Salon Vilpas,,VIL,ilysiakos,1,#000000,Salo,Finland,2,Suomen Areena,5000,0,0,1940,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+Tampereen,Pyrintö,PER,peristeri,1,#000000,Tampere,Finland,2,Suomen Areena,5000,0,0,1940,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,
+Ura Basket,,URA,maroussi,1,#000000,Kaarina,Finland,2,Suomen Areena,5000,0,0,1940,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,
