@@ -1,0 +1,168 @@
+Agnone
+Alcamo
+Alessandria
+Alghero
+Amendola
+Ancona
+Aosta
+Ascoli Piceno
+Aversa
+Bari
+Barletta
+Bergamo
+Boiano
+Bologna
+Bolzano
+Brescia
+Breuil-cervina
+Brindisi
+Broni
+Bronzolo
+Brunico
+Cagliari
+Caltanissetta
+Campobasso
+Cantanzaro
+Capo Mele
+Capo Palinuro
+Carbonia
+Carmagnola
+Carpi
+Caserta
+Cassino
+Castelvetrano
+Castenaso
+Catania
+Chieti
+Chioggia
+Chivasso
+Ciampino
+Civitavecchia
+Collegno
+Como
+Coni
+Cortina d'Ampezzo
+Cremona
+Domodossola
+Donnaz
+Empoli
+Ferrara
+Florence
+Foggia
+Formia
+Frontone
+Frosinone
+Genoa
+Gorizia
+Grosseto
+Gualdo Tadino
+Imola
+La Spezia
+Laives
+Lanciano
+Landeck
+L'Aquila
+Laurino
+Lavello
+Lecce
+Liante
+Livorno
+Loano
+Lucca
+Marina Di Leuca
+Marsala
+Matelica
+Merano
+Messina
+Mestre
+Milan
+Milano
+Modena
+Mola di Bari
+Molfetta
+Moncalieri
+Monopoli
+Monte St Angelo
+Montecchio
+Montesilvano
+Monza
+Moscufo
+Muravera
+Naples
+Novara
+Nuoro
+Orvieto
+Oulx
+Padova
+Palermo
+Palidoro
+Parma
+Passo Della Cisa
+Perugia
+Pesaro
+Pescara
+Pescina
+Piacenza
+Pisa
+Pizzoferrato
+Poggibonsi
+Policoro
+Pompei
+Porassey
+Pordenone
+Porto Civitanova
+Potenza
+Prato
+Prato Allo Stelv
+Rapallo
+Ravenna
+Reggio Calabria
+Reggio Di Calabr
+Reggio nell'Emilia
+Riccia
+Rieti
+Rimini
+Rivoli
+Rome
+Rovigo
+Salerno
+San Marco Dei Ca
+San Marino
+San Remo
+Santa Caterina
+Sardegna
+Sassari
+Savona
+Siena
+Sorrento
+Spezzano
+Spoleto
+Syrakus
+Taranto
+Teramo
+Termoli
+Terni
+Terracina
+Tirano
+Tivoli
+Torre del Greco
+Trapani
+Trento
+Treviso
+Trieste
+Turin
+Udine
+Urbania
+Varese
+Varese Ligure
+Vasto
+Vatican City
+Venaria
+Venice
+Ventimiglia
+Verona
+Vibo Valentia
+Vicenza
+Villa Santina
+Viterbo
+Vitoria Veneto

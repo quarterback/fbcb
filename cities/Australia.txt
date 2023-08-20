@@ -1,0 +1,30 @@
+Adelaide
+Albany
+Alice Springs
+Bourke
+Brisbane
+Broken Hill
+Bundaberg
+Cairns
+Canberra
+Charleville
+Cloncurry
+Cooktown
+Coolgardie
+Darwin
+Derby
+Fremantle
+Geraldton
+Gold Coast
+Hobart
+Ivanhoe
+Mackay
+Maitland
+Melbourne
+Perth
+Port Augusta
+Rockhampton
+Sydney
+Townsville
+Wentworth
+Wyndham

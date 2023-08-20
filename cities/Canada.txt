@@ -1,0 +1,615 @@
+Abbotsford
+Agassiz
+Ahousat
+Airdrie
+Ajax
+Albertville
+Amherst
+Amherstburg
+Anzac
+Arborg
+Argentia
+Ascot Corner
+Ashville
+Atikokan
+Aylesford
+Aylmer
+Baden
+Badger
+Bagotville
+Baie-Comeau
+Baie-Saint-Paul
+Baker Lake
+Bala
+Banff
+Barachois
+Barrie
+Bayfield
+Beamsville
+Beauport
+Beausejour
+Beaver Cove
+Becancour
+Bedford
+Belcourt
+Belleville
+Belmont
+Big Brook
+Big Trout Lake
+Birch Hills
+Birken
+Blanc Sablon
+Bloedel
+Bonavista
+Boucherville
+Bowmanville
+Bracebridge
+Brampton
+Brandon
+Brantford
+Brighton
+Broadview
+Bromptonville
+Bruce Mines
+Buffalo Narrows
+Burgeo
+Burin
+Burlington
+Burnaby
+Bylot
+Cacouna
+Calgary
+Callander
+Cambridge
+Campbell River
+Campbellton
+Canmore
+Cap Chat
+Cap-de-la-Madeleine
+Cap-des-Rosiers
+Cape Dorset
+Carcross
+Caronport
+Carp
+Cartwright
+Castlegar
+Castor
+Chambord
+Champagne
+Chapais
+Charlesbourg
+Charlie Lake
+Charlottetown
+Chatham
+Chibougamau
+Chicoutimi
+Chilliwack
+Churchill
+Churchill Falls
+Chute-aux-Outardes
+Clairmont
+Clarke City
+Clinton
+Coal Harbour
+Coaldale
+Cobden
+Cochrane
+Codroy
+Colborne
+Cold Lake
+Collingwood
+Collins Bay
+Comox
+Coniston
+Copper Cliff
+Copper Creek
+Coral Harbour
+Cormorant
+Corner Brook
+Coronation
+Courtenay
+Courtright
+Cranberry Portage
+Cranbrook
+Cumberland
+Cut Knife
+Dafoe
+Dalhousie
+Dartmouth
+Dauphin
+Dawson
+Dawson Creek
+Debert
+Deer Lake
+Delhi
+Denfield
+Denholm
+Deroche
+Devon
+Dieppe
+Digges
+Dominion
+Douglastown
+Dundas
+Dunmore
+Earlton
+East Point
+Eastend Cypress
+Echo Bay
+Edmonton
+Edmundston
+Edson
+Elliot Lake
+Elmsdale
+Enderby
+Esquimalt
+Essex
+Estevan
+Estevan Point
+Ethelbert
+Etobicoke
+Fairmont Hot Springs
+Falconbridge
+Fiske
+Flaxcombe
+Flin Flon
+Floral
+Fort Chipewyan
+Fort Erie
+Fort Frances
+Fort MacKay
+Fort McMurray
+Fort Nelson
+Fort Reliance
+Fort Saint John
+Fort Saskatchewan
+Fort Simpson
+Fort Smith
+Fort Steele
+Fredericton
+Freshford
+Gambo
+Gananoque
+Gander
+Garibaldi
+Gaspe
+Gatineau
+Geraldton
+Gillam
+Gimli
+Glace Bay
+Glenwood
+Godbout
+Goderich
+Godreau
+Golden
+Goose Bay
+Gore Bay
+Gracefield
+Grand Bay
+Grand Centre
+Grand Coulee
+Grand Falls
+Grand View
+Grande Prairie
+Gravenhurst
+Greenwood
+Grimsby
+Grindrod
+Grosse Isle
+Guelph
+Hague
+Halifax
+Hamilton
+Hampden
+Hampton
+Hanna
+Hare Bay
+Hawk Junction
+Hawk Lake
+Hay River
+Hebron
+High Level
+Hope
+Howley
+Hudson Bay
+Hull
+Ignace
+Iles-de-la-Madeleine
+Ilford
+Ingersoll
+Innisfail
+Inukjuak
+Invermere
+Iqaluit
+Irvine
+Island Lake
+Isle aux Morts
+Jasper
+Jellicoe
+Joliette
+Jonquiere
+Kakabeka Falls
+Kakawis
+Kamloops
+Kanata
+Kapuskasing
+Keene
+Keewatin
+Kelowna
+Kemnay
+Kenora
+Kentville
+Keswick
+Kildonan
+Kimberley
+Kincardine
+Kindakun Rocks
+Kindersley
+Kingston
+Kinuso
+Kitchener
+Kitscoty
+Kuujjuaq
+Kuujjuarapik
+La Baie
+La Corey
+La Grande
+La Malbaie
+La Ronge
+La Salle
+Labrador City
+Lac La Biche
+Lac St. Pierre
+Lachine
+Lacombe
+Lake Louise
+Lakefield
+Lamaline
+Langara
+Langham
+Lansdowne House
+Lashburn
+Laval
+Lawn
+Lennoxville
+Lethbridge
+Levis
+Lions Head
+L'Isle-Verte
+Lively
+Lloydminister
+Lloydminster
+Lochalsh
+Loggieville
+Lomond
+London
+Longlac
+Longueuil
+Loretteville
+Lucan
+Luceville
+Lumsden
+Lund
+Lynn Lake
+Lytton
+MacAlister
+MacCan
+MacDowall
+MacKenzie
+Magog
+Magrath
+Maitland
+Malartic
+Malton
+Maniwaki
+Markham
+Marlboro
+Mary's Harbour
+Marysville
+Massey
+Matagami
+Matane
+Matapedia
+Mattice
+McGregor
+Meadow Lake
+Meaford
+Medicine Hat
+Melita
+Memramcook
+Merville
+Messines
+Midale
+Middleton
+Midhurst
+Milton
+Minaki
+Mine Centre
+Minnedosa
+Miramichi
+Miscou Island
+Mission
+Mississauga
+Moisie
+Moncton
+Monte Creek
+Mont-Joli
+Mont-Laurier
+Montreal
+Moonbeam
+Mooretown
+Moose Factory
+Moose Jaw
+Moose Lake
+Moose River
+Moosonee
+Morinville
+Mount Pearl
+Mount Stewart
+Mud River
+Nanaimo
+Nanticoke
+Natashquan
+Nelson
+Nelson House
+New Waterford
+New Westminster
+Newcastle
+Nezah
+Niagara Falls
+Nicolet
+Nipigon
+Nobel
+North Battleford
+North Bay
+North Sydney
+North Vancouver
+North West River
+North York
+Norway House
+Oak Bay
+Oakville
+Okanagan Landing
+Okotoks
+Oliver
+Omemee
+Opasatika
+Orillia
+Oromocto
+Oshawa
+Ottawa
+Outremont
+Owen Sound
+Oyama
+Parksville
+Parry Sound
+Parson
+Pasqua
+Peace River
+Peachland
+Peers
+Pemberton
+Pembroke
+Penticton
+Petawawa
+Peterborough
+Pickering
+Pilot Butte
+Point Edward
+Pointe-Lebel
+Port Alberni
+Port Colborne
+Port Coquitlam
+Port Dover
+Port Edward
+Port Essington
+Port Hardy
+Port McNeill
+Port Moody
+Port Simpson
+Port Weller
+Port-aux-Basques
+Port-Cartier
+Pouch Cove
+Powassan
+Powell River
+Preston
+Price
+Prince
+Prince Albert
+Prince George
+Prince Rupert
+Prospector
+Puntzi Mountain
+Qualicum Beach
+Quebec
+Queen Charlotte
+Quinsam
+Radisson
+Radium Hot Springs
+Rae
+Raleigh
+Rankin Inlet
+Raymond
+Read Island
+Red Deer
+Red Lake
+Red Rock
+Redcliff
+Regina
+Revelstoke
+Rhein
+Richmond
+Richmond Hill
+Rimouski
+Riverton
+Riviere-a-Claude
+Riviere-du-Loup
+Roberval
+Rockglen
+Rolla
+Rose Blanche
+Rosetown
+Rosetown East
+Rossland
+Rothesay
+Saanich
+Sable Island
+Sackville
+Saint Albert
+Saint Anthony
+Saint Catharines
+Saint Eleanors
+Saint John
+Saint Lawrence
+Saint Leonard
+Saint Louis
+Saint Marys
+Sainte-Catherine
+Sainte-Felicite
+Sainte-Foy
+Saint-Eustache
+Saint-Felicien
+Saint-Hubert
+Saint-Irenee
+Saint-Jacques
+Saint-Jovite
+Saint-Prime
+Saint-Simeon
+Salmon Arm
+Salmon Valley
+Saltcoats
+Sandspit
+Sarnia
+Saskatoon
+Sault Sainte Marie
+Savona
+Scarborough
+Schefferville
+Schumacher
+Selkirk
+Sept-Iles
+Sevenpersons
+Sexsmith
+Shawanga
+Shearwater
+Shediac
+Sherbrooke
+Sidney
+Sillery
+Simcoe
+Sioux Lookout
+Sipiwesk
+Skidegate
+Slave Lake
+Smithers
+Snake River
+Soda Creek
+Sorel
+Sorrento
+Souris
+South Porcupine
+Spanish
+Spragge
+Springhill
+Spruce Grove
+Spurfield
+Squamish Airport
+St. John's
+St. Stephen
+Stanley Mission
+Stayner
+Stephenville
+Stillwater
+Stonewall
+Stoney Creek
+Stony Plain
+Strathroy
+Sturgeon Falls
+Sudbury
+Summerland
+Summerside
+Surrey
+Swan River
+Swift Current
+Sydney
+Sydney Mines
+Sylvan Lake
+Taber
+Taylor
+Tecumseh
+Terrace
+The Pas
+Thompson
+Thornbury
+Thorold
+Thunder Bay
+Tidehead
+Tillsonburg
+Timmins
+Tofino
+Torbay
+Toronto
+Torquay
+Tracy
+Trail
+Trenton
+Trois-Rivieres
+Truro
+Tusket
+Tuxford
+Tyrone
+Ucluelet
+Upsala
+Uranium City
+Usk
+Val Marie Southeast
+Val-d'Or
+Vananda
+Vancouver
+Vassan
+Verdun
+Vermilion
+Veteran
+Victoria
+Virden
+Waasis
+Wabush
+Walcott
+Waldeck
+Waltham Station
+Warman
+Wasagaming
+Waskaganish
+Waterloo
+Watson Lake
+Wawa
+Webb
+Wedgeport
+Welland
+Wembley
+Western Head
+Weyburn
+Whistler
+Whitby
+Whitehorse
+Wiarton
+Williams Lake
+Willow River
+Willowbrook
+Windermere
+Windsor
+Winnipeg
+Wishart
+Witless Bay
+Wolfe Island
+Woodbridge
+Woodstock
+Wymark
+Wynyard
+Yale
+Yarmouth
+Yellowknife
+Yorkton
+Zehner
