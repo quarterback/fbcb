@@ -8,3 +8,5 @@ Over the years of playing this game, I've created lots of different mods, mostly
 Lots of league structures that are not realistic and my way of getting around creating logos for all of the teams in foreign leagues where I don't want to deal with logo tedium is generating one logo for the entire league and using it for all the teams because it doesn't matter to me that much. 
 
 All in all, keeping finances leveled across the game will work and if you run into errors on the last day of FA before going into training camp, make sure you save on Day 30 and then turn off finances briefly and it should let you advance. It'll mean guys will sign just anywhere, but it's better than losing your whole league. 
+
+There might be some stray files for Football Manager, OOTP or Basketball GM in this repo too, I just use it for myself, but feel free to use what you want here. 
