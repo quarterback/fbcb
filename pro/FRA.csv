@@ -1,0 +1,15 @@
+LeagueName,Abbreviation,HostNation,Region,Team Locations,Prestige,Conf#,C1,C2,Div#,D1,D2,D3,D4,D5,D6,ScheduleGames,PlayoffTeams,Round1,Round2,Round3,Round4,3pShot,MaxFouls,ShotClock,Quarters,QuarterLength,OtLength,SalaryCap,LuxuryCap,MLE,LLE,ResignLength,FaLength,ResignRaise,FaRaise,WaiverLength,RookieDraft,DraftLottery,ExpansionDraft,ExpansionLottery,DispersalDraft,AllowTrades,TradeDeadline,RevenueSharing
+Five Nations League,FNL,France,3,0,3,1,,,1,,,,,,,34,8,3,5,5,5,1,5,24,4,10,5,8000000,15000000,0,0,2,2,75,50,0,0,0,0,0,0,0,122,0
+CityName,NickName,Abbreviation,Logo,Division,TeamColor,City,State,Marketsize,ArenaName,Capacity,ClubSeats,LuxurySuites,Opened,NewCity,NewState,NewMarketsize,NewArena,NewCapacity,NewSuites,NewClub,Opens,DLG,,,,,,,,,,,,,,,,,,,,,,
+Paris,Eiffels,France,fivenations,1,#528ECA,Madrid,Spain,2,City Arena,15000,0,0,2005,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Lyon,Lions,MAN,fivenations,1,#FE1D01,Manresa,Spain,5,City Arena,15000,0,0,1995,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Marseille,Navigators,MAR,fivenations,1,#40216D,Valladolid,Spain,4,City Arena,15000,0,0,1996,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Bordeaux,Wine Kings,BOR,fivenations,1,#C73536,Santiago de Compostela,Spain,5,City Arena,15000,0,0,1998,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Toulouse,Occitan Stars,TOU,fivenations,1,#D7212D,Zaragoza,Spain,2,City Arena,15000,0,0,1977,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Luxembourg,Dukes,LUX,fivenations,1,#003153,Vitoria-Gasteiz,Spain,3,City Arena,15000,0,0,1991,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Monaco,Royals,MON,fivenations,1,#CA1F7B,Sevilla,Spain,2,City Arena,15000,0,0,1988,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Brussels,Atomiums,BRU,fivenations,1,#000000,San Cristóbal de La Lagun,Spain,4,City Arena,15000,0,0,1999,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Amsterdam,Canal Warriors,AMS,fivenations,1,#004D98,Barcelona,Spain,2,City Arena,15000,0,0,1971,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Rotterdam,Harbor Masters,ROT,fivenations,1,#008040,Badalona,Spain,3,City Arena,15000,0,0,1990,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Hague,Diplomats,HAG,fivenations,1,#004C7E,Las Palmas,Spain,3,City Arena,15000,0,0,1988,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Utrecht,Tower Guards,UTR,fivenations,1,#0000FF,San Sebastián,Spain,4,City Arena,15000,0,0,1999,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,

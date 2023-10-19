@@ -1,0 +1,15 @@
+LeagueName,Abbreviation,HostNation,Region,Team Locations,Prestige,Conf#,C1,C2,Div#,D1,D2,D3,D4,D5,D6,ScheduleGames,PlayoffTeams,Round1,Round2,Round3,Round4,3pShot,MaxFouls,ShotClock,Quarters,QuarterLength,OtLength,SalaryCap,LuxuryCap,MLE,LLE,ResignLength,FaLength,ResignRaise,FaRaise,WaiverLength,RookieDraft,DraftLottery,ExpansionDraft,ExpansionLottery,DispersalDraft,AllowTrades,TradeDeadline,RevenueSharing
+Egyptian League,EBL,Egypt,4,0,2,1,,,1,,,,,,,48,2,0,0,0,7,1,6,24,2,20,3,325000,0,0,0,2,2,25,50,2,0,0,0,0,0,0,122,0
+CityName,NickName,Abbreviation,Logo,Division,TeamColor,City,State,Marketsize,ArenaName,Capacity,ClubSeats,LuxurySuites,Opened,NewCity,NewState,NewMarketsize,NewArena,NewCapacity,NewSuites,NewClub,Opens,DLG,,,,,,,,,,,,,,,,,,,,,,
+Cairo,Pharaohs,CAI,egypt,1,#F20000,Cairo,Egypt,3,Peace and Friendship,1700,0,0,1985,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Alexandria,Mediterraneans,ALX,egypt,1,#008040,Cairo,Egypt,2,Olympic Indoor Hall,1700,0,0,1995,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Giza,Pyramids,GZA,egypt,1,#0062C4,Cairo,Egypt,4,Venetoklio Indoor Ha,1700,0,0,1996,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Luxor,Temples,LUX,egypt,1,#002288,Cairo,Egypt,5,Rethymno Indoor Hall,1700,0,0,1998,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Port Said,Harbor Kings,PAN,egypt,1,#262078,Cairo,Egypt,4,Glyfada Indoor Hall,1700,0,0,1970,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Tanta,Delta Warriors,TAN,egypt,1,#0000FF,Cairo,Egypt,5,Kalamitsa Sports Cen,1700,0,0,1991,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Mansoura,Nile Guardians,MAN,egypt,1,#000000,Cairo,Egypt,4,Alexandrio Melathron,1700,0,0,2004,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Suez Canal,Titans,SUZ,egypt,1,#000000,Cairo,Egypt,3,P.A.O.K. Sports Aren,1700,0,0,2000,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Aswan,Desert Hawks,ASW,egypt,1,#008040,Cairo,Egypt,5,Drama Indoor Hall,1700,0,0,1994,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Fayoum,Oasis Lions,FAY,egypt,1,#000040,Cairo,Egypt,4,Glyfada Indoor Hall,1700,0,0,1970,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Ismailia,Canaanites,ISM,egypt,1,#000000,Cairo,Egypt,5,Illissia Indoor Hall,1700,0,0,1998,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Hurghada,Red Sea Sharks,HUR,egypt,1,#0000FF,Cairo,Egypt,4,Peristeri Arena,1700,0,0,1989,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,

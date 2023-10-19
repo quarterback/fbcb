@@ -1,0 +1,12 @@
+LeagueName,Abbreviation,HostNation,Region,Team Locations,Prestige,Conf#,C1,C2,Div#,D1,D2,D3,D4,D5,D6,ScheduleGames,PlayoffTeams,Round1,Round2,Round3,Round4,3pShot,MaxFouls,ShotClock,Quarters,QuarterLength,OtLength,SalaryCap,LuxuryCap,MLE,LLE,ResignLength,FaLength,ResignRaise,FaRaise,WaiverLength,RookieDraft,DraftLottery,ExpansionDraft,ExpansionLottery,DispersalDraft,AllowTrades,TradeDeadline,RevenueSharing
+JLeague1,J1L,Japan,5,0,1,1,,,1,,,,,,,48,2,0,0,0,7,1,6,24,2,20,3,117000,0,0,0,2,2,25,50,2,0,0,0,0,0,0,122,0
+CityName,NickName,Abbreviation,Logo,Division,TeamColor,City,State,Marketsize,ArenaName,Capacity,ClubSeats,LuxurySuites,Opened,NewCity,NewState,NewMarketsize,NewArena,NewCapacity,NewSuites,NewClub,Opens,DLG,,,,,,,,,,,,,,,,,,,,,,
+Akiyama,Titans,AKI,japan1,1,#F20000,Tokyo,Japan,3,Peace and Friendship,2000,0,0,1985,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Kazuya,Dragons,KAZ,japan1,1,#008040,Osaka,Japan,2,Olympic Indoor Hall,2000,0,0,1995,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Ryotaro,Warriors,RYO,japan1,1,#0062C4,Tokyo,Japan,4,Venetoklio Indoor Ha,2000,0,0,1996,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Satoshi,Phoenix,SAT,japan1,1,#002288,Osaka,Japan,5,Rethymno Indoor Hall,2000,0,0,1998,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Kenta,Blizzards,KEN,japan1,1,#262078,Tokyo,Japan,4,Glyfada Indoor Hall,2000,0,0,1970,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Hiroshi,Shoguns,HIR,japan1,1,#0000FF,Osaka,Japan,5,Kalamitsa Sports Cen,2000,0,0,1991,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Takashi,Emperors,TAK,japan1,1,#000000,Tokyo,Japan,4,Alexandrio Melathron,2000,0,0,2004,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Kenji,Ninjas,KEN,japan1,1,#000000,Osaka,Japan,3,P.A.O.K. Sports Aren,2000,0,0,2000,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Yusuke,Thunder,YUS,japan1,1,#000000,Osaka,Japan,3,P.A.O.K. Sports Aren,2000,0,0,2000,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,

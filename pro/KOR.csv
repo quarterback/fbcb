@@ -1,0 +1,15 @@
+LeagueName,Abbreviation,HostNation,Region,Team Locations,Prestige,Conf#,C1,C2,Div#,D1,D2,D3,D4,D5,D6,ScheduleGames,PlayoffTeams,Round1,Round2,Round3,Round4,3pShot,MaxFouls,ShotClock,Quarters,QuarterLength,OtLength,SalaryCap,LuxuryCap,MLE,LLE,ResignLength,FaLength,ResignRaise,FaRaise,WaiverLength,RookieDraft,DraftLottery,ExpansionDraft,ExpansionLottery,DispersalDraft,AllowTrades,TradeDeadline,RevenueSharing
+Korean League,KBL,South Korea,5,0,1,1,,,1,,,,,,,24,8,3,5,5,5,1,5,24,4,10,5,25000,30000,0,0,2,2,25,50,0,0,0,0,0,0,0,122,1
+CityName,NickName,Abbreviation,Logo,Division,TeamColor,City,State,Marketsize,ArenaName,Capacity,ClubSeats,LuxurySuites,Opened,NewCity,NewState,NewMarketsize,NewArena,NewCapacity,NewSuites,NewClub,Opens,DLG,,,,,,,,,,,,,,,,,,,,,,
+Seoul,Tigers,SEO,korea,1,#F20000,Seoul,South Korea,1,Arena Korea,2100,0,0,1985,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Busan,Sharks,BUS,korea,1,#008040,Seoul,South Korea,1,Arena Korea,2100,0,0,1985,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Daegu,Dragons,DAE,korea,1,#0062C4,Seoul,South Korea,1,Arena Korea,2100,0,0,1985,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Incheon,Waves,INC,korea,1,#002288,Seoul,South Korea,1,Arena Korea,2100,0,0,1985,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Gwangju,Lions,GWA,korea,1,#262078,Seoul,South Korea,1,Arena Korea,2100,0,0,1985,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Daejeon,Thunder,JEO,korea,1,#0000FF,Seoul,South Korea,1,Arena Korea,2100,0,0,1985,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Ulsan,Whales,ULS,korea,1,#000000,Seoul,South Korea,1,Arena Korea,2100,0,0,1985,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Jeonju,Wizards,JEO,korea,1,#000000,Seoul,South Korea,1,Arena Korea,2100,0,0,1985,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Jeju,Islanders,JEJ,korea,1,#008040,Seoul,South Korea,1,Arena Korea,2100,0,0,1985,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Changwon,Gunners,CHG,korea,1,#000040,Seoul,South Korea,1,Arena Korea,2100,0,0,1985,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Suwon,Fortresses,SUW,korea,1,#000000,Seoul,South Korea,1,Arena Korea,2100,0,0,1985,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+Yongin,Foxes,YON,korea,1,#0000FF,Seoul,South Korea,1,Arena Korea,2100,0,0,1985,,,1,,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
