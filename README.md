@@ -1,12 +1,32 @@
-# Fast Break College Basketball mods
+# Text-Based Game Mods
 
+I'm housing most of my mods here for Fast Break College Basktball, Fast Break Pro Basketball 3, Out of the Park Baseball & the various suite of games from GM Games.
 
-This report is a bunch of mods for [Fast Break College Basketball](http://greydogsoftware.com/fast-break-college-basketball). released in 2010 by Grey Dog Software and designed by Brian Nichols.
+## How to Use These Mods
 
-Over the years of playing this game, I've created lots of different mods, mostly updated college alignments and lately a lot of pro name files because it's easier to do than ever. 
+1. Download the desired mod file.
+2. Place it in the appropriate folder in your game directory.
+3. Follow any specific instructions included with the mod.
 
-Lots of league structures that are not realistic and my way of getting around creating logos for all of the teams in foreign leagues where I don't want to deal with logo tedium is generating one logo for the entire league and using it for all the teams because it doesn't matter to me that much. 
+## Mod List
 
-All in all, keeping finances leveled across the game will work and if you run into errors on the last day of FA before going into training camp, make sure you save on Day 30 and then turn off finances briefly and it should let you advance. It'll mean guys will sign just anywhere, but it's better than losing your whole league. 
+Below is a list of available mods. Click on a mod's name to download the corresponding JSON file.
 
-There might be some stray files for Football Manager, OOTP or Basketball GM in this repo too, I just use it for myself, but feel free to use what you want here. 
+### Character Mods
+
+- [Enhanced Character Stats](link-to-enhanced-character-stats.json) - Description of what this mod does.
+- [New Character Classes](link-to-new-character-classes.json) - Brief description.
+
+### Gameplay Mods
+
+- [Extended Quest Lines](link-to-extended-quest-lines.json) - Description of the extended quests.
+- [New Items and Equipment](link-to-new-items-and-equipment.json) - Overview of new items.
+
+### Environment Mods
+
+- [Dynamic Weather System](link-to-dynamic-weather-system.json) - Description of the weather system mod.
+- [Customizable Maps](link-to-customizable-maps.json) - Brief description of map customization.
+
+## Contributing
+
+Interested in contributing to this collection? You can submit a PR for that specific file or link me to yours and I'll send people elsewhere, I just want good quality mods!
