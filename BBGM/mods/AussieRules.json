@@ -1,0 +1,568 @@
+{
+  "version": 53,
+  "meta": {
+    "name": "AIHA"
+  },
+  "teams": [
+    {
+      "tid": 0,
+      "abbrev": "ADEL",
+      "region": "Adelaide",
+      "name": "Crows",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Adelaide_Crows_logo_2010.svg/400px-Adelaide_Crows_logo_2010.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Adelaide_Club_symbol.svg/1920px-Adelaide_Club_symbol.svg.png",
+      "colors": [
+        "#0c2659",
+        "#d1313b",
+        "#f8d547"
+      ],
+      "jersey": "hockey",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.5461090299058553,
+      "stadiumCapacity": 53583,
+      "disabled": false
+    },
+    {
+      "tid": 1,
+      "abbrev": "BRIS",
+      "region": "Brisbane",
+      "name": "Lions",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Brisbane_Lions_logo_2010.svg/360px-Brisbane_Lions_logo_2010.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Brisbanelions_fc_icon.png",
+      "colors": [
+        "#802640",
+        "#283174",
+        "#ebb956"
+      ],
+      "jersey": "hockey",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.5138138860342406,
+      "stadiumCapacity": 42000,
+      "disabled": false
+    },
+    {
+      "tid": 2,
+      "abbrev": "CARL",
+      "region": "Carlton",
+      "name": "Blues",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Carlton_FC_Logo_2020.svg/300px-Carlton_FC_Logo_2020.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Carlton_2018_AFL.png",
+      "colors": [
+        "#08182f",
+        "#ffffff",
+        "#0c182e"
+      ],
+      "jersey": "hockey2",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.8212363083242102,
+      "stadiumCapacity": 100024,
+      "disabled": false
+    },
+    {
+      "tid": 3,
+      "abbrev": "COLL",
+      "region": "Collingwood",
+      "name": "Magpies",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Collingwood_Football_Club_Logo_%282017%E2%80%93present%29.svg/298px-Collingwood_Football_Club_Logo_%282017%E2%80%93present%29.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Collingwood_icon.svg/1920px-Collingwood_icon.svg.png",
+      "colors": [
+        "#000000",
+        "#ffffff",
+        "#ffffff"
+      ],
+      "jersey": "hockey4",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.7447366059146229,
+      "stadiumCapacity": 100024,
+      "disabled": false
+    },
+    {
+      "tid": 4,
+      "abbrev": "ESS",
+      "region": "Essendon",
+      "name": "Bombers",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Essendon_FC_logo.svg/340px-Essendon_FC_logo.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/EssendonDesign.svg/1920px-EssendonDesign.svg.png",
+      "colors": [
+        "#000000",
+        "#e24e3b",
+        "#d15944"
+      ],
+      "jersey": "hockey4",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.6578741001020396,
+      "stadiumCapacity": 100024,
+      "disabled": false
+    },
+    {
+      "tid": 5,
+      "abbrev": "FREM",
+      "region": "Fremantle",
+      "name": "Dockers",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Fremantle_FC_logo.svg/400px-Fremantle_FC_logo.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Fremantle_Football_Club_colours.jpg",
+      "colors": [
+        "#2a1750",
+        "#feffff",
+        "#fffefd"
+      ],
+      "jersey": "hockey",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.6018944941151402,
+      "stadiumCapacity": 60000,
+      "disabled": false
+    },
+    {
+      "tid": 6,
+      "abbrev": "GEEL",
+      "region": "Geelong",
+      "name": "Cats",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Geelong_Cats_logo.svg/300px-Geelong_Cats_logo.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/5/58/AFL_Geelong_Icon.jpg",
+      "colors": [
+        "#00004f",
+        "#feffff",
+        "#feffff"
+      ],
+      "jersey": "hockey",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.6777963260846951,
+      "stadiumCapacity": 36000,
+      "disabled": false
+    },
+    {
+      "tid": 7,
+      "abbrev": "GC",
+      "region": "Gold Coast",
+      "name": "Suns",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Gold_Coast_Suns_AFL_Logo.svg/400px-Gold_Coast_Suns_AFL_Logo.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/3/37/Gold_Coast_Suns_2018.png",
+      "colors": [
+        "#ce3421",
+        "#fadf4b",
+        "#3478bd"
+      ],
+      "jersey": "hockey4",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.21799052373543637,
+      "stadiumCapacity": 25000,
+      "disabled": false
+    },
+    {
+      "tid": 8,
+      "abbrev": "GWS",
+      "region": "GWS",
+      "name": "Giants",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/GWS_Giants_logo.svg/300px-GWS_Giants_logo.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/7/79/AFL_GWS_Icon.jpg",
+      "colors": [
+        "#e9943e",
+        "#313131",
+        "#ffffff"
+      ],
+      "jersey": "hockey3",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.3787977489046428,
+      "stadiumCapacity": 25000,
+      "disabled": false
+    },
+    {
+      "tid": 9,
+      "abbrev": "HAW",
+      "region": "Hawthorn",
+      "name": "Hawks",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Hawthorn-football-club-brand.svg/340px-Hawthorn-football-club-brand.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/8/86/Hawthorn_Football_Club_colours.jpg",
+      "colors": [
+        "#f3c146",
+        "#47210a",
+        "#47230b"
+      ],
+      "jersey": "hockey",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.9097386882775133,
+      "stadiumCapacity": 100024,
+      "disabled": false
+    },
+    {
+      "tid": 10,
+      "abbrev": "MELB",
+      "region": "Melbourne",
+      "name": "Demons",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Melbournefc.svg/360px-Melbournefc.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/2/29/AFL_Melbourne_Icon.jpg",
+      "colors": [
+        "#010543",
+        "#da3731",
+        "#dd3731"
+      ],
+      "jersey": "hockey",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.6777663660142115,
+      "stadiumCapacity": 100024,
+      "disabled": false
+    },
+    {
+      "tid": 11,
+      "abbrev": "NM",
+      "region": "North Melbourne",
+      "name": "Kangaroos",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/North_Melbourne_FC_logo.svg/340px-North_Melbourne_FC_logo.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/7/7e/NMFC_AFL.png",
+      "colors": [
+        "#153b9a",
+        "#ffffff",
+        "#ffffff"
+      ],
+      "jersey": "hockey",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.4505556091904729,
+      "stadiumCapacity": 53359,
+      "disabled": false
+    },
+    {
+      "tid": 12,
+      "abbrev": "PA",
+      "region": "Port Adelaide",
+      "name": "Power",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Port_Adelaide_Football_Club_logo.svg/300px-Port_Adelaide_Football_Club_logo.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Portadelaidesymbol.png",
+      "colors": [
+        "#000000",
+        "#ffffff",
+        "#4da7c1"
+      ],
+      "jersey": "hockey4",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.5266486988788689,
+      "stadiumCapacity": 53583,
+      "disabled": false
+    },
+    {
+      "tid": 13,
+      "abbrev": "RICH",
+      "region": "Richmond",
+      "name": "Tigers",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Richmond_Tigers_logo.svg/360px-Richmond_Tigers_logo.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/5/5b/AFL_Richmond_Icon.jpg",
+      "colors": [
+        "#000000",
+        "#f7cc47",
+        "#f7cb46"
+      ],
+      "jersey": "hockey",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.9572360623230441,
+      "stadiumCapacity": 100024,
+      "disabled": false
+    },
+    {
+      "tid": 14,
+      "abbrev": "STK",
+      "region": "St. Kilda",
+      "name": "Saints",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/St_Kilda_FC_logo.svg/340px-St_Kilda_FC_logo.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/9/95/AFL_St_Kilda_Icon.jpg",
+      "colors": [
+        "#000000",
+        "#da3b28",
+        "#ffffff"
+      ],
+      "jersey": "hockey3",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.5034793147704498,
+      "stadiumCapacity": 53359,
+      "disabled": false
+    },
+    {
+      "tid": 15,
+      "abbrev": "SYD",
+      "region": "Sydney",
+      "name": "Swans",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Sydney_Swans_Logo_2020.svg/300px-Sydney_Swans_Logo_2020.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/b/bc/AFL_Sydney_Icon.jpg",
+      "colors": [
+        "#df3d21",
+        "#fefefe",
+        "#ffffff"
+      ],
+      "jersey": "hockey",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.7966184529276363,
+      "stadiumCapacity": 48000,
+      "disabled": false
+    },
+    {
+      "tid": 16,
+      "abbrev": "WCE",
+      "region": "West Coast",
+      "name": "Eagles",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/West_Coast_Eagles_logo_2017.svg/400px-West_Coast_Eagles_logo_2017.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/e/e9/West_Coast_Eagles_2018_colours.png",
+      "colors": [
+        "#102f82",
+        "#e7ac3b",
+        "#e7ac3b"
+      ],
+      "jersey": "hockey",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.9524474200234327,
+      "stadiumCapacity": 60000,
+      "disabled": false
+    },
+    {
+      "tid": 17,
+      "abbrev": "WB",
+      "region": "Western",
+      "name": "Bulldogs",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Western_Bulldogs_logo.svg/300px-Western_Bulldogs_logo.svg.png",
+      "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/7/73/Western_Bulldogs_AFLW_icon.png",
+      "colors": [
+        "#2e5298",
+        "#ad2331",
+        "#ffffff"
+      ],
+      "jersey": "hockey",
+      "cid": 0,
+      "did": 0,
+      "pop": 0.4598529851638239,
+      "stadiumCapacity": 53359,
+      "disabled": false
+    }
+  ],
+  "gameAttributes": {
+    "aiJerseyRetirement": true,
+    "aiTradesFactor": 1,
+    "allStarGame": null,
+    "allStarNum": 20,
+    "allStarType": "byConf",
+    "assistFactor": 0,
+    "autoDeleteOldBoxScores": true,
+    "blockFactor": 1,
+    "brotherRate": 0.02,
+    "budget": true,
+    "challengeFiredLuxuryTax": false,
+    "challengeFiredMissPlayoffs": false,
+    "challengeLoseBestPlayer": false,
+    "challengeNoDraftPicks": false,
+    "challengeNoFreeAgents": false,
+    "challengeNoRatings": false,
+    "challengeNoTrades": false,
+    "challengeThanosMode": false,
+    "confs": [
+      {
+        "cid": 0,
+        "name": "AIHA"
+      }
+    ],
+    "daysLeft": 30,
+    "defaultStadiumCapacity": 17500,
+    "deflectionFactor": 0,
+    "divs": [
+      {
+        "did": 0,
+        "cid": 0,
+        "name": "AIHA"
+      }
+    ],
+    "draftAges": [
+      18,
+      21
+    ],
+    "draftLotteryCustomChances": [
+      140,
+      140,
+      140,
+      125,
+      105,
+      90,
+      75,
+      60,
+      45,
+      30,
+      20,
+      15,
+      10,
+      5
+    ],
+    "draftLotteryCustomNumPicks": 4,
+    "draftPickAutoContract": true,
+    "draftPickAutoContractPercent": 10,
+    "draftPickAutoContractRounds": 2,
+    "draftType": "noLottery",
+    "equalizeRegions": false,
+    "expansionDraft": {
+      "phase": "setup"
+    },
+    "forceRetireAge": 0,
+    "gender": "male",
+    "giveMeWorstRoster": false,
+    "giveawayFactor": 3,
+    "groupScheduleSeries": false,
+    "heightFactor": 1,
+    "hideDisabledTeams": false,
+    "hitFactor": 1,
+    "hofFactor": 1.2,
+    "homeCourtAdvantage": 1,
+    "inflationAvg": 1,
+    "inflationMax": 2,
+    "inflationMin": 0,
+    "inflationStd": 0.5,
+    "injuryRate": 0.0001,
+    "luxuryPayroll": 15000,
+    "luxuryTax": 1.5,
+    "maxContract": 1500,
+    "maxContractLength": 7,
+    "maxRosterSize": 40,
+    "minContract": 100,
+    "minContractLength": 1,
+    "minPayroll": 12800,
+    "minRetireAge": 26,
+    "minRosterSize": 20,
+    "numDraftRounds": 7,
+    "numGames": 22,
+    "numGamesConf": null,
+    "numGamesDiv": null,
+    "numGamesPlayoffSeries": [
+      1,
+      1,
+      1
+    ],
+    "numPeriods": 4,
+    "numPlayoffByes": 0,
+    "numSeasonsFutureDraftPicks": 4,
+    "numWatchColors": 1,
+    "otl": false,
+    "pace": 0.95,
+    "playIn": false,
+    "playerBioInfo": {
+      "frequencies": {
+        "Australia": 1000,
+        "New Zealand": 33,
+        "Ireland": 33,
+        "USA": 33,
+        "Canada": 33,
+        "Papua New Guinea": 32,
+        "South Africa": 32,
+        "England": 32,
+        "Japan": 32,
+        "China": 21,
+        "India": 21,
+        "Samoa": 17,
+        "Denmark": 16,
+        "Sweden": 16,
+        "France": 16,
+        "Israel": 11,
+        "Pakistan": 10,
+        "Indonesia": 10,
+        "East Timor": 6,
+        "Spain": 6,
+        "Croatia": 5,
+        "Germany": 5
+      }
+    },
+    "playerMoodTraits": true,
+    "playersRefuseToNegotiate": true,
+    "playoffsByConf": true,
+    "playoffsNumTeamsDiv": 8,
+    "playoffsReseed": true,
+    "pointsFormula": "4*W+2*T",
+    "quarterLength": 20,
+    "rookieContractLengths": [
+      3
+    ],
+    "rookiesCanRefuse": true,
+    "salaryCap": 13500,
+    "salaryCapType": "hard",
+    "saveFactor": 0.7,
+    "softCapTradeSalaryMatch": 125,
+    "sonRate": 0.02,
+    "spectator": false,
+    "stopOnInjury": false,
+    "stopOnInjuryGames": 20,
+    "takeawayFactor": 3,
+    "tiebreakers": [
+      "headToHeadRecord",
+      "divWinner",
+      "divRecordIfSame",
+      "confRecordIfSame",
+      "marginOfVictory",
+      "coinFlip"
+    ],
+    "ties": true,
+    "tradeDeadline": 0,
+    "tragicDeathRate": 0.001,
+    "tragicDeaths": [
+      {
+        "reason": "SPECIAL_CLUE",
+        "frequency": 1
+      },
+      {
+        "reason": "SPECIAL_GIFTS",
+        "frequency": 1
+      },
+      {
+        "reason": "PLAYER_NAME died from a drug overdose.",
+        "frequency": 100
+      },
+      {
+        "reason": "PLAYER_NAME was killed by a gunshot during an altercation at a night club.",
+        "frequency": 30
+      },
+      {
+        "reason": "PLAYER_NAME died in a car crash.",
+        "frequency": 100
+      },
+      {
+        "reason": "PLAYER_NAME was stabbed to death by a jealous ex-girlfriend.",
+        "frequency": 10
+      },
+      {
+        "reason": "PLAYER_NAME committed suicide.",
+        "frequency": 100
+      },
+      {
+        "reason": "PLAYER_NAME was killed in a bar fight.",
+        "frequency": 30
+      },
+      {
+        "reason": "PLAYER_NAME died after falling out of PRONOUN_his 13th floor hotel room.",
+        "frequency": 5
+      },
+      {
+        "reason": "PLAYER_NAME suffered a heart attack in the team training facility and died.",
+        "frequency": 100
+      },
+      {
+        "reason": "PLAYER_NAME was lost at sea and is presumed dead.",
+        "frequency": 50
+      },
+      {
+        "reason": "PLAYER_NAME was run over by a car.",
+        "frequency": 50
+      },
+      {
+        "reason": "PLAYER_NAME has died after being struck by a puck during practice.",
+        "frequency": 30
+      }
+    ],
+    "weightFactor": 1
+  }
+}
