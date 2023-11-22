@@ -2,30 +2,16 @@
 
 I'm housing most of my mods here for Fast Break College Basktball, Fast Break Pro Basketball 3, Out of the Park Baseball & the various suite of games from GM Games.
 
-## How to Use These Mods
 
-1. Download the desired mod file.
-2. Place it in the appropriate folder in your game directory.
-3. Follow any specific instructions included with the mod.
+### GMGAMES
 
-## Mod List
+- [Floorball mod (Finnish & Swedish teams](https://raw.githubusercontent.com/quarterback/fbcb/master/BBGM/mods/floorball_updated.json) - Floorball mod for HockeyGM
+- [Arena Football Mod](https://github.com/quarterback/fbcb/blob/master/BBGM/FBGM_AFL_2023_regular_season_0-1.json) - Indoor football mod for FootballGM
+- [Women's Omnibus name file](https://github.com/quarterback/fbcb/blob/master/BBGM/womens_omnibus.json) - 100+ nations of female names collab w/ratpiece, can be used in any of the GMGames
+- [Aussie Rules Football League](https://github.com/quarterback/fbcb/blob/master/BBGM/mods/AussieRules.json) - Aussie Rules Football mod for HockeyGM
+- 
 
-Below is a list of available mods. Click on a mod's name to download the corresponding JSON file.
 
-### Character Mods
-
-- [Enhanced Character Stats](link-to-enhanced-character-stats.json) - Description of what this mod does.
-- [New Character Classes](link-to-new-character-classes.json) - Brief description.
-
-### Gameplay Mods
-
-- [Extended Quest Lines](link-to-extended-quest-lines.json) - Description of the extended quests.
-- [New Items and Equipment](link-to-new-items-and-equipment.json) - Overview of new items.
-
-### Environment Mods
-
-- [Dynamic Weather System](link-to-dynamic-weather-system.json) - Description of the weather system mod.
-- [Customizable Maps](link-to-customizable-maps.json) - Brief description of map customization.
 
 ## Contributing
 
