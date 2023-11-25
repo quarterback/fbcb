@@ -1,0 +1,112 @@
+name,frequency,games
+Sprained Ankle,350,1.15
+Patellar Tendinitis,350,2.32
+Strained Hamstring,813,1.47
+Strained Groin,794,1.2
+Sprained Knee,492,3.72
+Plantar Fasciitis,362,1.88
+Bruised Quadriceps,450,0.47
+Bruised Knee,500,0.72
+Sprained Finger,550,0.36
+Strained Calf,550,2.67
+Bruised Leg,227,0.46
+Bruised Hip,450,0.38
+Sprained Foot,207,1.39
+Achilles Tendinitis,204,1.7
+Sprained Thumb,196,1.38
+Sprained Wrist,181,1.57
+Lacerated Eyelid,172,0.1
+Sprained Shoulder,250,2.45
+Strained Neck,250,0.4
+Herniated Disc,110,6.52
+Bruised Rib,109,0.52
+Turf Toe,250,0.79
+Fractured Foot,106,6.82
+Strained Foot,102,0.99
+Torn Meniscus,102,8
+Strained Quadriceps,101,1.03
+Fractured Hand,100,4.9
+Fractured Tooth,90,3
+Rotator Cuff Tendinitis,300,1.13
+Strained Hip Flexor,287,1.13
+Elbow Tendinitis,84,0.81
+Dislocated Shoulder,190,0.28
+Concussion,1000,1
+Fractured Nose,73,0.42
+Bruised Elbow,72,0.3
+Strained Rotator Cuff,225,1.29
+Bruised Hand,369,0.15
+Sprained Elbow,64,0.64
+Bruised Eye,60,0.11
+Strained Abdomen,59,1.93
+Strained Shoulder,157,0.39
+Fractured Finger,300,1
+Strained Patellar Tendon,48,3.15
+Peroneal Tendinitis,45,2.45
+Fractured Thumb,150,2.76
+Torn ACL,47.5,33.33
+Fractured Ankle,67,12
+Torn Achilles Tendon,80,33.33
+Torn MCL,47.5,33.3
+Broken Collarbone,90,8
+Dislocated Knee,85,12.5
+Torn Pectoral Muscle,60,9.2
+Torn Biceps Tendon,55,10
+Shin Splints,320,0.9
+Fractured Wrist,95,5.6
+Fractured Tibia,40,15
+Torn Hip Labrum,50,12.2
+Pulled Groin,315,1.1
+Dislocated Finger,150,0.5
+Fractured Skull,20,20
+Torn Quad Muscle,70,7.1
+Torn Hamstring,110,6.5
+Pectoral Strain,105,2.8
+Bicep Strain,100,2.5
+Fractured Vertebrae,30,18
+Separated Shoulder,175,3.3
+Pulled Back Muscle,140,2.2
+Torn UCL (Elbow),25,25
+Knee Cartilage Tear,50,11
+Stress Fracture (Foot),60,10.5
+Hyperextended Knee,200,2
+Spinal Contusion,15,22
+Rib Fracture,110,4.7
+Vehicle Accident Injury,30,12
+Slip and Fall at Home,40,4
+Recreational Activity Injury,25,6
+Training Accident,35,3
+Suspension for Substance Abuse,5,4
+Suspension for Team Conduct Violation,10,2
+Legal Issue Related Absence,3,6
+Suspension for Performance Enhancing Drugs,4,8
+Suspension for Personal Conduct Policy Violation,8,5
+Suspension for Violating League Safety Protocols,6,3
+Social Media Related Controversy,12,1
+Personal Health Issue,20,10
+Family Emergency,15,4
+Mental Health Break,18,5
+Home Improvement Accident,20,3
+Outdoor Adventure Injury,18,7
+Suspension for Unauthorized Commercial Activity,5,2
+Travel-Related Injury,15,4
+Suspension for Social Event Misconduct,7,3
+Non-Sport Physical Altercation,9,6
+Suspension for Gambling Violation,4,10
+Suspension for Unprofessional Conduct,6,4
+Suspended for Dress Code Violation,3,1
+Injury from Personal Fitness Training,22,5
+Food Poisoning,25,1
+Suspension for Media Misconduct,5,2
+Suspended for Missing Mandatory Team Meeting,10,1
+Injury from Pet-Related Incident,12,2
+Suspension for Breaching Sponsorship Agreement,6,3
+Allergic Reaction,14,2
+Injury from Charity Event,8,3
+Suspension for Misuse of Social Media,11,2
+Suspended for Misconduct During Offseason,7,5
+Injury from Non-Professional Sports Activity,16,4
+Suspended for Public Disturbance,8,4
+Injury from a DIY Project,19,3
+Suspension for Inappropriate Fan Interaction,6,2
+Suspended for Violation of Team Curfew,9,1
